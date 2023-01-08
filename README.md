@@ -1,11 +1,21 @@
 
-# 2023 New Grad Applications :earth_americas:.**
+# 2023 New Grad Applications :earth_americas:
 
 The 2023 Full time grind has begun! Use this repo to share and keep track of any full time positions in Quant, Data Scientist, SWE, ML Engineer and PM.
 
-🧠 For tips on the recruiting process, check out:
-- [Zero to Offer](https://www.pittcs.wiki/zero-to-offer)
-- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- ### 🧠 Tech Interview Guide Quick Links
+    - [Zero to Offer](https://www.pittcs.wiki/zero-to-offer)
+    - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+    - [Best practice questions](https://www.techinterviewhandbook.org/coding-interview-study-plan/) for coding interviews
+    - [Grind 75](https://www.techinterviewhandbook.org/grind75) - the next evolution of Blind 75, bigger and better
+    - [How to prepare](https://www.techinterviewhandbook.org/coding-interview-prep/) for coding interviews
+    - [Coding interview best practices](https://www.techinterviewhandbook.org/coding-interview-cheatsheet/) - Straight-to-the-point Do's and Don'ts
+    - [Algorithm cheatsheets and tips](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) categorized by topic
+    - [Step-by-step Software Engineer resume guide](https://www.techinterviewhandbook.org/resume/) to prepare a FAANG-ready resume
+    - [Behavioral questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/) asked by the top tech companies
+    - [Front end interview preparation](https://www.frontendinterviewhandbook.com)
+    -[Tech Interview Guide](https://github.com/yangshun/tech-interview-handbook)
+
 
 **Contribute by making a pull request!**
 
