@@ -1,5 +1,5 @@
 
-# 2023 New Grad Applications :earth_americas:
+# 2023 New Grad Tech Positions :earth_americas:
 
 The 2023 Full time grind has begun! Use this repo to share and keep track of any full time positions in Quant, Data Scientist, SWE, ML Engineer and PM.
 
