@@ -5,27 +5,21 @@ The 2023 Full time grind has begun! Use this repo to share and keep track of any
 
 **Contribute by making a pull request!**
 
-## Resources
 
-Here are some resources Coder Quad recommends to prepare for OA's and technical interviews!
-
-#### Books
-
-- [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 
 ## The List
 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
 | [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions |
-| [~~Disney~~](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Software-Engineer-I_10021078) | Burbank, CA | Software Engineer I |
-| [~~VMware~~](https://careers.vmware.com/main/jobs/R2212905?lang=en-us) | Palo Alto, California; Atlanta, Georgia  | Launch New Grad SWE |
+| Disney | Burbank, CA | **Closed** Software Engineer I |
+| VMware | Palo Alto, California; Atlanta, Georgia  | **Closed** Launch New Grad SWE |
 | [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
 | [Sofi](https://www.sofi.com/careers/) | NYC; Seattle; SF; Murrah, UT; Remote;... | Several "New Grad, Software Engineer" roles in "Engineering". Some of them may need to start in Jan 23 / ASAP |
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
-| [~~Amazon~~](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us) | US | [New Grad SDE](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us), [New Grad Frontend](https://www.amazon.jobs/en/jobs/2141834/front-end-engineer-2023-us) |
-| [~~Sunshine~~](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4/apply) | Palo Alto, CA | SWE New Grad 2023 | 
+| Amazon | US | **Closed** New Grad SDE |
+| Sunshine | Palo Alto, CA | **Closed** SWE New Grad 2023 | 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [~~Raytheon Technologies~~](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
 | [~Cruise~](https://www.getcruise.com/careers/jobs/3851967/?department=University%20Opportunities%20%26%20Internships&search=software%20engineer) | San Francisco, CA | New Grad, Software Engineer, Developer Platform |
