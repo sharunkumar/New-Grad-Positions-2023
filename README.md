@@ -31,22 +31,22 @@ The 2023 Full time grind has begun! Use this repo to share and keep track of any
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
 | [Sofi](https://www.sofi.com/careers/) | NYC; Seattle; SF; Murrah, UT; Remote;... | Several "New Grad, Software Engineer" roles in "Engineering". Some of them may need to start in Jan 23 / ASAP |
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
-| Amazon | US | **Closed** New Grad SDE |
-| Sunshine | Palo Alto, CA | **Closed** SWE New Grad 2023 | 
+| Amazon | US | **🔒 Closed 🔒**  New Grad SDE |
+| Sunshine | Palo Alto, CA | **🔒 Closed 🔒**  SWE New Grad 2023 | 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
-| [~~Raytheon Technologies~~](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
-| [~Cruise~](https://www.getcruise.com/careers/jobs/3851967/?department=University%20Opportunities%20%26%20Internships&search=software%20engineer) | San Francisco, CA | New Grad, Software Engineer, Developer Platform |
+|Raytheon Technologies | Sterling, VA | **🔒 Closed 🔒** Software Engineer I, New Grad |
+| Cruise | San Francisco, CA | **🔒 Closed 🔒**  New Grad, Software Engineer, Developer Platform |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
-| [~~Applied Intuition~~](https://jobs.lever.co/applied/?team=New%20Grad) | Mountain View, CA | New Grad, Software Engineer |
+| Applied Intuition | Mountain View, CA | **🔒 Closed 🔒** New Grad, Software Engineer |
 | [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles |
-| [~~Indeed~~](https://university.indeed.jobs/university/jobs/39977?lang=en-us) | Remote | Associate Research Engineer |
-| [~~Capital One~~](https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-2023/31238/31914108720) | US | Technology Development Program Associate |
-| [~~Virtu Financial~~](https://www.virtu.com/careers/) | New York, NY | Entry-Level Software Engineer |
+| Indeed | Remote | **🔒 Closed 🔒**  Associate Research Engineer |
+| Capital One | US | **🔒 Closed 🔒**  Technology Development Program Associate |
+| Virtu Financial | New York, NY | **🔒 Closed 🔒** Entry-Level Software Engineer |
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | US | Software Engineer |
-| [~~Philadelphia Phillies~~](https://boards.greenhouse.io/philadelphiaphilliesrddepartment/jobs/5203393003?gh_src=99fc01a23us) | Philadelphia, PA | Software Engineer Associate (Spring/Summer 2023) |
-| [~~Caterpillar~~](https://careers.caterpillar.com/en/jobs/job/r0000140356-2023-associate-software-engineer-cat-digital/?source=LinkedIn) | Champaign, IL | Associate Software Engineer (Cat Digital) |
-| [~~Procter & Gamble~~](https://www.pgcareers.com/job/cincinnati/software-data-engineer-2023-grads/936/32401863136) | Cincinnati, OH | Software/Data Engineer 2023 Grads |
-| [~Optiver~](https://grnh.se/57f5e82c2us) | US |  [Austin](https://grnh.se/399a56ed2us). Quantitative trading for [Chicago](https://grnh.se/d3570d372us) and [Austin](https://grnh.se/7f269bd52us). Hardware engineer for [Chicago](https://grnh.se/c79a58512us) and [Austin](https://grnh.se/1490cbe32us). |
+| Philadelphia Phillies| Philadelphia, PA | **🔒 Closed 🔒**  Software Engineer Associate (Spring/Summer 2023) |
+| Caterpillar| Champaign, IL | **🔒 Closed 🔒** Associate Software Engineer (Cat Digital) |
+| Procter & Gamble | Cincinnati, OH | **🔒 Closed 🔒**  Software/Data Engineer 2023 Grads |
+| Optiver | US | **🔒 Closed 🔒** SWE and Quant  |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?location=United%20States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CCampusSoftware%22) | US | Software Engineer 2023 Grads |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn) | US multiple | [**No Visa Sponsorship**](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn#:~:text=Able%20to%20legally%20live%20and%20work%20in%20the%20country%20for%20which%20you%E2%80%99re%20applying%2C%20without%20visa%20support%20or%20sponsorship%C2%A0); Software Engineer I (Full Time) United States |
 | [~~Stytch~~](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | San Francisco, CA | New Grad, Software Engineer |
