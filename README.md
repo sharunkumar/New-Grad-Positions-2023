@@ -1,10 +1,13 @@
 
-# 2023 New Grad Applications
+# 2023 New Grad Applications :earth_americas:.**
 
 The 2023 Full time grind has begun! Use this repo to share and keep track of any full time positions in Quant, Data Scientist, SWE, ML Engineer and PM.
 
-**Contribute by making a pull request!**
+🧠 For tips on the recruiting process, check out:
+- [Zero to Offer](https://www.pittcs.wiki/zero-to-offer)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
+**Contribute by making a pull request!**
 
 
 ## The List
