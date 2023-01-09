@@ -19,9 +19,11 @@ Happy New Year! Use this repo to share and keep track of any full time positions
   - [Front end interview preparation](https://www.frontendinterviewhandbook.com)
 
 
+
 :warning: **This repository is only for full-time positions in the United States, Canada or for Remote positions :earth_americas:.**
 
 🙏 **Contribute to this project by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)!**
+
 
 
 ## The List
@@ -166,24 +168,24 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | Lam Research | Fremont, CA | **🔒 Closed 🔒** New College Graduate Software Engineer |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-for-Mixed-Signal-Simulation-and-Verification--New-College-Graduate-_R40004-1) | San Jose, CA | Software Engineer for Mixed-Signal Simulation and Verification (New College Graduate). [Software Engineer (New College Graduate)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Graduate-_R40844-1) |
 | PwC | Multiple Locations | **🔒 Closed 🔒** Software Engineer Associate Summer/Fall '23 |
-| [~PROS~](https://pros.wd5.myworkdayjobs.com/PROS_Careers/job/USA-Houston-Hybrid/XMLNAME-2023-University-Recruiting---Software-Engineer-I_R2428) | Houston, TX | 2023 University Recruiting - Software Engineer I |
-| [~~Qualtrics~~](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA) | [Seattle](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA), [Reston(VA)](https://www.qualtrics.com/careers/us/en/job/3559206/Software-Engineer-New-Grad-Reston-VA), [Provo(UT)](https://www.qualtrics.com/careers/us/en/job/180276/Software-Engineer-New-Grad-Provo-UT) | **No Visa Sponsorship** Software Engineer - New Grad |
-| [~~Fairmarkit~~](https://www.fairmarkit.com/careers?gh_jid=4653176004) | Remote | Software Engineer - 2023 New Grad | 
-| [~~WillowTree~~](https://boards.greenhouse.io/willowtree/jobs/6330270002) | Multiple | Backend Software Engineer - New Grad 2023. Will NOT sponsor work visas. Use the same application for all locations. |
-| [~~Hudl~~](https://boards.greenhouse.io/hudl/jobs/3187136) | Remote | Software Engineer - December & May Graduates |
-| [~Aon~](https://jobs.aon.com/jobs/58607) | NYC & more | Early Careers: Cyber Associate - Nationwide. Use the same application for all locations. |
+| PROS | Houston, TX | **🔒 Closed 🔒** 2023 University Recruiting - Software Engineer I |
+| Qualtrics | Multiple Locations | **🔒 Closed 🔒** Software Engineer - New Grad |
+| Fairmarkit | Remote | **🔒 Closed 🔒** Software Engineer - 2023 New Grad | 
+| WillowTree| Multiple | **🔒 Closed 🔒** Backend Software Engineer |
+| Hudl | Remote | **🔒 Closed 🔒** Software Engineer |
+| Aon | NYC & more | **🔒 Closed 🔒** Early Careers: Cyber Associate |
 | [Brex](https://www.brex.com/careers/6368437002) | Remote | Software Engineer, New Grad - c/o 2023 (Remote) |
 | [Atlassian](https://www.atlassian.com/company/careers/students) | Fully Remote, MTV | [SWE](https://www.atlassian.com/company/careers/detail/977df53a-539d-4b6c-9fbf-0167d8ffd83b), [Security](https://www.atlassian.com/company/careers/detail/c8c64071-c8be-402c-8ee7-147cfc2d5f93), [SRE](https://www.atlassian.com/company/careers/detail/3dd03324-aff9-4e59-b3c6-8516c530f868) - **Does not offer H1B sponsors for F1 visa holders** |
-| [~~Nike~~](https://jobs.nike.com/job/URSRCGTECHENGUD23) | Beaverton, Oregon | Software Engineer ([Undergraduate](https://jobs.nike.com/job/URSRCGTECHENGUD23), [Graduate with 1-3 years experience](https://jobs.nike.com/job/URSRCGTGD23)) |
+| Nike | Beaverton, Oregon | **🔒 Closed 🔒** Software Engineer |
 | Zoom | Remote; San Jose (CA) | [2023 Software Development Engineer - New Grad, US Remote](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--US/XMLNAME-2023-Software-Development-Engineer---New-Grad_R10542-1?source=linkedin);<br> [2023 Video Processing Software Engineer - New Grad, Master required, San Jose (CA)](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/XMLNAME-2023-Video-Processing-Software-Engineer---New-Grad_R10670);<br> [2023 Video Processing Algorithm Engineer - New Grad, San Jose (CA)](https://zoom.wd5.myworkdayjobs.com/Zoom/job/San-Jose-CA/XMLNAME-2023-Video-Processing-Algorithm-Engineer---New-Grad_R10671?source=linkedin);<br> [2023 DevOps Engineer - New Grad, **NO SPONSORSHIP**, US Remote](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--US/DevOps-Engineer_R10623-1?source=linkedin) |
 | [Nutanix](https://nutanix.eightfold.ai/careers?pid=13264357&domain=nutanix.com) | San Jose, CA (Hybrid) | Software Engineering - New Grad |
 | [Sentar](https://sentar.hrmdirect.com/employment/job-opening.php?req=2180283&&#job) | Huntsville, AL | **Need Active DoD Security Clearance at the SAP/SCI level or above**  Junior Software Developer |
 | [M&T Bank](https://mtb.wd5.myworkdayjobs.com/Campus/job/Technology-Development-Program_R39785) | Buffalo, NY | **No Visa Sponsorship** Technology Development Program | 
-| [~Zebra~](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343609669687) | Holtsville, New York | **No Visa Sponsorship** Software Engineer, I |
-| [~~Wells Fargo~~](https://www.wellsfargojobs.com/job/charlotte/2023-wells-fargo-technology-analyst-program-software-engineering/1251/35926657312) | Charlotte, NC | **No Visa Sponsorship** 2023 Wells Fargo Technology Analyst Program - Software Engineering |
+| Zebra| Holtsville, New York | **🔒 Closed 🔒** Software Engineer, I |
+| Wells Fargo | Charlotte, NC | **🔒 Closed 🔒** 2023 Wells Fargo Technology Analyst Program - Software Engineering |
 | [Citi](https://jobs.citi.com/job/new-york/icg-technology-full-time-analyst-software-development-new-york-city-north-america-2023/287/34889411712) | NYC, Tampa(FL), Jacksonville(FL), Dallas(TX), Mississauga(Canada) | **No Visa Sponsorship** ICG Technology, Full Time Analyst, Software Development (Check their website for more roles and more locations) |
 | [United Airlines](https://careers.united.com/job/16486849/associate-early-career-digital-leadership-program-campus-2023-hires-new-grads-chicago/) | Chicago,IL | **No Visa Sponsorship** Associate – Early Career Digital Leadership Program |
-| [~~American Airlines~~](https://jobs.aa.com/job/Dallas-Associate-Developer%2C-IT-Applications-ADEPT-TX-75201/931446100/) | DFW Airport, TX | Associate Developer, IT Applications ADEPT | 
+| American Airlines | DFW Airport, TX | **🔒 Closed 🔒** Associate Developer| 
 | [~Peraton~](https://careers.peraton.com/job-details/16618504/software-engineer-entry-level-blacksburg-va-blacksburg-va/?utm_medium=%22mcloud-jobads%22&utm_campaign=Engineering&utm_content=Software%20Engineer%20(Entry-level)-%20Blacksburg,%20VA&utm_term=2022-124881&utm_source=Indeed) | Blacksburg, VA | **U.S. Citizenship and the ability to obtain and maintain a security clearance** Software Engineer (Entry-Level) |
 | [~Pinterest~](https://www.pinterestcareers.com/job/16663907/university-grad-software-engineer-usa-remote/) | US Remote | [University Grad Software Engineer](https://www.pinterestcareers.com/job/16663907/university-grad-software-engineer-usa-remote/) (**No Visa Sponsorship**) <br/><br/>[University Grad Machine Learning Engineer](https://www.pinterestcareers.com/job/16663106/university-grad-machine-learning-engineer-2023-usa-remote/) (**Sponsorship available, Masters only**) |
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/4349409?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer, New Grad (2023) |
