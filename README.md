@@ -153,7 +153,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | Western Digital | Rochester, MN | **🔒 Closed 🔒** New College Grad Engineer, Software Engineering |
 | [Paramount](https://careers.viacomcbs.com/job/Los-Angeles-Software-Engineering-Development-Program-%28Start-Date-January-June-2023%29-CA-90069/930477600/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | Los Angeles, New York, San Francisco | Software Engineering Development Program (Start Date: January / June 2023)|
 | Datadog | NYC & more | **🔒 Closed 🔒** Software Engineer - Recent Grad |
-| [Flexport](https://boards.greenhouse.io/flexport) | Bellevue, Chicago, San Francisco | Search for "2023 New Grad" in the openings page. 4 Available: Full-Stack Software Engineer for [Masters](https://boards.greenhouse.io/flexport/jobs/3878424) and [Undergrad](https://boards.greenhouse.io/flexport/jobs/4499827); [Machine Learning Scientist](https://boards.greenhouse.io/flexport/jobs/4515031); [Applied Research Scientist (PhD)](https://boards.greenhouse.io/flexport/jobs/4515144) |
+| [Flexport](https://boards.greenhouse.io/flexport) | Bellevue, Chicago, San Francisco | Search for "2023 New Grad" in the openings page. 4 Available: Full-Stack Software Engineer for [Masters](https://boards.greenhouse.io/flexport/jobs/3878424) and [Undergrad](https://boards.greenhouse.io/flexport/jobs/4499827) |
 | AT&T | US | **🔒 Closed 🔒** SWE, DA, Network, and Technical Business Manager |
 | Merge | San Francisco, CA & New York City, NY | **🔒 Closed 🔒** New Grad 2023, Software Engineering |
 | [Visa](https://usa.visa.com/en_us/jobs/REF52473N) | Austin, TX | Software Engineer - Undergrad New College Grad - Multiple Locations - 2023 |
