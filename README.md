@@ -191,7 +191,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/4349409?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer, New Grad (2023) |
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
-| [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database | 
+| Singularity Data | Santa Clara| **🔒 Closed 🔒** Software Engineer (New Grad)-Cloud Database | 
 | New Relic,Inc | Remote | **🔒 Closed 🔒** Associate Software Engineer  | 
 | Singularity Data | Santa Clara| **🔒 Closed 🔒** Software Engineer (New Grad)-Cloud Database
 | Intuit | Mountain View, San Diego | **🔒 Closed 🔒** Software Engineer 1 |
