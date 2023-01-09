@@ -145,7 +145,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | IBM | NYC & more | **🔒 Closed 🔒** Entry Level Backend Developer: 2023 |
 | Anyscale | San Francisco, CA | **🔒 Closed 🔒** Software Engineer (New Grad) |
 | FactSet | NYC & more | **🔒 Closed 🔒** Software Engineer - Americas |
-| [Belvedere Trading](https://jobs.lever.co/belvederetrading/58aa92b6-6444-43b5-bd67-cb75219a80f0) | Chicago, IL | Software Engineer - Entry Level 2023 |
+| Belvedere Trading | Chicago, IL | **🔒 Closed 🔒** Software Engineer |
 | Ironclad | San Francisco, CA | **🔒 Closed 🔒** Software Engineer, New Grad |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2022-2023) | USA | Full-Time Analyst Program |
 | Western Digital | Rochester, MN | **🔒 Closed 🔒** New College Grad Engineer, Software Engineering |
