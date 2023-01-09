@@ -5,7 +5,6 @@ The 2023 Full time grind has begun! Use this repo to share and keep track of any
 
 ## 🧠 Tech Interview Guides</summary>
 
-- [Zero to Offer](https://www.pittcs.wiki/zero-to-offer)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
   - [Best practice questions](https://www.techinterviewhandbook.org/coding-interview-study-plan/) for coding interviews
   - [Grind 75](https://www.techinterviewhandbook.org/grind75) - the next evolution of Blind 75, bigger and better
