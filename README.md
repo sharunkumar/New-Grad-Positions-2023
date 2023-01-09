@@ -203,7 +203,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | Bentley| Multiple Positions | **🔒 Closed 🔒** Software Engineer Rotation Program - 2023 Graduates |
 | Twilio | Remote | **🔒 Closed 🔒** Software Engineer New Grad | 
 | SingleStore | San Francisco, Seattle, North Carolina (Raleigh)  | Software Engineer, Database Engine (University Graduate) |
-| [~~DoorDash~~](https://boards.greenhouse.io/doordash/jobs/4563590) | LOS ANGELES, CA; NEW YORK, NY; SAN FRANCISCO, CA; SEATTLE, WA; SOUTH BAY, CA; UNITED STATES - REMOTE | Software Engineer, Entry-Level 2022/23 |
+| DoorDash | Multiple | **🔒 Closed 🔒** Software Engineer, Entry-Level 2022/23 |
 | [Fidelity](https://jobs.fidelity.com/job-details/16491200/2022-2023-undergraduates-leap-full-stack-engineer/) | Durham, NH; Westlake, TX; Merrimack, NH; Smithfield, RI; and Boston, MA | **No Visa Sponsorship** Undergraduates Full Stack Engineer |
 | [Okta](https://www.okta.com/company/careers/) | US Remote | [Competitive Intelligence, New Grad, Customer Identity Cloud](https://www.okta.com/company/careers/product/competitive-intelligence-new-grad-customer-identity-cloud-4620106/) |
 | [Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4365607004) | Remote, US | Software Engineer |
