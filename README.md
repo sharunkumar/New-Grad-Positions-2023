@@ -92,7 +92,7 @@ The 2023 Full time grind has begun! Use this repo to share and keep track of any
 | F5 | Seattle, WA | **🔒 Closed 🔒** 2023 University Graduates - Software Engineer |
 | [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote & more | Associate Software Engineer (Full Time Starting Summer 2023) |
 | Schmidt Futures | NYC |  **🔒 Closed 🔒** Engineer, Technologists for Global Transformation (TGT) Program |
-| [Crusoe Energy](https://jobs.lever.co/crusoeenergy/14a0355b-d17c-48ab-a697-529e008fe677) | San Francisco | University \| Software Engineer |
+| Crusoe Energy| San Francisco | University \| **🔒 Closed 🔒** Software Engineer |
 | Roivant Sciences | NYC |  **🔒 Closed 🔒** Roivant Rotational Analyst 2023 (Tech) |
 | Alcon | Fort Worth, TX & more |  **🔒 Closed 🔒** 2023 Envision R&D Programs - Discipline Track 2. Accepts OPT but will NOT sponsor work visas. |
 | [Quantcast](https://jobs.lever.co/quantcast/052ae051-4aad-4c51-af01-8f74c1756c57) | San Francisco | Software Engineer - New College Graduate |
