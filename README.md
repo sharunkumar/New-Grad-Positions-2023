@@ -1,12 +1,11 @@
-<div align="center">
-<h1> 2023 New Grad Tech Positions :earth_americas::rocket:</h1>
-<h3> SWE, Data Science, Quant, Machine Learning, Product & Project Management, and More</h3>
-</div>
+# 2023 New Grad Tech Positions :earth_americas::rocket:
+
+## SWE, Data Science, Quant, Machine Learning, Product & Project Management, and More</h3>
 
 Happy New Year! Use this repo to share and keep track of any full time positions in SWE, Quant, Data Scientist, ML Engineer and PM. You got this! 🎉
 
 
-## 🧠 Tech Interview Guides</summary>
+### 🧠 Tech Interview Guides</summary>
 
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
@@ -27,7 +26,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 
 
 
-## The List
+### The List
 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
