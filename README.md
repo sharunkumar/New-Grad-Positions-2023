@@ -19,7 +19,7 @@ The 2023 Full time grind has begun! Use this repo to share and keep track of any
 
 :warning: **This repository is only for full-time positions in the United States, Canada or for Remote positions :earth_americas:.**
 
-🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)!**
+🙏 **Contribute to this project by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)!**
 
 
 ## The List
