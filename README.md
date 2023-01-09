@@ -179,7 +179,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | Nike | Beaverton, Oregon | **🔒 Closed 🔒** Software Engineer |
 | Zoom | Remote; San Jose (CA) | [2023 Software Development Engineer - New Grad, US Remote](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--US/XMLNAME-2023-Software-Development-Engineer---New-Grad_R10542-1?source=linkedin);<br> [2023 Video Processing Software Engineer - New Grad, Master required, San Jose (CA)](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/XMLNAME-2023-Video-Processing-Software-Engineer---New-Grad_R10670);<br> [2023 Video Processing Algorithm Engineer - New Grad, San Jose (CA)](https://zoom.wd5.myworkdayjobs.com/Zoom/job/San-Jose-CA/XMLNAME-2023-Video-Processing-Algorithm-Engineer---New-Grad_R10671?source=linkedin);<br> [2023 DevOps Engineer - New Grad, **NO SPONSORSHIP**, US Remote](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--US/DevOps-Engineer_R10623-1?source=linkedin) |
 | [Nutanix](https://nutanix.eightfold.ai/careers?pid=13264357&domain=nutanix.com) | San Jose, CA (Hybrid) | Software Engineering - New Grad |
-| [Sentar](https://sentar.hrmdirect.com/employment/job-opening.php?req=2180283&&#job) | Huntsville, AL | **Need Active DoD Security Clearance at the SAP/SCI level or above**  Junior Software Developer |
+| Sentar | Huntsville, AL | **🔒 Closed 🔒** Junior Software Developer |
 | [M&T Bank](https://mtb.wd5.myworkdayjobs.com/Campus/job/Technology-Development-Program_R39785) | Buffalo, NY | **No Visa Sponsorship** Technology Development Program | 
 | Zebra| Holtsville, New York | **🔒 Closed 🔒** Software Engineer, I |
 | Wells Fargo | Charlotte, NC | **🔒 Closed 🔒** 2023 Wells Fargo Technology Analyst Program - Software Engineering |
