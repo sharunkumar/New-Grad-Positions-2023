@@ -144,7 +144,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | Deutsche Bank | Multiple | **🔒 Closed 🔒** Deutsche Bank Analyst Program - Technology, Data and Innovation |
 | IBM | NYC & more | **🔒 Closed 🔒** Entry Level Backend Developer: 2023 |
 | Anyscale | San Francisco, CA | **🔒 Closed 🔒** Software Engineer (New Grad) |
-| [FactSet](https://factset.wd1.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Software-Engineer---Americas-Campus--July-2023-_R18011) | NYC & more | Software Engineer - Americas Campus (July 2023). Use the same application for all locations. |
+| FactSet | NYC & more | **🔒 Closed 🔒** Software Engineer - Americas |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/58aa92b6-6444-43b5-bd67-cb75219a80f0) | Chicago, IL | Software Engineer - Entry Level 2023 |
 | Ironclad | San Francisco, CA | **🔒 Closed 🔒** Software Engineer, New Grad |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2022-2023) | USA | Full-Time Analyst Program |
