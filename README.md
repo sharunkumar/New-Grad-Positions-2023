@@ -5,6 +5,8 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 
 ### 🧠 Tech Interview Guides</summary>
 
+- [Coding Interview Guide](https://github.com/owini/coding-interview-university)
+- [Software Engineering Interview Prep](https://github.com/owini/soft-eng-interview-prep)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
   - [Best practice questions](https://www.techinterviewhandbook.org/coding-interview-study-plan/) for coding interviews
