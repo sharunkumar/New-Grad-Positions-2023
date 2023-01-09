@@ -8,6 +8,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 ## 🧠 Tech Interview Guides</summary>
 
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+
   - [Best practice questions](https://www.techinterviewhandbook.org/coding-interview-study-plan/) for coding interviews
   - [Grind 75](https://www.techinterviewhandbook.org/grind75) - the next evolution of Blind 75, bigger and better
   - [How to prepare](https://www.techinterviewhandbook.org/coding-interview-prep/) for coding interviews
