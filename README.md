@@ -85,7 +85,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | [PEAK6](https://careers.peak6.com/jobs/technology-management/chicago-il-new-york-ny-austin-tx/software-engineer-campus-entry-level/4449643?gh_jid=4449643#/) | NYC & more | Software Engineer - Campus Entry-Level. The same application is used for all locations. |
 | [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
-| [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (for Spring/Summer 2023) |
+| Pure Storage | Mountain View, CA |  **🔒 Closed 🔒** Software Engineer Grad |
 | Databricks | Seattle / San Francisco | [Software Engineer - New Grad (2023 Start)](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289866002); <br> [Data Scientist - New Grad (2023 Start)](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289909002); <br> [IT Data Engineer New Grad (2023)](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6414385002&gh_src=62a881d62); <br> [Salesforce Engineer New Grad (2023)](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6414384002) | 
 | Restaurant Brands International | Miami, FL |  **🔒 Closed 🔒** 2023 Technical Development Program (TDP), Software Engineering |
 | Johnson & Johnson| Cincinnati, OH |  **🔒 Closed 🔒** Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) |
