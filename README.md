@@ -103,7 +103,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | Circle | Remote |  **🔒 Closed 🔒** New Grad Software Engineer, Backend/Frontend. Various locations and remote. Search under Engineering Department to see all locations |
 | Google  | USA  |  **🔒 Closed 🔒** Software Engineer, Early Career, Campus |
 | [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | [Sunrise, FL](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787262&domain=aexp.com) / [Phoenix, AZ](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787218&domain=aexp.com) | **No Visa Sponsorship** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
-| [SambaNova Systems](https://boards.greenhouse.io/sambanovasystems/jobs/4589084004) | Palo Alto, CA | NCG - Software Engineer |
+| SambaNova Systems| Palo Alto, CA |  **🔒 Closed 🔒** Software Engineer |
 | Manulife| Boston, MA |  **🔒 Closed 🔒** START Program - New Grad (June 2023 Start) | 
 | [NetApp](https://netapp.eightfold.ai/careers?pid=12956090&domain=netapp.com&utm) | San Jose, CA & more | NetApp Emerging Talent - Software Engineer. For the same role in other locations, look up the job title on their website. |
 | U.S. Bank | Richfield, MN & more |  **🔒 Closed 🔒** 2023 Engineering Full-Time Rotation Program Early Careers (Undergraduate) |
