@@ -97,7 +97,7 @@ The 2023 Full time grind has begun! Use this repo to share and keep track of any
 | Alcon | Fort Worth, TX & more |  **🔒 Closed 🔒** 2023 Envision R&D Programs - Discipline Track 2. Accepts OPT but will NOT sponsor work visas. |
 | [Quantcast](https://jobs.lever.co/quantcast/052ae051-4aad-4c51-af01-8f74c1756c57) | San Francisco | Software Engineer - New College Graduate |
 | Figma | NYC, SF, and London |  **🔒 Closed 🔒** Software Engineer, Data Scientist, Product Design |
-| [Flatiron Health](https://flatiron.com/careers/open-positions/4454680) | New York, NY | Software Engineer (2023 New Graduate)
+| Flatiron Health | New York, NY | **🔒 Closed 🔒** Software Engineer (2023 New Graduate)
 | Circle | Remote |  **🔒 Closed 🔒** New Grad Software Engineer, Backend/Frontend. Various locations and remote. Search under Engineering Department to see all locations |
 | Google  | USA  |  **🔒 Closed 🔒** Software Engineer, Early Career, Campus |
 | [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | [Sunrise, FL](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787262&domain=aexp.com) / [Phoenix, AZ](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787218&domain=aexp.com) | **No Visa Sponsorship** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
