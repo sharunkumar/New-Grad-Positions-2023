@@ -207,11 +207,11 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | [Fidelity](https://jobs.fidelity.com/job-details/16491200/2022-2023-undergraduates-leap-full-stack-engineer/) | Durham, NH; Westlake, TX; Merrimack, NH; Smithfield, RI; and Boston, MA | **No Visa Sponsorship** Undergraduates Full Stack Engineer |
 | [Okta](https://www.okta.com/company/careers/) | US Remote | [Competitive Intelligence, New Grad, Customer Identity Cloud](https://www.okta.com/company/careers/product/competitive-intelligence-new-grad-customer-identity-cloud-4620106/) |
 | [Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4365607004) | Remote, US | Software Engineer |
-| [~~Comcast~~](https://jobs.comcast.com/jobs/description/regular?job_id=R339662&external_or_internal=external) | Philadelphia, LA | CORE Technology Rotational Program |
+| Comcast | Philadelphia, LA | **🔒 Closed 🔒** CORE Technology Rotational Program |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
 | [Walmart](https://careers.walmart.com/us/jobs/WD1241701-usa-2023-full-time-sams-club-software-engineer-ii) | BENTONVILLE, AR | (**No Visa Sponsorship available**) Sam's Club Software Engineer II |
 | [Draftkings](https://draftkings.wd1.myworkdayjobs.com/en-US/Campus_Career_Portal/) | Boston, MA | SWE, SRE, and Data Analyst |
-| [~USAA~](https://www.usaajobs.com/job/-/-/1207/36525714528) | San Antonio, Texas; Phoenix, Arizona; Plano, Texas | Software Engineer - Early Career(*Closed*) |
+| USAA | San Antonio, Texas; Phoenix, Arizona; Plano, Texas | **🔒 Closed 🔒** Software Engineer - Early Career |
 | [BAE System](https://jobs.baesystems.com/global/en/search-results?keywords=2023%20Entry%20Level%20Software%20Engineer&s=1) | US | **Requires US Citizenship Status** 2023 Entry Level Software Engineer | 
 | Nextdoor | San Francisco, CA / US Remote | Machine Learning Engineer - New Grad 2023 (Master / PhD required) ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4571489), [Remote](https://about.nextdoor.com/careers-list/?gh_jid=4571500)); Software Engineer - New Grad 2023 ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4328986)) |
 | [~Tebra~](https://boards.greenhouse.io/tebra/jobs/4094268005) | Newport Beach, CA (Remote) | Front End Software Engineer I |
