@@ -95,7 +95,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
 | SRC | Syracuse, NY |  **🔒 Closed 🔒** Software Engineer - New Grad |
 | F5 | Seattle, WA | **🔒 Closed 🔒** 2023 University Graduates - Software Engineer |
-| [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote & more | Associate Software Engineer (Full Time Starting Summer 2023) |
+| EAB | Remote & more |  **🔒 Closed 🔒** Associate Software Engineer |
 | Schmidt Futures | NYC |  **🔒 Closed 🔒** Engineer, Technologists for Global Transformation (TGT) Program |
 | Crusoe Energy| San Francisco | University \| **🔒 Closed 🔒** Software Engineer |
 | Roivant Sciences | NYC |  **🔒 Closed 🔒** Roivant Rotational Analyst 2023 (Tech) |
