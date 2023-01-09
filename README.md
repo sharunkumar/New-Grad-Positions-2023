@@ -3,7 +3,7 @@
 
 The 2023 Full time grind has begun! Use this repo to share and keep track of any full time positions in Quant, Data Scientist, SWE, ML Engineer and PM.
 
-- ### 🧠 Tech Interview Guide Quick Links
+<details> <summary>🧠 Tech Interview Guides</summary>
     - [Zero to Offer](https://www.pittcs.wiki/zero-to-offer)
     - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
     - [Best practice questions](https://www.techinterviewhandbook.org/coding-interview-study-plan/) for coding interviews
@@ -15,7 +15,7 @@ The 2023 Full time grind has begun! Use this repo to share and keep track of any
     - [Behavioral questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/) asked by the top tech companies
     - [Front end interview preparation](https://www.frontendinterviewhandbook.com)
     -[Tech Interview Guide](https://github.com/yangshun/tech-interview-handbook)
-
+</details>
 
 **Contribute by making a pull request!**
 
