@@ -216,7 +216,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | Nextdoor | San Francisco, CA / US Remote | Machine Learning Engineer - New Grad 2023 (Master / PhD required) ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4571489), [Remote](https://about.nextdoor.com/careers-list/?gh_jid=4571500)); Software Engineer - New Grad 2023 ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4328986)) |
 | Tebra | Newport Beach, CA (Remote) | **🔒 Closed 🔒** Front End Software Engineer |
 | Rakuten Advertising | San Mateo, CA; New York, NY; Midvale, Utah | **🔒 Closed 🔒**  Associate Software Engineer |
-| [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Recent-Graduate_R0092213-1?Codes=W-LINKEDIN) | US multiple | Software Engineer- Recent Graduate | 
+| PayPal | US multiple |  **🔒 Closed 🔒**  Software Engineer- Recent Graduate | 
 | Lockedheed Martin | Marietta, GA | **🔒 Closed 🔒** Software Engineer (Early Career) |
 | [ADP](https://tech.adp.com/job-search-results/?keyword=grad) | Norfolk, VA; Alpharetta, GA; Pasadena, CA; and Roseland, NJ | GPT Development Program – Associate Application Developer |
 | [Chewy](https://careers.chewy.com/us/en/job/4521685/Software-Engineer-1-2023-Campus-Recruiting) | Boston, MA; Minneapolis, MN; Plantation, FL; or Bellevue, WA | **Current permanent U.S. work authorization required** Software Engineer 1 – 2023 Campus Recruiting | 
