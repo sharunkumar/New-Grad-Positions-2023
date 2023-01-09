@@ -186,7 +186,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | [Citi](https://jobs.citi.com/job/new-york/icg-technology-full-time-analyst-software-development-new-york-city-north-america-2023/287/34889411712) | NYC, Tampa(FL), Jacksonville(FL), Dallas(TX), Mississauga(Canada) | **No Visa Sponsorship** ICG Technology, Full Time Analyst, Software Development (Check their website for more roles and more locations) |
 | [United Airlines](https://careers.united.com/job/16486849/associate-early-career-digital-leadership-program-campus-2023-hires-new-grads-chicago/) | Chicago,IL | **No Visa Sponsorship** Associate – Early Career Digital Leadership Program |
 | American Airlines | DFW Airport, TX | **🔒 Closed 🔒** Associate Developer| 
-| [~Peraton~](https://careers.peraton.com/job-details/16618504/software-engineer-entry-level-blacksburg-va-blacksburg-va/?utm_medium=%22mcloud-jobads%22&utm_campaign=Engineering&utm_content=Software%20Engineer%20(Entry-level)-%20Blacksburg,%20VA&utm_term=2022-124881&utm_source=Indeed) | Blacksburg, VA | **U.S. Citizenship and the ability to obtain and maintain a security clearance** Software Engineer (Entry-Level) |
+| Peraton | Blacksburg, VA | **🔒 Closed 🔒** Software Engineer (Entry-Level) |
 | Pinterest | US Remote | **🔒 Closed 🔒** University Grad Software Engineer |
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/4349409?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer, New Grad (2023) |
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
