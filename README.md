@@ -89,7 +89,7 @@ The 2023 Full time grind has begun! Use this repo to share and keep track of any
 | Johnson & Johnson| Cincinnati, OH |  **🔒 Closed 🔒** Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) |
 | [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
 | SRC | Syracuse, NY |  **🔒 Closed 🔒** Software Engineer - New Grad |
-| [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew) | Seattle, WA | 2023 University Graduates - Software Engineer |
+| F5 | Seattle, WA | **🔒 Closed 🔒** 2023 University Graduates - Software Engineer |
 | [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote & more | Associate Software Engineer (Full Time Starting Summer 2023) |
 | Schmidt Futures | NYC |  **🔒 Closed 🔒** Engineer, Technologists for Global Transformation (TGT) Program |
 | [Crusoe Energy](https://jobs.lever.co/crusoeenergy/14a0355b-d17c-48ab-a697-529e008fe677) | San Francisco | University \| Software Engineer |
