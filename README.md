@@ -80,7 +80,7 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=coderQuad) | San Jose, CA | Software Engineer I (Full Time) 
 | Broadway Technology | NYC |  **🔒 Closed 🔒** Software Engineer (New Grad-Fall 2022/Spring 2023) |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12947) | NYC & more | 2023 Technology Full-Time Analyst Program. For the roles in other locations, look up the job title on their website. |
-| [Capstone Investment Advisors](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002) | NYC, London | 2023 Technology Graduate Rotation Program. For the role in London, look up the job title on their website. |
+| Capstone Investment Advisors | NYC, London |  **🔒 Closed 🔒** 2023 Technology Graduate Rotation Program |
 | Seven Eight Capital| NYC |  **🔒 Closed 🔒** Software Engineer |
 | [PEAK6](https://careers.peak6.com/jobs/technology-management/chicago-il-new-york-ny-austin-tx/software-engineer-campus-entry-level/4449643?gh_jid=4449643#/) | NYC & more | Software Engineer - Campus Entry-Level. The same application is used for all locations. |
 | [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer
