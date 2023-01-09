@@ -1,7 +1,5 @@
 # 2023 New Grad Tech Positions :earth_americas::rocket:
 
-## SWE, Data Science, Quant, Machine Learning, Product & Project Management, and More</h3>
-
 Happy New Year! Use this repo to share and keep track of any full time positions in SWE, Quant, Data Scientist, ML Engineer and PM. You got this! 🎉
 
 
@@ -26,7 +24,9 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 
 
 
-### The List
+## The List 🎆
+
+[⬇️ Jump to bottom ⬇️](https://github.com/owini/New-Grad-Positions-2023#thank-you-to-all-our-contributors)
 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
@@ -281,6 +281,8 @@ Happy New Year! Use this repo to share and keep track of any full time positions
 | [Auterion](https://auterion.com/company/careers-open-position/?gh_jid=6414930002) | Sorrento Valley, CA | **Require US Citizenship.** Frontend Software Engineer, Web Applications (New Graduate) ||
 | Grant Street Group | Remote | **No Visa Sponsorship. The anticipated start date for this position is in January 2023.** [Entry Level Software Developer](https://www.grantstreet.com/careers/career_opportunities/entry-level-software-developer-remote-11-21-2022/)|
 
+<!-- Please leave a one line gap between this and the table -->
+[⬆️ Back to Top ⬆️](https://github.com/owini/New-Grad-Positions-2023#the-list-)
 
 ## Thank you to all our contributors!
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
