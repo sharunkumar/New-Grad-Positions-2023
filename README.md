@@ -1,7 +1,6 @@
 
 <h1> 2023 New Grad Tech Positions :earth_americas::rocket:</h1>
-## SWE, Data Science, Quant, Machine Learning, Product & Project Management, and More
-
+<h2> SWE, Data Science, Quant, Machine Learning, Product & Project Management, and More</h2>
 
 Happy New Year! Use this repo to share and keep track of any full time positions in SWE, Quant, Data Scientist, ML Engineer and PM. You got this! 🎉
 
