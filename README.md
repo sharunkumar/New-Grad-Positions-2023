@@ -33,9 +33,9 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
-| [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions |
-| Disney | Burbank, CA | **Closed** Software Engineer I |
-| VMware | Palo Alto, California; Atlanta, Georgia  | **Closed** Launch New Grad SWE |
+| Akuna Capital | Chicago      | **🔒 Closed 🔒**	Various Junior Developer Positions |
+| Disney | Burbank, CA | **🔒 Closed 🔒** Software Engineer I |
+| VMware | Palo Alto, California; Atlanta, Georgia  | **🔒 Closed 🔒** Launch New Grad SWE |
 | [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
 | [Sofi](https://www.sofi.com/careers/) | Multiple | Several "New Grad, Software Engineer" roles in "Engineering" |
