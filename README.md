@@ -77,7 +77,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Microsoft | USA  |  **🔒 Closed 🔒** New Graduate Software Engineer |
 | Uber | San Francisco, Sunnyvale, CA; Seattle, WA; Boulder, CO; New York, NY; Toronto, ON |  **🔒 Closed 🔒** New Grad - Software Engineer I |
 | Lawrence Livermore National Laboratory | Livermore, CA or remote |  **🔒 Closed 🔒** Software Developer |
-| [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454918&req_id=311) | Multiple | Software Engineer & [Algo Software Engineer](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454781&req_id=310) |
+| Hudson River Trading | Multiple | Software Engineer & [Algo Software Engineer](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454781&req_id=310) |
 | Roblox | San Mateo, CA|  **🔒 Closed 🔒** Software Engineer - New Grad (Summer 2023)|
 | Ceridian | Remote |  **🔒 Closed 🔒** Software Developer |
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL or Remote | [SWE](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6296191002) and Quant positions
