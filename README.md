@@ -153,7 +153,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Ironclad | San Francisco, CA | **🔒 Closed 🔒** Software Engineer, New Grad |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2022-2023) | USA | Full-Time Analyst Program |
 | Western Digital | Rochester, MN | **🔒 Closed 🔒** New College Grad Engineer, Software Engineering |
-| [Paramount](https://careers.viacomcbs.com/job/Los-Angeles-Software-Engineering-Development-Program-%28Start-Date-January-June-2023%29-CA-90069/930477600/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | Los Angeles, New York, San Francisco | Software Engineering Development Program (Start Date: January / June 2023)|
+| Paramount | Los Angeles, New York, San Francisco | **🔒 Closed 🔒** Software Engineering Development Program| 
 | Datadog | NYC & more | **🔒 Closed 🔒** Software Engineer - Recent Grad |
 | [Flexport](https://boards.greenhouse.io/flexport) | Bellevue, Chicago, San Francisco | Search for "2023 New Grad" in the openings page. 4 Available: Full-Stack Software Engineer for [Masters](https://boards.greenhouse.io/flexport/jobs/3878424) and [Undergrad](https://boards.greenhouse.io/flexport/jobs/4499827) |
 | AT&T | US | **🔒 Closed 🔒** SWE, DA, Network, and Technical Business Manager |
