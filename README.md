@@ -263,7 +263,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Northern Trust](https://careers.northerntrust.com/jobs/new-grad-technology-chicago-33462) | [Chicago](https://careers.northerntrust.com/jobs/new-grad-technology-chicago-33462) and [except Chicago](https://careers.northerntrust.com/jobs/early-career-technology-all-us-locations-except-chicago-29161) | **No Visa Sponsorship** [New Grad Technology - Chicago](https://careers.northerntrust.com/jobs/new-grad-technology-chicago-33462) and [Early Career Technology - All US locations (except Chicago)](https://careers.northerntrust.com/jobs/early-career-technology-all-us-locations-except-chicago-29161) |
 | Airtable | San Francisco, CA; New York, NY | **🔒 Closed 🔒** Software Engineer, New Grad (2023)|
 | Medallion | Remote | **🔒 Closed 🔒** New Graduate Software Engineer |
-| [Nightfall AI](https://jobs.lever.co/nightfall/d9edaa15-300f-48b0-9481-556ad995cd00) | San Francisco | [New Grad Full Stack Engineer](https://jobs.lever.co/nightfall/d9edaa15-300f-48b0-9481-556ad995cd00) and [New Grad Backend Engineer](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56) |
+| Nightfall AI | San Francisco | **🔒 Closed 🔒** New Grad Full Stack Engineer |
 | Niantic | Lawrence, KS | **🔒 Closed 🔒** Software Engineer, New Grad |
 | [Constant Contact](https://careers.constantcontact.com/global/en/job/4605737/Software-Engineering-Development-Program-United-States) | Waltham | Software Engineering Development Program (United States) |
 | Stytch | San Francisco | [Software Engineer - New Grad 2023](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb?utm_source=35JPEzvE9E) |
