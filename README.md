@@ -128,6 +128,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Thomson Reuters | Eagan, MN |  **🔒 Closed 🔒** Software Engineer - New Grad - 2023 |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/oOjJkfwU) | Austin, TX | Software Engineer - New College Graduate |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6324788002?gh_jid=6324788002&gh_src=130ac1d82us) | USA | New Graduate, Software Engineer. Requires US Citizenship |
+| [Uncountable](https://www.uncountable.com/careers) | San Francisco, CA; New York, NY; Munich, Germany | New Graduate & Intern, Full-Stack Software Engineer |
 | Benchling | Boston, MA | **🔒 Closed 🔒** Software Engineer, New Graduate | 
 | NetFlix | Los Gatos/ Los Angeles, California | **🔒 Closed 🔒** New Grad 2023 (Undergrad) |
 | Amdocs | Champaign Illinois | **🔒 Closed 🔒** Software Engineer - New Grad | 
