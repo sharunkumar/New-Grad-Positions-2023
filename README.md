@@ -51,7 +51,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Indeed | Remote | **🔒 Closed 🔒**  Associate Research Engineer |
 | Capital One | US | **🔒 Closed 🔒**  Technology Development Program Associate |
 | Virtu Financial | New York, NY | **🔒 Closed 🔒** Entry-Level Software Engineer |
-| [Citadel](https://www.citadel.com/careers/open-opportunities/students/full-time/) | Multiple Locations, US | [Software Engineer](https://www.citadel.com/careers/details/software-engineer-full-time-us/) |
+| [Citadel](https://www.citadel.com/careers/open-opportunities/students/full-time/) | Multiple Locations, US | [Software Engineer](https://www.citadel.com/careers/details/software-engineer-full-time-us/), [Investments & Trading](https://www.citadel.com/careers/details/investment-trading-full-time-us-2/) |
 | Philadelphia Phillies| Philadelphia, PA | **🔒 Closed 🔒**  Software Engineer Associate (Spring/Summer 2023) |
 | Caterpillar| Champaign, IL | **🔒 Closed 🔒** Associate Software Engineer (Cat Digital) |
 | Procter & Gamble | Cincinnati, OH | **🔒 Closed 🔒**  Software/Data Engineer 2023 Grads |
