@@ -1,0 +1,69 @@
+name: Update
+
+on:
+  push:
+    branches:
+      - master
+      - upstream/master
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Add Git Commiter Details
+      run: |
+        git config --global user.email "715417+sharunkumar@users.noreply.github.com"
+        git config --global user.name "Sharun"
+
+    - name: Add upstream
+      run: git remote add upstream https://github.com/owini/New-Grad-Positions-2023.git
+
+    - name: Fetch upstream
+      run: git fetch upstream
+
+    - name: Backup the current README.md
+      run: cp README.md README.md.temp
+
+    - name: Merge upstream
+      run: git merge upstream/master --strategy=recursive --strategy-option=theirs
+
+    - name: Update README.md
+      run: |
+        sed -i '/🔒 Closed 🔒/Id' README.md
+        sed -i '/no sponsorship/Id' README.md
+        sed -i '/no visa sponsorship/Id' README.md
+        sed -i '/must be US citizen/Id' README.md
+
+    - name: Compare the backed up README.md with the updated README.md
+      run: |
+        diff --color README.md.temp README.md || true
+        rm README.md.temp
+
+    - name: Commit and push
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "remove closed, no sponsorship entries" && git push
+        else
+          echo "No changes to commit"
+        fi
+
+    - name: Remove other workflows
+      run: |
+        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
+
+    - name: Commit and push
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "removed the unused workflows" && git push
+        else
+          echo "No changes to commit"
+        fi
