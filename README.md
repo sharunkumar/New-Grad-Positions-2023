@@ -80,9 +80,9 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Hudson River Trading | Multiple | Software Engineer & [Algo Software Engineer](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454781&req_id=310) |
 | Roblox | San Mateo, CA|  **🔒 Closed 🔒** Software Engineer - New Grad (Summer 2023)|
 | Ceridian | Remote |  **🔒 Closed 🔒** Software Developer |
-| [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL or Remote | [SWE](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6296191002) and Quant positions
+| [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL or Remote | [SWE](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6296191002) and [Quant Researcher](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6280883002)
 | Neeva | Mountain View, CA |  **🔒 Closed 🔒** Software Engineer, New Grad, 2023 |
-| [Forward](https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a) | San Francisco, CA| Software Engineer - New Grad Full Stack)|
+| [Forward](https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a) | San Francisco, CA| Software Engineer - New Grad Full Stack |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=coderQuad) | San Jose, CA | Software Engineer I (Full Time) 
 | Broadway Technology | NYC |  **🔒 Closed 🔒** Software Engineer (New Grad-Fall 2022/Spring 2023) |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12947) | NYC & more | 2023 Technology Full-Time Analyst Program. For the roles in other locations, look up the job title on their website. |
