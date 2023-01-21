@@ -19,10 +19,10 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Add Git Commiter Details
-      run: |
-        git config --global user.email "715417+sharunkumar@users.noreply.github.com"
-        git config --global user.name "Sharun"
+    # - name: Add Git Commiter Details
+    #   run: |
+    #     git config --global user.email "715417+sharunkumar@users.noreply.github.com"
+    #     git config --global user.name "Sharun"
 
     - name: Add upstream
       run: git remote add upstream https://github.com/owini/New-Grad-Positions-2023.git
@@ -48,22 +48,28 @@ jobs:
         diff --color README.md.temp README.md || true
         rm README.md.temp
 
-    - name: Commit and push
-      run: |
-        if [[ `git status --porcelain` ]]; then
-          git commit -am "remove closed, no sponsorship entries" && git push
-        else
-          echo "No changes to commit"
-        fi
+    - name: Push changes
+      uses: actions-go/push@v1
+      with:
+        commit-message: 'remove closed, no sponsorship entries'
+        remote: origin
 
-    - name: Remove other workflows
-      run: |
-        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
+    # - name: Commit and push
+    #   run: |
+    #     if [[ `git status --porcelain` ]]; then
+    #       git commit -am "remove closed, no sponsorship entries" && git push
+    #     else
+    #       echo "No changes to commit"
+    #     fi
 
-    - name: Commit and push
-      run: |
-        if [[ `git status --porcelain` ]]; then
-          git commit -am "removed the unused workflows" && git push
-        else
-          echo "No changes to commit"
-        fi
+    # - name: Remove other workflows
+    #   run: |
+    #     find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
+
+    # - name: Commit and push
+    #   run: |
+    #     if [[ `git status --porcelain` ]]; then
+    #       git commit -am "removed the unused workflows" && git push
+    #     else
+    #       echo "No changes to commit"
+    #     fi
