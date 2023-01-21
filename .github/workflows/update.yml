@@ -48,11 +48,18 @@ jobs:
         diff --color README.md.temp README.md || true
         rm README.md.temp
 
+    - name: Get GitHub Email from Username
+      uses: evvanErb/get-github-email-by-username-action@v2.0
+      with:
+        github-username: 'sharunkumar'
+
     - name: Push changes
       uses: actions-go/push@v1
       with:
         commit-message: 'remove closed, no sponsorship entries'
         remote: origin
+        author-name: 'Sharun'
+        author-email: ${{ steps.test.outputs.email }}
 
     # - name: Commit and push
     #   run: |
