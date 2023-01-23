@@ -123,7 +123,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | General Motors | Warren, MI |  **🔒 Closed 🔒** Entry-Level Software Engineering Rotational Program | 
 | [Mueller Water Products](https://muellerwaterproducts.wd5.myworkdayjobs.com/en-US/Mueller/job/Atlanta-GA/XMLNAME-2023-Software-Engineer-Development-Program_R3169) | Atlanta, GA | 2023 Software Engineer Development Program | 
 | RTI | Greensboro, NC |  **🔒 Closed 🔒** Software Engineer - New Grad |
-| [Cat Digital](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/XMLNAME-2023-Software-Engineering-Recent-Grad-Positions---Cat-Digital_R0000153666) | Chicago & more | 2023 Software Engineering Recent Grad |
+| [Cat Digital](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2023-Software-Engineering-Recent-Grad-Positions---Cat-Digital_R0000179317?q=2023%20Software%20Engineering%20Recent%20Grad) | Chicago & more | 2023 Software Engineering Recent Grad |
 | [JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321358) | US | **No Visa Sponsorship** Software Engineer. Check their website for more locations and positions. | 
 | Thomson Reuters | Eagan, MN |  **🔒 Closed 🔒** Software Engineer - New Grad - 2023 |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/oOjJkfwU) | Austin, TX | Software Engineer - New College Graduate |
