@@ -33,7 +33,10 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
-| [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
+| Akuna Capital | Chicago      | **🔒 Closed 🔒**	Various Junior Developer Positions |
+| Disney | Burbank, CA | **🔒 Closed 🔒** Software Engineer I |
+| VMware | Palo Alto, California; Atlanta, Georgia  | **🔒 Closed 🔒** Launch New Grad SWE |
+| IMC | Chicago  | **🔒 Closed 🔒** Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
 | [Sofi](https://www.sofi.com/careers/) | Multiple | Several "New Grad, Software Engineer" roles in "Engineering" |
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
