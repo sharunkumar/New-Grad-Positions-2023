@@ -65,10 +65,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Gordian Software](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | Software Engineer (Fresh Grad 2023) |
 | [Mueller Water Products](https://muellerwaterproducts.wd5.myworkdayjobs.com/en-US/Mueller/job/Atlanta-GA/XMLNAME-2023-Software-Engineer-Development-Program_R3169) | Atlanta, GA | 2023 Software Engineer Development Program | 
-| RTI | Greensboro, NC |  **🔒 Closed 🔒** Software Engineer - New Grad |
 | [Cat Digital](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2023-Software-Engineering-Recent-Grad-Positions---Cat-Digital_R0000179317?q=2023%20Software%20Engineering%20Recent%20Grad) | Chicago & more | 2023 Software Engineering Recent Grad |
-| [JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321358) | US | **No Visa Sponsorship** Software Engineer. Check their website for more locations and positions. | 
-| Thomson Reuters | Eagan, MN |  **🔒 Closed 🔒** Software Engineer - New Grad - 2023 |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/oOjJkfwU) | Austin, TX | Software Engineer - New College Graduate |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6324788002?gh_jid=6324788002&gh_src=130ac1d82us) | USA | New Graduate, Software Engineer. Requires US Citizenship |
 | [Uncountable](https://www.uncountable.com/careers) | San Francisco, CA; New York, NY; Munich, Germany | New Graduate & Intern, Full-Stack Software Engineer |
@@ -138,8 +135,6 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Blend360](https://careers.smartrecruiters.com/Blend360?search=new%20grad) | Denver, CO; Columbia, MD | Data Engineer and Data Scientist | 
 | [Tektronix](https://careers.fortive.com/job/FORTUSTEK011301/2023-Engineering-Rotation-Program-Participant?utm_source=linkedin&src=SNS-10043&utm_medium=phenom-feeds&src=SNS-10043) | Beaverton, Oregon | 2023 Engineering Rotation Program |
 | [Washington University School of Medicine](https://medicine.wustl.edu) | [St. Louis](https://goo.gl/maps/6K2ZDhTL8D8Rz12AA)/Remote | [Application Developer - WashU IT Research Infrastructure Services](https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Application-Developer-Opportunities---WUIT---Research-Application-Engineering_JR66760) |
-| Auterion | Sorrento Valley, CA | **🔒 Closed 🔒** Frontend Software Engineer, Web Applications (New Graduate) ||
-| Grant Street Group | Remote | **No Visa Sponsorship. The anticipated start date for this position is in January 2023.** [Entry Level Software Developer](https://www.grantstreet.com/careers/career_opportunities/entry-level-software-developer-remote-11-21-2022/)|
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Software-Engineering---Software-Developer--Cloud--I_IRC87498?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | Schaumburg, IL |  Software Engineer (New Graduate, Cloud) ||
 | [Sonnet](https://www.workatastartup.com/jobs/57808) | San Fransisco, CA or Remote|  Software Engineer ||
 | [Candid Health](https://www.workatastartup.com/jobs/56849) | NYC, NY |  Software Engineer ||
