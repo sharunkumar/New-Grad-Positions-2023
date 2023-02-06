@@ -179,7 +179,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Hudl | Remote | **🔒 Closed 🔒** Software Engineer |
 | Aon | NYC & more | **🔒 Closed 🔒** Early Careers: Cyber Associate |
 | Brex | Remote | **🔒 Closed 🔒** Software Engineer, New Grad - c/o 2023 (Remote) |
-| [Atlassian](https://www.atlassian.com/company/careers/students) | Fully Remote, MTV | [SWE](https://www.atlassian.com/company/careers/detail/977df53a-539d-4b6c-9fbf-0167d8ffd83b), [Security](https://www.atlassian.com/company/careers/detail/c8c64071-c8be-402c-8ee7-147cfc2d5f93), [Associate Product Manager](https://www.atlassian.com/company/careers/detail/2d5165ea-8a9a-43a5-9013-7fe18bb23ca2) - **Does not offer sponsorships**, [SWE: Android Developer](https://www.untapped.io/app/discover/jobs/lyft/etp-mobile-android-swe-new-grad-2023/52825eb7-1f41-4d22-8941-5bd1d053ae4e) |
+| [Atlassian](https://www.atlassian.com/company/careers/students) | Fully Remote, MTV | [SWE](https://www.atlassian.com/company/careers/detail/977df53a-539d-4b6c-9fbf-0167d8ffd83b), [Security](https://www.atlassian.com/company/careers/detail/c8c64071-c8be-402c-8ee7-147cfc2d5f93), [Associate Product Manager](https://www.atlassian.com/company/careers/detail/2d5165ea-8a9a-43a5-9013-7fe18bb23ca2) - **Does not offer sponsorships**|
 | Nike | Beaverton, Oregon | **🔒 Closed 🔒** Software Engineer |
 | Zoom | Remote; San Jose (CA) | **🔒 Closed 🔒** Software Development Engineer & DevOps |
 | [Nutanix](https://nutanix.eightfold.ai/careers?pid=13264357&domain=nutanix.com) | San Jose, CA (Hybrid) | Software Engineering - New Grad |
