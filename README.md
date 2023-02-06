@@ -285,6 +285,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Sonnet](https://www.workatastartup.com/jobs/57808) | San Fransisco, CA or Remote|  Software Engineer ||
 | [Candid Health](https://www.workatastartup.com/jobs/56849) | NYC, NY |  Software Engineer ||
 | [Two Dots](https://www.workatastartup.com/jobs/59260) | Los Angeles, CA |  Software Engineer ||
+| [Lyft](https://www.untapped.io/app/company/lyft/) | SF, Seattle, NYC, or Remote | [Software Engineer (Mobile)](https://www.untapped.io/app/discover/jobs/lyft/etp-mobile-android-swe-new-grad-2023/52825eb7-1f41-4d22-8941-5bd1d053ae4e) ||
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/owini/New-Grad-Positions-2023#the-list-)
