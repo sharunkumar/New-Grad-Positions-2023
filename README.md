@@ -214,7 +214,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Comcast | Philadelphia, LA | **🔒 Closed 🔒** CORE Technology Rotational Program |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
 | [Walmart](https://careers.walmart.com/us/jobs/WD1241701-usa-2023-full-time-sams-club-software-engineer-ii) | BENTONVILLE, AR | (**No Visa Sponsorship available**) Sam's Club Software Engineer II |
-| [Draftkings](https://draftkings.wd1.myworkdayjobs.com/en-US/Campus_Career_Portal/) | Boston, MA | SWE, SRE, and Data Analyst |
+| Draftkings | Boston, MA | **🔒 Closed 🔒** SWE, SRE, and Data Analyst |
 | USAA | San Antonio, Texas; Phoenix, Arizona; Plano, Texas | **🔒 Closed 🔒** Software Engineer - Early Career |
 | [BAE System](https://jobs.baesystems.com/global/en/search-results?keywords=2023%20Entry%20Level%20Software%20Engineer&s=1) | US | **Requires US Citizenship Status** 2023 Entry Level Software Engineer | 
 | Nextdoor | San Francisco, CA / US Remote | Machine Learning Engineer - New Grad 2023 (Master / PhD required) ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4571489), [Remote](https://about.nextdoor.com/careers-list/?gh_jid=4571500)); Software Engineer - New Grad 2023 ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4328986)) |
