@@ -86,7 +86,17 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=CT_203%2CCT_75%2CCT_222%2CCT_104%2CCT_223%2CCT_221%2CCT_247%2CCT_157%2CCT_243%2CCT_114%2CCT_94&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=) | Mountain View, Santa Clara, SF, Seattle, LA, and NYC | SWE, MLE, DS, SRE, and Researcher |
 | [Point72](https://careers.point72.com/CSJobDetail?jobName=2023-cubist-quant-academy-developers&jobCode=CSS-0010116) | NYC | 2023 Cubist Quant Academy--Developers |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-for-Mixed-Signal-Simulation-and-Verification--New-College-Graduate-_R40004-1) | San Jose, CA | Software Engineer for Mixed-Signal Simulation and Verification (New College Graduate). [Software Engineer (New College Graduate)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Graduate-_R40844-1) |
-| [Atlassian](https://www.atlassian.com/company/careers/students) | Fully Remote, MTV | [SWE](https://www.atlassian.com/company/careers/detail/977df53a-539d-4b6c-9fbf-0167d8ffd83b), [Security](https://www.atlassian.com/company/careers/detail/c8c64071-c8be-402c-8ee7-147cfc2d5f93), [Associate Product Manager](https://www.atlassian.com/company/careers/detail/2d5165ea-8a9a-43a5-9013-7fe18bb23ca2) - **Does not offer sponsorships** |
+| PwC | Multiple Locations | **🔒 Closed 🔒** Software Engineer Associate Summer/Fall '23 |
+| PROS | Houston, TX | **🔒 Closed 🔒** 2023 University Recruiting - Software Engineer I |
+| Qualtrics | Multiple Locations | **🔒 Closed 🔒** Software Engineer - New Grad |
+| Fairmarkit | Remote | **🔒 Closed 🔒** Software Engineer - 2023 New Grad | 
+| WillowTree| Multiple | **🔒 Closed 🔒** Backend Software Engineer |
+| Hudl | Remote | **🔒 Closed 🔒** Software Engineer |
+| Aon | NYC & more | **🔒 Closed 🔒** Early Careers: Cyber Associate |
+| Brex | Remote | **🔒 Closed 🔒** Software Engineer, New Grad - c/o 2023 (Remote) |
+| [Atlassian](https://www.atlassian.com/company/careers/students) | Fully Remote, MTV | [SWE](https://www.atlassian.com/company/careers/detail/977df53a-539d-4b6c-9fbf-0167d8ffd83b), [Security](https://www.atlassian.com/company/careers/detail/c8c64071-c8be-402c-8ee7-147cfc2d5f93), [Associate Product Manager](https://www.atlassian.com/company/careers/detail/2d5165ea-8a9a-43a5-9013-7fe18bb23ca2) - **Does not offer sponsorships**|
+| Nike | Beaverton, Oregon | **🔒 Closed 🔒** Software Engineer |
+| Zoom | Remote; San Jose (CA) | **🔒 Closed 🔒** Software Development Engineer & DevOps |
 | [Nutanix](https://nutanix.eightfold.ai/careers?pid=13264357&domain=nutanix.com) | San Jose, CA (Hybrid) | Software Engineering - New Grad |
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/4349409?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer, New Grad (2023) |
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
@@ -137,7 +147,8 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Software-Engineering---Software-Developer--Cloud--I_IRC87498?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | Schaumburg, IL |  Software Engineer (New Graduate, Cloud) ||
 | [Sonnet](https://www.workatastartup.com/jobs/57808) | San Fransisco, CA or Remote|  Software Engineer ||
 | [Candid Health](https://www.workatastartup.com/jobs/56849) | NYC, NY |  Software Engineer ||
-
+| [Two Dots](https://www.workatastartup.com/jobs/59260) | Los Angeles, CA |  Software Engineer ||
+| [Lyft](https://www.lyft.com/careers/early-talent) | SF, Seattle, NYC, or Remote | [Software Engineer (Mobile)](https://app.careerpuck.com/job-board/lyft/job/6569981002?gh_jid=6569981002) ||
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/owini/New-Grad-Positions-2023#the-list-)
