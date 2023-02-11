@@ -66,8 +66,6 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | Software Engineer (Fresh Grad 2023) |
 | [Mueller Water Products](https://muellerwaterproducts.wd5.myworkdayjobs.com/en-US/Mueller/job/Atlanta-GA/XMLNAME-2023-Software-Engineer-Development-Program_R3169) | Atlanta, GA | 2023 Software Engineer Development Program | 
 | [Cat Digital](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2023-Software-Engineering-Recent-Grad-Positions---Cat-Digital_R0000179317?q=2023%20Software%20Engineering%20Recent%20Grad) | Chicago & more | 2023 Software Engineering Recent Grad |
-| JPMorgan Chase | US | **🔒 Closed 🔒** **No Visa Sponsorship** Software Engineer. Check their website for more locations and positions. | 
-| Thomson Reuters | Eagan, MN |  **🔒 Closed 🔒** Software Engineer - New Grad - 2023 |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/oOjJkfwU) | Austin, TX | Software Engineer - New College Graduate |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6324788002?gh_jid=6324788002&gh_src=130ac1d82us) | USA | New Graduate, Software Engineer. Requires US Citizenship |
 | [Uncountable](https://www.uncountable.com/careers) | San Francisco, CA; New York, NY; Munich, Germany | New Graduate & Intern, Full-Stack Software Engineer |
