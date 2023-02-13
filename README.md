@@ -199,7 +199,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | New Relic,Inc | Remote | **🔒 Closed 🔒** Associate Software Engineer  | 
 | Singularity Data | Santa Clara| **🔒 Closed 🔒** Software Engineer (New Grad)-Cloud Database
 | Intuit | Mountain View, San Diego | **🔒 Closed 🔒** Software Engineer 1 |
-| [COGNEX](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Software-Engineering-Development-Program_R0007730) | Natick, MA | [2023 Campus Recruitment - Software Engineering Development Program](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Software-Engineering-Development-Program_R0007730), [2023 Campus Recruitment - Applications Engineering Development Program](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Applications-Engineering-Development-Program_R0007731) |
+| [COGNEX](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Software-Engineering-Development-Program_R0007730) | Natick, MA | [2023 Campus Recruitment - Applications Engineering Development Program](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Applications-Engineering-Development-Program_R0007731) |
 | Lutron | Multiple Positions | **🔒 Closed 🔒** Project Application Software Engineer 2023 | 
 | McDonald's | Chicago |**🔒 Closed 🔒** Software Development Engineering Program |
 | [HPE](https://careers.hpe.com/us/en/hpe-interns-graduates) | San Jose(CA), Alpharetta(GA), Andover(MA), Bloomington(MN), Durham(NC), Ft. Collins(CO), Nashua(NH) | SDE, DS, PM, MLE ... |
