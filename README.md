@@ -108,7 +108,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Flatiron Health | New York, NY | **🔒 Closed 🔒** Software Engineer (2023 New Graduate)
 | Circle | Remote |  **🔒 Closed 🔒** New Grad Software Engineer, Backend/Frontend. Various locations and remote. Search under Engineering Department to see all locations |
 | Google  | USA  |  **🔒 Closed 🔒** Software Engineer, Early Career, Campus |
-| [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | [Sunrise, FL](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787262&domain=aexp.com) / [Phoenix, AZ](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787218&domain=aexp.com) | **No Visa Sponsorship** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
+| [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | Sunrise, FL, Phoenix, AZ| **🔒 Closed 🔒** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
 | SambaNova Systems| Palo Alto, CA |  **🔒 Closed 🔒** Software Engineer |
 | Manulife| Boston, MA |  **🔒 Closed 🔒** START Program - New Grad (June 2023 Start) | 
 | [NetApp](https://netapp.eightfold.ai/careers?pid=12956090&domain=netapp.com&utm) | San Jose, CA & more | NetApp Emerging Talent - Software Engineer. For the same role in other locations, look up the job title on their website. |
