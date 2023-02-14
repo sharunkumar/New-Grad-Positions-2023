@@ -59,6 +59,13 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
 | [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
 | [Quantcast](https://jobs.lever.co/quantcast/052ae051-4aad-4c51-af01-8f74c1756c57) | San Francisco | Software Engineer - New College Graduate |
+| Figma | NYC, SF, and London |  **🔒 Closed 🔒** Software Engineer, Data Scientist, Product Design |
+| Flatiron Health | New York, NY | **🔒 Closed 🔒** Software Engineer (2023 New Graduate)
+| Circle | Remote |  **🔒 Closed 🔒** New Grad Software Engineer, Backend/Frontend. Various locations and remote. Search under Engineering Department to see all locations |
+| Google  | USA  |  **🔒 Closed 🔒** Software Engineer, Early Career, Campus |
+| [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | Sunrise, FL, Phoenix, AZ| **🔒 Closed 🔒** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
+| SambaNova Systems| Palo Alto, CA |  **🔒 Closed 🔒** Software Engineer |
+| Manulife| Boston, MA |  **🔒 Closed 🔒** START Program - New Grad (June 2023 Start) | 
 | [NetApp](https://netapp.eightfold.ai/careers?pid=12956090&domain=netapp.com&utm) | San Jose, CA & more | NetApp Emerging Talent - Software Engineer. For the same role in other locations, look up the job title on their website. |
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html) | NYC & more | Global Technology Analyst Program - 2023 |
 | [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
@@ -79,19 +86,41 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
 | [ByteDance](https://jobs.bytedance.com/en/position/7138210801609591077/detail?spread=BSPP2KS) | Mountain View, CA | Software Engineer, University Graduate (Lark)- 2023 Start (BS/MS) |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2022-2023) | USA | Full-Time Analyst Program |
-| [Flexport](https://boards.greenhouse.io/flexport) | Bellevue, Chicago, San Francisco | Search for "2023 New Grad" in the openings page. 4 Available: Full-Stack Software Engineer for [Masters](https://boards.greenhouse.io/flexport/jobs/3878424) and [Undergrad](https://boards.greenhouse.io/flexport/jobs/4499827) |
+| Western Digital | Rochester, MN | **🔒 Closed 🔒** New College Grad Engineer, Software Engineering |
+| Paramount | Los Angeles, New York, San Francisco | **🔒 Closed 🔒** Software Engineering Development Program| 
+| Datadog | NYC & more | **🔒 Closed 🔒** Software Engineer - Recent Grad |
+| [Flexport](https://boards.greenhouse.io/flexport) | Bellevue, Chicago, San Francisco | **🔒 Closed 🔒** Software Engineer |
+| AT&T | US | **🔒 Closed 🔒** SWE, DA, Network, and Technical Business Manager |
+| Merge | San Francisco, CA & New York City, NY | **🔒 Closed 🔒** Software Engineering |
 | [Visa](https://usa.visa.com/en_us/jobs/REF52473N) | Austin, TX | Software Engineer - Undergrad New College Grad - Multiple Locations - 2023 |
 | [Appian Corporation](https://app.ripplematch.com/job/appian/7d45c0ae/?tl=de206e19) | McLean, VA | Technology Strategy Engineer |
 | [Arm](https://earlycareers-arm.icims.com/jobs/6215/graduate-rotation-engineer---cpu/job?mode=submit_apply) | Austin, TX | Graduate Rotation Engineer - CPU |
+| Netsmart | Overland Park, KS | **🔒 Closed 🔒** Software Engineer |
 | [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=CT_203%2CCT_75%2CCT_222%2CCT_104%2CCT_223%2CCT_221%2CCT_247%2CCT_157%2CCT_243%2CCT_114%2CCT_94&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=) | Mountain View, Santa Clara, SF, Seattle, LA, and NYC | SWE, MLE, DS, SRE, and Researcher |
 | [Point72](https://careers.point72.com/CSJobDetail?jobName=2023-cubist-quant-academy-developers&jobCode=CSS-0010116) | NYC | 2023 Cubist Quant Academy--Developers |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-for-Mixed-Signal-Simulation-and-Verification--New-College-Graduate-_R40004-1) | San Jose, CA | Software Engineer for Mixed-Signal Simulation and Verification (New College Graduate). [Software Engineer (New College Graduate)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Graduate-_R40844-1) |
-| [Atlassian](https://www.atlassian.com/company/careers/students) | Fully Remote, MTV | [SWE](https://www.atlassian.com/company/careers/detail/977df53a-539d-4b6c-9fbf-0167d8ffd83b), [Security](https://www.atlassian.com/company/careers/detail/c8c64071-c8be-402c-8ee7-147cfc2d5f93), [Associate Product Manager](https://www.atlassian.com/company/careers/detail/2d5165ea-8a9a-43a5-9013-7fe18bb23ca2) - **Does not offer sponsorships**|
+| PwC | Multiple Locations | **🔒 Closed 🔒** Software Engineer Associate Summer/Fall '23 |
+| PROS | Houston, TX | **🔒 Closed 🔒** 2023 University Recruiting - Software Engineer I |
+| Qualtrics | Multiple Locations | **🔒 Closed 🔒** Software Engineer - New Grad |
+| Fairmarkit | Remote | **🔒 Closed 🔒** Software Engineer - 2023 New Grad | 
+| WillowTree| Multiple | **🔒 Closed 🔒** Backend Software Engineer |
+| Hudl | Remote | **🔒 Closed 🔒** Software Engineer |
+| Aon | NYC & more | **🔒 Closed 🔒** Early Careers: Cyber Associate |
+| Brex | Remote | **🔒 Closed 🔒** Software Engineer, New Grad - c/o 2023 (Remote) |
+| [Atlassian](https://www.atlassian.com/company/careers/students) | Fully Remote, MTV | [SWE](https://www.atlassian.com/company/careers/detail/977df53a-539d-4b6c-9fbf-0167d8ffd83b) - **No sponsorships**|
+| Nike | Beaverton, Oregon | **🔒 Closed 🔒** Software Engineer |
+| Zoom | Remote; San Jose (CA) | **🔒 Closed 🔒** Software Development Engineer & DevOps |
 | [Nutanix](https://nutanix.eightfold.ai/careers?pid=13264357&domain=nutanix.com) | San Jose, CA (Hybrid) | Software Engineering - New Grad |
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/4349409?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer, New Grad (2023) |
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
-| [COGNEX](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Software-Engineering-Development-Program_R0007730) | Natick, MA | [2023 Campus Recruitment - Software Engineering Development Program](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Software-Engineering-Development-Program_R0007730), [2023 Campus Recruitment - Applications Engineering Development Program](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Applications-Engineering-Development-Program_R0007731) |
+| Singularity Data | Santa Clara| **🔒 Closed 🔒** Software Engineer (New Grad)-Cloud Database | 
+| New Relic,Inc | Remote | **🔒 Closed 🔒** Associate Software Engineer  | 
+| Singularity Data | Santa Clara| **🔒 Closed 🔒** Software Engineer (New Grad)-Cloud Database
+| Intuit | Mountain View, San Diego | **🔒 Closed 🔒** Software Engineer 1 |
+| [COGNEX](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Software-Engineering-Development-Program_R0007730) | Natick, MA | [2023 Campus Recruitment - Applications Engineering Development Program](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Applications-Engineering-Development-Program_R0007731) |
+| Lutron | Multiple Positions | **🔒 Closed 🔒** Project Application Software Engineer 2023 | 
+| McDonald's | Chicago |**🔒 Closed 🔒** Software Development Engineering Program |
 | [HPE](https://careers.hpe.com/us/en/hpe-interns-graduates) | San Jose(CA), Alpharetta(GA), Andover(MA), Bloomington(MN), Durham(NC), Ft. Collins(CO), Nashua(NH) | SDE, DS, PM, MLE ... |
 | [Northrop Grumman](https://www.northropgrumman.com/jobs/?country=United%20States%20of%20America&category=Engineering&search=2023%20Associate%20Software%20Engineer) | US | **Be able to obtain a U.S. Government security clearance (U.S. citizenship is a pre-requisite)** 2023 Associate Software Engineer |
 | SingleStore | San Francisco, Seattle, North Carolina (Raleigh)  | Software Engineer, Database Engine (University Graduate) |
