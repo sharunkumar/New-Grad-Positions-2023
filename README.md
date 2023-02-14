@@ -68,7 +68,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Otter.ai  | Mountain View, CA |  **🔒 Closed 🔒** Software Engineer, Backend (New Grad)|
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)  | Natick, MA | Multiple Openings - Engineering Development Group |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
-| [Verkada](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023)  | San Mateo, CA | [Backend](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023), [Frontend](https://jobs.lever.co/verkada/dfcab784-b82e-4bcc-9949-3cff41a5084e) , [Security](https://jobs.lever.co/verkada/47c2d4d8-ee90-4809-8084-dabc2e93b321?lever-source=LinkedIn)|
+| Verkada | San Mateo, CA | **🔒 Closed 🔒** Backend, Frontend, Security |
 | Credit Suisse  | New York, NY, Raleigh, NC  |  **🔒 Closed 🔒** 2023 Americas Technology Full-Time Analyst |
 | [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations  | College Graduates - Full-Time - Junior Software Engineer |
 | Abnormal Security | San Francisco, California |  **🔒 Closed 🔒** New Grad SWE |
