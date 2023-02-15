@@ -47,8 +47,6 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [WeRide.ai](https://jobs.lever.co/weride/97063737-808b-4078-b1d8-8ffcef30635a)  | San Jose, CA | Software Engineer (New Grad) |
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)  | Natick, MA | Multiple Openings - Engineering Development Group |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
-| Verkada | San Mateo, CA | **🔒 Closed 🔒** Backend, Frontend, Security |
-| Credit Suisse  | New York, NY, Raleigh, NC  |  **🔒 Closed 🔒** 2023 Americas Technology Full-Time Analyst |
 | [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations  | College Graduates - Full-Time - Junior Software Engineer |
 | Hudson River Trading | Multiple | Software Engineer & [Algo Software Engineer](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454781&req_id=310) |
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL or Remote | [SWE](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6296191002) and [Quant Researcher](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6280883002)
