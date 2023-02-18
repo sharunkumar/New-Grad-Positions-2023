@@ -44,7 +44,9 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/Software-Engineer--University-Grad-_3043053?source=APPLICANT_SOURCE-6-2)  | San Diego, CA | Software Engineer - New Grad|
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Quant Trader--Campus 2023 Start |
-| [WeRide.ai](https://jobs.lever.co/weride/97063737-808b-4078-b1d8-8ffcef30635a)  | San Jose, CA | Software Engineer (New Grad) |
+| Citrix  | US |  **🔒 Closed 🔒** Software Engineer 2023 |
+| WeRide.ai  | San Jose, CA |  **🔒 Closed 🔒**  Software Engineer (New Grad) |
+| Otter.ai  | Mountain View, CA |  **🔒 Closed 🔒** Software Engineer, Backend (New Grad)|
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)  | Natick, MA | Multiple Openings - Engineering Development Group |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
 | [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations  | College Graduates - Full-Time - Junior Software Engineer |
