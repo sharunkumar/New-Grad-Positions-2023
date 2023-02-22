@@ -39,7 +39,14 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
 | [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles |
-| [Citadel](https://www.citadel.com/careers/open-opportunities/students/full-time/) | Multiple Locations, US | [Software Engineer](https://www.citadel.com/careers/details/software-engineer-full-time-us/), [Investments & Trading](https://www.citadel.com/careers/details/investment-trading-full-time-us-2/) |
+| Indeed | Remote | **🔒 Closed 🔒**  Associate Research Engineer |
+| Capital One | US | **🔒 Closed 🔒**  Technology Development Program Associate |
+| Virtu Financial | New York, NY | **🔒 Closed 🔒** Entry-Level Software Engineer |
+| [Citadel](https://www.citadel.com/careers/open-opportunities/students/full-time/) | Multiple Locations, US | Software Engineer, [Investments & Trading](https://www.citadel.com/careers/details/investment-trading-full-time-us-2/) |
+| Philadelphia Phillies| Philadelphia, PA | **🔒 Closed 🔒**  Software Engineer Associate (Spring/Summer 2023) |
+| Caterpillar| Champaign, IL | **🔒 Closed 🔒** Associate Software Engineer (Cat Digital) |
+| Procter & Gamble | Cincinnati, OH | **🔒 Closed 🔒**  Software/Data Engineer 2023 Grads |
+| Optiver | US | **🔒 Closed 🔒** SWE and Quant  |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?location=United%20States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CCampusSoftware%22) | US | Software Engineer 2023 Grads |
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/Software-Engineer--University-Grad-_3043053?source=APPLICANT_SOURCE-6-2)  | San Diego, CA | Software Engineer - New Grad|
