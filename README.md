@@ -102,7 +102,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Crusoe Energy| San Francisco | University \| **🔒 Closed 🔒** Software Engineer |
 | Roivant Sciences | NYC |  **🔒 Closed 🔒** Roivant Rotational Analyst 2023 (Tech) |
 | Alcon | Fort Worth, TX & more |  **🔒 Closed 🔒** 2023 Envision R&D Programs - Discipline Track 2. Accepts OPT but will NOT sponsor work visas. |
-| [Quantcast](https://jobs.lever.co/quantcast/052ae051-4aad-4c51-af01-8f74c1756c57) | San Francisco | Software Engineer - New College Graduate |
+| Quantcast | San Francisco |  **🔒 Closed 🔒** Software Engineer - New College Graduate |
 | Figma | NYC, SF, and London |  **🔒 Closed 🔒** Software Engineer, Data Scientist, Product Design |
 | Flatiron Health | New York, NY | **🔒 Closed 🔒** Software Engineer (2023 New Graduate)
 | Circle | Remote |  **🔒 Closed 🔒** New Grad Software Engineer, Backend/Frontend. Various locations and remote. Search under Engineering Department to see all locations |
