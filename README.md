@@ -55,7 +55,21 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
 | [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
-| [Quantcast](https://jobs.lever.co/quantcast/052ae051-4aad-4c51-af01-8f74c1756c57) | San Francisco | Software Engineer - New College Graduate |
+| SRC | Syracuse, NY |  **🔒 Closed 🔒** Software Engineer - New Grad |
+| F5 | Seattle, WA | **🔒 Closed 🔒** 2023 University Graduates - Software Engineer |
+| EAB | Remote & more |  **🔒 Closed 🔒** Associate Software Engineer |
+| Schmidt Futures | NYC |  **🔒 Closed 🔒** Engineer, Technologists for Global Transformation (TGT) Program |
+| Crusoe Energy| San Francisco | University \| **🔒 Closed 🔒** Software Engineer |
+| Roivant Sciences | NYC |  **🔒 Closed 🔒** Roivant Rotational Analyst 2023 (Tech) |
+| Alcon | Fort Worth, TX & more |  **🔒 Closed 🔒** 2023 Envision R&D Programs - Discipline Track 2. Accepts OPT but will NOT sponsor work visas. |
+| Quantcast | San Francisco |  **🔒 Closed 🔒** Software Engineer - New College Graduate |
+| Figma | NYC, SF, and London |  **🔒 Closed 🔒** Software Engineer, Data Scientist, Product Design |
+| Flatiron Health | New York, NY | **🔒 Closed 🔒** Software Engineer (2023 New Graduate)
+| Circle | Remote |  **🔒 Closed 🔒** New Grad Software Engineer, Backend/Frontend. Various locations and remote. Search under Engineering Department to see all locations |
+| Google  | USA  |  **🔒 Closed 🔒** Software Engineer, Early Career, Campus |
+| [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | Sunrise, FL, Phoenix, AZ| **🔒 Closed 🔒** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
+| SambaNova Systems| Palo Alto, CA |  **🔒 Closed 🔒** Software Engineer |
+| Manulife| Boston, MA |  **🔒 Closed 🔒** START Program - New Grad (June 2023 Start) | 
 | [NetApp](https://netapp.eightfold.ai/careers?pid=12956090&domain=netapp.com&utm) | San Jose, CA & more | NetApp Emerging Talent - Software Engineer. For the same role in other locations, look up the job title on their website. |
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html) | NYC & more | Global Technology Analyst Program - 2023 |
 | [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
