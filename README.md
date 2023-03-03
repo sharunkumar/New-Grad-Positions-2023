@@ -183,7 +183,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Zoom | Remote; San Jose (CA) | **🔒 Closed 🔒** Software Development Engineer & DevOps |
 | [Nutanix](https://nutanix.eightfold.ai/careers?pid=13264357&domain=nutanix.com) | San Jose, CA (Hybrid) | Software Engineering - New Grad |
 | Sentar | Huntsville, AL | **🔒 Closed 🔒** Junior Software Developer |
-| [M&T Bank](https://mtb.wd5.myworkdayjobs.com/Campus/job/Technology-Development-Program_R39785) | Buffalo, NY | **No Visa Sponsorship** Technology Development Program | 
+| M&T Bank | Buffalo, NY | **🔒 Closed 🔒** Technology Development Program | 
 | Zebra| Holtsville, New York | **🔒 Closed 🔒** Software Engineer, I |
 | Wells Fargo | Charlotte, NC | **🔒 Closed 🔒** 2023 Wells Fargo Technology Analyst Program - Software Engineering |
 | [Citi](https://jobs.citi.com/job/new-york/icg-technology-full-time-analyst-software-development-new-york-city-north-america-2023/287/34889411712) | NYC, Tampa(FL), Jacksonville(FL), Dallas(TX), Mississauga(Canada) | **No Visa Sponsorship** ICG Technology, Full Time Analyst, Software Development (Check their website for more roles and more locations) |
