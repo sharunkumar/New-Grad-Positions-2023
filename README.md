@@ -94,7 +94,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Databricks | Seattle / San Francisco | **🔒 Closed 🔒** Software Engineer, Data Science, & IT | 
 | Restaurant Brands International | Miami, FL |  **🔒 Closed 🔒** 2023 Technical Development Program (TDP), Software Engineering |
 | Johnson & Johnson| Cincinnati, OH |  **🔒 Closed 🔒** Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) |
-| [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
+| Jump Trading| Chicago | Campus \| **🔒 Closed 🔒** Software Engineer 2023 (Full-Time) |
 | SRC | Syracuse, NY |  **🔒 Closed 🔒** Software Engineer - New Grad |
 | F5 | Seattle, WA | **🔒 Closed 🔒** 2023 University Graduates - Software Engineer |
 | EAB | Remote & more |  **🔒 Closed 🔒** Associate Software Engineer |
