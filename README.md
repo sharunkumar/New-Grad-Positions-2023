@@ -54,26 +54,6 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [PEAK6](https://careers.peak6.com/jobs/technology-management/chicago-il-new-york-ny-austin-tx/software-engineer-campus-entry-level/4449643?gh_jid=4449643#/) | NYC & more | Software Engineer - Campus Entry-Level. The same application is used for all locations. |
 | [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
-| Pure Storage | Mountain View, CA |  **🔒 Closed 🔒** Software Engineer Grad |
-| Databricks | Seattle / San Francisco | **🔒 Closed 🔒** Software Engineer, Data Science, & IT | 
-| Restaurant Brands International | Miami, FL |  **🔒 Closed 🔒** 2023 Technical Development Program (TDP), Software Engineering |
-| Johnson & Johnson| Cincinnati, OH |  **🔒 Closed 🔒** Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) |
-| Jump Trading| Chicago | Campus \| **🔒 Closed 🔒** Software Engineer 2023 (Full-Time) |
-| SRC | Syracuse, NY |  **🔒 Closed 🔒** Software Engineer - New Grad |
-| F5 | Seattle, WA | **🔒 Closed 🔒** 2023 University Graduates - Software Engineer |
-| EAB | Remote & more |  **🔒 Closed 🔒** Associate Software Engineer |
-| Schmidt Futures | NYC |  **🔒 Closed 🔒** Engineer, Technologists for Global Transformation (TGT) Program |
-| Crusoe Energy| San Francisco | University \| **🔒 Closed 🔒** Software Engineer |
-| Roivant Sciences | NYC |  **🔒 Closed 🔒** Roivant Rotational Analyst 2023 (Tech) |
-| Alcon | Fort Worth, TX & more |  **🔒 Closed 🔒** 2023 Envision R&D Programs - Discipline Track 2. Accepts OPT but will NOT sponsor work visas. |
-| Quantcast | San Francisco |  **🔒 Closed 🔒** Software Engineer - New College Graduate |
-| Figma | NYC, SF, and London |  **🔒 Closed 🔒** Software Engineer, Data Scientist, Product Design |
-| Flatiron Health | New York, NY | **🔒 Closed 🔒** Software Engineer (2023 New Graduate)
-| Circle | Remote |  **🔒 Closed 🔒** New Grad Software Engineer, Backend/Frontend. Various locations and remote. Search under Engineering Department to see all locations |
-| Google  | USA  |  **🔒 Closed 🔒** Software Engineer, Early Career, Campus |
-| [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | Sunrise, FL, Phoenix, AZ| **🔒 Closed 🔒** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
-| SambaNova Systems| Palo Alto, CA |  **🔒 Closed 🔒** Software Engineer |
-| Manulife| Boston, MA |  **🔒 Closed 🔒** START Program - New Grad (June 2023 Start) | 
 | [NetApp](https://netapp.eightfold.ai/careers?pid=12956090&domain=netapp.com&utm) | San Jose, CA & more | NetApp Emerging Talent - Software Engineer. For the same role in other locations, look up the job title on their website. |
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html) | NYC & more | Global Technology Analyst Program - 2023 |
 | [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
@@ -114,7 +94,6 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Nextdoor | San Francisco, CA / US Remote | Machine Learning Engineer - New Grad 2023 (Master / PhD required) ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4571489), [Remote](https://about.nextdoor.com/careers-list/?gh_jid=4571500)); Software Engineer - New Grad 2023 ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4328986)) |
 | [ADP](https://tech.adp.com/job-search-results/?keyword=grad) | Norfolk, VA; Alpharetta, GA; Pasadena, CA; and Roseland, NJ | GPT Development Program – Associate Application Developer |
 | [Chewy](https://careers.chewy.com/us/en/job/4521685/Software-Engineer-1-2023-Campus-Recruiting) | Boston, MA; Minneapolis, MN; Plantation, FL; or Bellevue, WA | **Current permanent U.S. work authorization required** Software Engineer 1 – 2023 Campus Recruiting | 
-| Aurora | MTV, Seattle, Louisville, Pittsburgh, and San Francisco | **🔒 Closed 🔒** Associate Software Engineer |
 | [Samsara](https://www.samsara.com/company/careers/roles?departments=Early%20Career) | Remote - US | [SWE](https://boards.greenhouse.io/samsara/jobs/4475858?gh_jid=4475858), [Firmware](https://boards.greenhouse.io/samsara/jobs/4475594?gh_jid=4475594) |
 | [Anduril](https://jobs.lever.co/anduril/59640365-448f-49c3-bce3-8b83e0570197) | Costa Mesa, CA | **Need U.S. Person status** [Software Engineer] (https://jobs.lever.co/anduril/59640365-448f-49c3-bce3-8b83e0570197), [Mission Software Engineer](https://jobs.lever.co/anduril/b0a84037-8a50-4584-8637-ec3f9389bf91), [Robotics Software Engineer](https://jobs.lever.co/anduril/e9eecced-536a-460a-8145-5c9fcdb84a8b), [Embedded Software Engineer](https://jobs.lever.co/anduril/13240f81-0325-41a7-b268-e9f464805bc8), [Electrical Engineer](https://jobs.lever.co/anduril/698c6c0b-9097-4028-bad3-44aaaaa07d0e) |
 | [IXL](https://ie.ixl.com/company/careers?gh_jid=6304481002) | [San Mateo, CA](https://ie.ixl.com/company/careers?gh_jid=6304481002); [Raleigh, NC](https://ie.ixl.com/company/careers?gh_jid=6304459002); and [Toronto, ON, Canada](https://ie.ixl.com/company/careers?gh_jid=6304303002) | Software Developer, New Grad |
