@@ -273,7 +273,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Radical Semiconductors | Los Angeles, CA | **No Visa Sponsorship** [Full-Stack Product Engineer (New Grad)](https://simplify.jobs/p/4695e0d6-77c6-453c-ab8c-239abb28a450/Full-Stack-Product-Engineer-New-Grad) |
 | Affirm | Remote(US) | [Software Engineer-SRE](https://boards.greenhouse.io/affirm/jobs/4827136003), [Software Engineer-Compute](https://boards.greenhouse.io/affirm/jobs/5324983003) |
 | [2K (Visual Concepts)](https://boards.greenhouse.io/visualconcepts/jobs/5293521003) | Austin, TX | **This is a great opportunity ideally starting in January 2023.** Associate Software Engineer (Please check their websites for other locations and roles, but can't confirm if they are ng roles.) |
-| [Blend360](https://careers.smartrecruiters.com/Blend360?search=new%20grad) | Denver, CO; Columbia, MD | Data Engineer and Data Scientist | 
+| Blend360 | Denver, CO; Columbia, MD | **🔒 Closed 🔒** Data Engineer and Data Scientist | 
 | Tektronix | Beaverton, Oregon | **🔒 Closed 🔒** 2023 Engineering Rotation Program |
 | Gartner | Stamford, CT;  Irving, TX |**🔒 Closed 🔒** Associate Software Engineer Rotational Program - 2023 Grads |
 | [Washington University School of Medicine](https://medicine.wustl.edu) | [St. Louis](https://goo.gl/maps/6K2ZDhTL8D8Rz12AA)/Remote | [Application Developer - WashU IT Research Infrastructure Services](https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Application-Developer-Opportunities---WUIT---Research-Application-Engineering_JR66760) |
