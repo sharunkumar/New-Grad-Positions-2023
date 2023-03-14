@@ -234,7 +234,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | ServiceNow | Santa Clara, CA | **🔒 Closed 🔒** Assoc Software Engineer |
 | [Intel](https://jobs.intel.com/job/phoenix/college-graduate-computer-science-bs-ms-phd/41147/35292770992) |  Phoenix, AZ; Albuquerque, NM; Hillsboro, OR; Santa Clara, CA; and Columbus, OH | College Graduate - Computer Science (BS/MS/PHD) |
 | Abbott | CALIFORNIA - SYLMAR | **🔒 Closed 🔒** Software Engineer |
-| [TripActions](https://tripactions.com/job-openings/4488671?gh_jid=4488671&gh_src=b13de4e21) | Palo Alto, CA | Software Engineering Internship/ New College Grad | 
+| TripActions | Palo Alto, CA | **🔒 Closed 🔒** Software Engineer | 
 | [ExodusPoint Capital](https://boards.greenhouse.io/exoduspoint/) | NYC, London | Graduate Python Developer, Infrastructure Graduate Analyst, Technology Developer – Rotational Program, and Junior Trading Engineer. Some may need Master/Phd degree. |
 | [Awardco](https://www.award.co/careers) | Pleasant Grove, Utah | (**No Visa Sponsorship available**) [Back-End SWE (C# and .NET Framework)](https://www.award.co/position?gh_jid=4118198004) and [Salesforce Developer](https://award.co/position?gh_jid=4664842004) |
 | Demiurge Studios | Boston, MA | **🔒 Closed 🔒** 2023 Associate Software Engineer |
