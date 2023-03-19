@@ -83,7 +83,13 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/4349409?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer, New Grad (2023) |
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
-| [COGNEX](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Software-Engineering-Development-Program_R0007730) | Natick, MA | [2023 Campus Recruitment - Applications Engineering Development Program](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2023-Campus-Recruitment---Applications-Engineering-Development-Program_R0007731) |
+| Singularity Data | Santa Clara| **🔒 Closed 🔒** Software Engineer (New Grad)-Cloud Database | 
+| New Relic,Inc | Remote | **🔒 Closed 🔒** Associate Software Engineer  | 
+| Singularity Data | Santa Clara| **🔒 Closed 🔒** Software Engineer (New Grad)-Cloud Database
+| Intuit | Mountain View, San Diego | **🔒 Closed 🔒** Software Engineer 1 |
+| COGNEX | Natick, MA | **🔒 Closed 🔒** App Developer |
+| Lutron | Multiple Positions | **🔒 Closed 🔒** Project Application Software Engineer 2023 | 
+| McDonald's | Chicago |**🔒 Closed 🔒** Software Development Engineering Program |
 | [HPE](https://careers.hpe.com/us/en/hpe-interns-graduates) | San Jose(CA), Alpharetta(GA), Andover(MA), Bloomington(MN), Durham(NC), Ft. Collins(CO), Nashua(NH) | SDE, DS, PM, MLE ... |
 | [Northrop Grumman](https://www.northropgrumman.com/jobs/?country=United%20States%20of%20America&category=Engineering&search=2023%20Associate%20Software%20Engineer) | US | **Be able to obtain a U.S. Government security clearance (U.S. citizenship is a pre-requisite)** 2023 Associate Software Engineer |
 | SingleStore | San Francisco, Seattle, North Carolina (Raleigh)  | Software Engineer, Database Engine (University Graduate) |
