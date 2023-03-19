@@ -280,7 +280,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Auterion | Sorrento Valley, CA | **🔒 Closed 🔒** Frontend Software Engineer, Web Applications (New Graduate) ||
 | Grant Street Group | Remote | **No Visa Sponsorship. The anticipated start date for this position is in January 2023.** [Entry Level Software Developer](https://www.grantstreet.com/careers/career_opportunities/entry-level-software-developer-remote-11-21-2022/)|
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Software-Engineering---Software-Developer--Cloud--I_IRC87498?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | Schaumburg, IL |  Software Engineer (New Graduate, Cloud) ||
-| [Sonnet](https://www.workatastartup.com/jobs/57808) | San Fransisco, CA or Remote|  Software Engineer ||
+| Sonnet | San Fransisco, CA or Remote| **🔒 Closed 🔒** Software Engineer ||
 | [Candid Health](https://www.workatastartup.com/jobs/56849) | NYC, NY |  Software Engineer ||
 | [Two Dots](https://www.workatastartup.com/jobs/59260) | Los Angeles, CA |  Software Engineer ||
 | [Lyft](https://www.lyft.com/careers/early-talent) | SF, Seattle, NYC, or Remote | **🔒 Closed 🔒** Software Engineer (Mobile)||
