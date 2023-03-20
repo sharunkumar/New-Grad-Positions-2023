@@ -122,7 +122,6 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [2K (Visual Concepts)](https://boards.greenhouse.io/visualconcepts/jobs/5293521003) | Austin, TX | **This is a great opportunity ideally starting in January 2023.** Associate Software Engineer (Please check their websites for other locations and roles, but can't confirm if they are ng roles.) |
 | [Washington University School of Medicine](https://medicine.wustl.edu) | [St. Louis](https://goo.gl/maps/6K2ZDhTL8D8Rz12AA)/Remote | [Application Developer - WashU IT Research Infrastructure Services](https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Application-Developer-Opportunities---WUIT---Research-Application-Engineering_JR66760) |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Software-Engineering---Software-Developer--Cloud--I_IRC87498?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | Schaumburg, IL |  Software Engineer (New Graduate, Cloud) ||
-| Sonnet | San Fransisco, CA or Remote| **🔒 Closed 🔒** Software Engineer ||
 | [Candid Health](https://www.workatastartup.com/jobs/56849) | NYC, NY |  Software Engineer ||
 | [Two Dots](https://www.workatastartup.com/jobs/59260) | Los Angeles, CA |  Software Engineer ||
 | [Citadel](https://www.citadel.com/careers/open-opportunities/students/full-time/) | Multiple Locations, US | Software Engineer, [Quant Research](https://www.citadel.com/careers/details/quantitative-research-analyst-full-time-us-2/) |
