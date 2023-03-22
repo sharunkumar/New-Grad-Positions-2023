@@ -221,7 +221,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Rakuten Advertising | San Mateo, CA; New York, NY; Midvale, Utah | **🔒 Closed 🔒**  Associate Software Engineer |
 | PayPal | US multiple |  **🔒 Closed 🔒**  Software Engineer- Recent Graduate | 
 | Lockedheed Martin | Marietta, GA | **🔒 Closed 🔒** Software Engineer (Early Career) |
-| [ADP](https://tech.adp.com/job-search-results/?keyword=grad) | Norfolk, VA; Alpharetta, GA; Pasadena, CA; and Roseland, NJ | GPT Development Program – Associate Application Developer |
+| [ADP](https://tech.adp.com/job-search-results/?keyword=grad) | Norfolk, VA; Alpharetta, GA; Pasadena, CA; and Roseland, NJ |  **🔒 Closed 🔒** GPT Development Program – Associate Application Developer |
 | [Chewy](https://careers.chewy.com/us/en/job/4521685/Software-Engineer-1-2023-Campus-Recruiting) | Boston, MA; Minneapolis, MN; Plantation, FL; or Bellevue, WA | **Current permanent U.S. work authorization required** Software Engineer 1 – 2023 Campus Recruiting | 
 | Aurora | MTV, Seattle, Louisville, Pittsburgh, and San Francisco | **🔒 Closed 🔒** Associate Software Engineer |
 | [Samsara](https://www.samsara.com/company/careers/roles?departments=Early%20Career) | Remote - US | [SWE](https://boards.greenhouse.io/samsara/jobs/4475858?gh_jid=4475858), [Firmware](https://boards.greenhouse.io/samsara/jobs/4475594?gh_jid=4475594) |
