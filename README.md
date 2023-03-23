@@ -232,7 +232,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Vanguard](https://www.vanguardjobs.com/job-search-results/?category=Technology&level[]=Student%20%26%20Recent%20Graduates) | US | **No Visa Sponsorship** several IT, application engineers, and security roles |
 | [Apple](https://jobs.apple.com/en-us/details/200430385/engineer-evolve-rotation-program?team=SFTWR) | Seattle, Austin, and NYC | Engineer, Evolve Rotation Program. Search "Engineer, Evolve Rotation Program" on their website for more locations |
 | ServiceNow | Santa Clara, CA | **🔒 Closed 🔒** Assoc Software Engineer |
-| [Intel](https://jobs.intel.com/job/phoenix/college-graduate-computer-science-bs-ms-phd/41147/35292770992) |  Phoenix, AZ; Albuquerque, NM; Hillsboro, OR; Santa Clara, CA; and Columbus, OH | College Graduate - Computer Science (BS/MS/PHD) |
+| Intel |  Phoenix, AZ; Albuquerque, NM; Hillsboro, OR; Santa Clara, CA; and Columbus, OH | **🔒 Closed 🔒** College Graduate - Computer Science (BS/MS/PHD) |
 | Abbott | CALIFORNIA - SYLMAR | **🔒 Closed 🔒** Software Engineer |
 | TripActions | Palo Alto, CA | **🔒 Closed 🔒** Software Engineer | 
 | [ExodusPoint Capital](https://boards.greenhouse.io/exoduspoint/) | NYC, London | Graduate Python Developer, Infrastructure Graduate Analyst, Technology Developer – Rotational Program, and Junior Trading Engineer. Some may need Master/Phd degree. |
