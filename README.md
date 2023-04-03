@@ -69,7 +69,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
 | Verkada | San Mateo, CA | **🔒 Closed 🔒** Backend, Frontend, Security |
 | Credit Suisse  | New York, NY, Raleigh, NC  |  **🔒 Closed 🔒** 2023 Americas Technology Full-Time Analyst |
-| [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations  | College Graduates - Full-Time - Junior Software Engineer |
+| Old Mission  | Multiple locations  | **🔒 Closed 🔒** Junior Software Engineer |
 | Abnormal Security | San Francisco, California |  **🔒 Closed 🔒** New Grad SWE |
 | Audible | Culver City, CA |  **🔒 Closed 🔒** Software Development Engineer|
 | Argano | Remote |  **🔒 Closed 🔒** Junior Software Engineer|
