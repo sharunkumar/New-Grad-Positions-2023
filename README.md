@@ -39,13 +39,30 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
 | [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles |
-| [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?location=United%20States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CCampusSoftware%22) | US | Software Engineer 2023 Grads |
+| Indeed | Remote | **🔒 Closed 🔒**  Associate Research Engineer |
+| Capital One | US | **🔒 Closed 🔒**  Technology Development Program Associate |
+| Virtu Financial | New York, NY | **🔒 Closed 🔒** Entry-Level Software Engineer |
+| Philadelphia Phillies| Philadelphia, PA | **🔒 Closed 🔒**  Software Engineer Associate (Spring/Summer 2023) |
+| Caterpillar| Champaign, IL | **🔒 Closed 🔒** Associate Software Engineer (Cat Digital) |
+| Procter & Gamble | Cincinnati, OH | **🔒 Closed 🔒**  Software/Data Engineer 2023 Grads |
+| Optiver | US | **🔒 Closed 🔒** SWE and Quant  |
+| Oracle | US | **🔒 Closed 🔒** Software Engineer 2023 Grads |
+| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn) | US multiple | [**No Visa Sponsorship**](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn#:~:text=Able%20to%20legally%20live%20and%20work%20in%20the%20country%20for%20which%20you%E2%80%99re%20applying%2C%20without%20visa%20support%20or%20sponsorship%C2%A0); Software Engineer I (Full Time) United States |
+| Stytch | San Francisco, CA |  **🔒 Closed 🔒** New Grad, Software Engineer |
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/Software-Engineer--University-Grad-_3043053?source=APPLICANT_SOURCE-6-2)  | San Diego, CA | Software Engineer - New Grad|
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Quant Trader--Campus 2023 Start |
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)  | Natick, MA | Multiple Openings - Engineering Development Group |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
-| [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations  | College Graduates - Full-Time - Junior Software Engineer |
+| Verkada | San Mateo, CA | **🔒 Closed 🔒** Backend, Frontend, Security |
+| Credit Suisse  | New York, NY, Raleigh, NC  |  **🔒 Closed 🔒** 2023 Americas Technology Full-Time Analyst |
+| Old Mission  | Multiple locations  | **🔒 Closed 🔒** Junior Software Engineer |
+| Abnormal Security | San Francisco, California |  **🔒 Closed 🔒** New Grad SWE |
+| Audible | Culver City, CA |  **🔒 Closed 🔒** Software Development Engineer|
+| Argano | Remote |  **🔒 Closed 🔒** Junior Software Engineer|
+| Microsoft | USA  |  **🔒 Closed 🔒** New Graduate Software Engineer |
+| Uber | San Francisco, Sunnyvale, CA; Seattle, WA; Boulder, CO; New York, NY; Toronto, ON |  **🔒 Closed 🔒** New Grad - Software Engineer I |
+| Lawrence Livermore National Laboratory | Livermore, CA or remote |  **🔒 Closed 🔒** Software Developer |
 | Hudson River Trading | Multiple | Software Engineer & [Algo Software Engineer](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454781&req_id=310) |
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL or Remote | [SWE](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6296191002) and [Quant Researcher](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6280883002)
 | [Forward](https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a) | San Francisco, CA| Software Engineer - New Grad Full Stack |
@@ -102,7 +119,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [eBay](https://app.ripplematch.com/job/ebay/58692682/)|San Jose, CA, USA - San Francisco, CA, USA - Austin, TX, USA - Salt Lake City, UT, USA +4|Software Engineer, Recent College Graduate|
 | [Decide](https://boards.greenhouse.io/decide/jobs/4080847005) | Austin, TX Remote | Software Engineer, Integration Development |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/4557684) | Multiple locations | Software Engineer - New Grad
-| [Forbes](https://boards.greenhouse.io/forbes/jobs/4659385004) | Jersey City, NJ | [Junior Software Engineer, Systems](https://boards.greenhouse.io/forbes/jobs/4659385004) |
+| Forbes | Jersey City, NJ | **🔒 Closed 🔒** Junior Software Engineer |
 | [NXP](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Engineers---December-2022-and-May-2023-Graduates_R-10043733?source=web_handshake) | Austin (Oakhill, Office), San Jose (Plumeria Dr), Irvine, San Diego, Austin (Ed Bluestein, Office), Chandler (Office) | Entry Level Software Engineers - December 2022 and May 2023 Graduates |
 | [Voleon](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | BERKELEY, CA OR AUSTIN, TX | Software Engineer - University Hire 2023 |
 | [Observe](https://jobs.lever.co/observeinc/0df1b2ef-0118-4cc1-b219-f11bf06faceb) | San Mateo | [Software Engineer: Frontend, New Grad](https://jobs.lever.co/observeinc/0df1b2ef-0118-4cc1-b219-f11bf06faceb)|
