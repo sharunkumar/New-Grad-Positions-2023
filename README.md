@@ -78,7 +78,16 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Point72](https://careers.point72.com/CSJobDetail?jobName=2023-cubist-quant-academy-developers&jobCode=CSS-0010116) | NYC | 2023 Cubist Quant Academy--Developers |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-for-Mixed-Signal-Simulation-and-Verification--New-College-Graduate-_R40004-1) | San Jose, CA | Software Engineer for Mixed-Signal Simulation and Verification (New College Graduate). [Software Engineer (New College Graduate)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Graduate-_R40844-1) |
 | [Nutanix](https://nutanix.eightfold.ai/careers?pid=13264357&domain=nutanix.com) | San Jose, CA (Hybrid) | Software Engineering - New Grad |
-| [Sentry](https://boards.greenhouse.io/sentry/jobs/4349409?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer, New Grad (2023) |
+| Sentar | Huntsville, AL | **🔒 Closed 🔒** Junior Software Developer |
+| M&T Bank | Buffalo, NY | **🔒 Closed 🔒** Technology Development Program | 
+| Zebra| Holtsville, New York | **🔒 Closed 🔒** Software Engineer, I |
+| Wells Fargo | Charlotte, NC | **🔒 Closed 🔒** 2023 Wells Fargo Technology Analyst Program - Software Engineering |
+| [Citi](https://jobs.citi.com/job/new-york/icg-technology-full-time-analyst-software-development-new-york-city-north-america-2023/287/34889411712) | NYC, Tampa(FL), Jacksonville(FL), Dallas(TX), Mississauga(Canada) | **No Visa Sponsorship** ICG Technology, Full Time Analyst, Software Development (Check their website for more roles and more locations) |
+| [United Airlines](https://careers.united.com/job/16486849/associate-early-career-digital-leadership-program-campus-2023-hires-new-grads-chicago/) | Chicago,IL | **No Visa Sponsorship** Associate – Early Career Digital Leadership Program |
+| American Airlines | DFW Airport, TX | **🔒 Closed 🔒** Associate Developer| 
+| Peraton | Blacksburg, VA | **🔒 Closed 🔒** Software Engineer (Entry-Level) |
+| Pinterest | US Remote | **🔒 Closed 🔒** University Grad Software Engineer |
+| Sentry | San Francisco, CA |**🔒 Closed 🔒**  Software Engineer, New Grad (2023) |
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
 | [HPE](https://careers.hpe.com/us/en/hpe-interns-graduates) | San Jose(CA), Alpharetta(GA), Andover(MA), Bloomington(MN), Durham(NC), Ft. Collins(CO), Nashua(NH) | SDE, DS, PM, MLE ... |
