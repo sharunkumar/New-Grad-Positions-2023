@@ -208,7 +208,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | SingleStore | San Francisco, Seattle, North Carolina (Raleigh)  | Software Engineer, Database Engine (University Graduate) |
 | DoorDash | Multiple | **🔒 Closed 🔒** Software Engineer, Entry-Level 2022/23 |
 | [Fidelity](https://jobs.fidelity.com/job-details/16491200/2022-2023-undergraduates-leap-full-stack-engineer/) | Durham, NH; Westlake, TX; Merrimack, NH; Smithfield, RI; and Boston, MA | **No Visa Sponsorship** Undergraduates Full Stack Engineer |
-| [Okta](https://www.okta.com/company/careers/) | US Remote | [Competitive Intelligence, New Grad, Customer Identity Cloud](https://www.okta.com/company/careers/product/competitive-intelligence-new-grad-customer-identity-cloud-4620106/) |
+| Okta | US Remote | **🔒 Closed 🔒**  Competitive Intelligence, New Grad, Customer Identity Cloud |
 | [Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4365607004) | Remote, US | Software Engineer |
 | Comcast | Philadelphia, LA | **🔒 Closed 🔒** CORE Technology Rotational Program |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
