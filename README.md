@@ -83,7 +83,9 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [HPE](https://careers.hpe.com/us/en/hpe-interns-graduates) | San Jose(CA), Alpharetta(GA), Andover(MA), Bloomington(MN), Durham(NC), Ft. Collins(CO), Nashua(NH) | SDE, DS, PM, MLE ... |
 | [Northrop Grumman](https://www.northropgrumman.com/jobs/?country=United%20States%20of%20America&category=Engineering&search=2023%20Associate%20Software%20Engineer) | US | **Be able to obtain a U.S. Government security clearance (U.S. citizenship is a pre-requisite)** 2023 Associate Software Engineer |
 | SingleStore | San Francisco, Seattle, North Carolina (Raleigh)  | Software Engineer, Database Engine (University Graduate) |
-| [Okta](https://www.okta.com/company/careers/) | US Remote | [Competitive Intelligence, New Grad, Customer Identity Cloud](https://www.okta.com/company/careers/product/competitive-intelligence-new-grad-customer-identity-cloud-4620106/) |
+| DoorDash | Multiple | **🔒 Closed 🔒** Software Engineer, Entry-Level 2022/23 |
+| [Fidelity](https://jobs.fidelity.com/job-details/16491200/2022-2023-undergraduates-leap-full-stack-engineer/) | Durham, NH; Westlake, TX; Merrimack, NH; Smithfield, RI; and Boston, MA | **No Visa Sponsorship** Undergraduates Full Stack Engineer |
+| Okta | US Remote | **🔒 Closed 🔒**  Competitive Intelligence, New Grad, Customer Identity Cloud |
 | [Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4365607004) | Remote, US | Software Engineer |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
 | [BAE System](https://jobs.baesystems.com/global/en/search-results?keywords=2023%20Entry%20Level%20Software%20Engineer&s=1) | US | **Requires US Citizenship Status** 2023 Entry Level Software Engineer | 
