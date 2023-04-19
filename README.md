@@ -272,7 +272,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Charles Schwab| Multiple Locations | **🔒 Closed 🔒** Associate - Software Development & Engineering |
 | Radical Semiconductors | Los Angeles, CA | **No Visa Sponsorship** [Full-Stack Product Engineer (New Grad)](https://simplify.jobs/p/4695e0d6-77c6-453c-ab8c-239abb28a450/Full-Stack-Product-Engineer-New-Grad) |
 | Affirm | Remote(US) | [Software Engineer-SRE](https://boards.greenhouse.io/affirm/jobs/4827136003), [Software Engineer-Compute](https://boards.greenhouse.io/affirm/jobs/5324983003) |
-| [2K (Visual Concepts)](https://boards.greenhouse.io/visualconcepts/jobs/5293521003) | Austin, TX | **This is a great opportunity ideally starting in January 2023.** Associate Software Engineer (Please check their websites for other locations and roles, but can't confirm if they are ng roles.) |
+| [2K (Visual Concepts)](https://boards.greenhouse.io/visualconcepts/jobs/5293521003) | Austin, TX | Associate Engineer Position |
 | Blend360 | Denver, CO; Columbia, MD | **🔒 Closed 🔒** Data Engineer and Data Scientist | 
 | Tektronix | Beaverton, Oregon | **🔒 Closed 🔒** 2023 Engineering Rotation Program |
 | Gartner | Stamford, CT;  Irving, TX |**🔒 Closed 🔒** Associate Software Engineer Rotational Program - 2023 Grads |
