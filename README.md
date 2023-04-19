@@ -116,7 +116,6 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html) | NYC & more | Global Technology Analyst Program - 2023 |
 | [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
 | [Gordian Software](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | Software Engineer (Fresh Grad 2023) |
 | Adobe | US |  **🔒 Closed 🔒** Multiple 2023 New Grad Roles | 
 | Levvel | Remote |  **🔒 Closed 🔒** Junior Developer (Early Talent 2023) |  
 | General Motors | Warren, MI |  **🔒 Closed 🔒** Entry-Level Software Engineering Rotational Program | 
@@ -285,6 +284,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Two Dots](https://www.workatastartup.com/jobs/59260) | Los Angeles, CA |  Software Engineer ||
 | [Lyft](https://www.lyft.com/careers/early-talent) | SF, Seattle, NYC, or Remote | **🔒 Closed 🔒** Software Engineer (Mobile)||
 | [Citadel](https://www.citadel.com/careers/open-opportunities/students/full-time/) | Multiple Locations, US | Software Engineer, [Quant Research](https://www.citadel.com/careers/details/quantitative-research-analyst-full-time-us-2/) |
+| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | [IT System Engineer](https://boards.greenhouse.io/neuralink/jobs/4450312003) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/owini/New-Grad-Positions-2023#the-list-)
