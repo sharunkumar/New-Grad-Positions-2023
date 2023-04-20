@@ -56,7 +56,9 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html) | NYC & more | Global Technology Analyst Program - 2023 |
 | [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
 | [Gordian Software](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | Software Engineer (Fresh Grad 2023) |
+| Adobe | US |  **🔒 Closed 🔒** Multiple 2023 New Grad Roles | 
+| Levvel | Remote |  **🔒 Closed 🔒** Junior Developer (Early Talent 2023) |  
+| General Motors | Warren, MI |  **🔒 Closed 🔒** Entry-Level Software Engineering Rotational Program | 
 | [Mueller Water Products](https://muellerwaterproducts.wd5.myworkdayjobs.com/en-US/Mueller/job/Atlanta-GA/XMLNAME-2023-Software-Engineer-Development-Program_R3169) | Atlanta, GA | 2023 Software Engineer Development Program | 
 | [Cat Digital](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2023-Software-Engineering-Recent-Grad-Positions---Cat-Digital_R0000179317?q=2023%20Software%20Engineering%20Recent%20Grad) | Chicago & more | 2023 Software Engineering Recent Grad |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/oOjJkfwU) | Austin, TX | Software Engineer - New College Graduate |
@@ -111,12 +113,16 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Cleanlab.ai](https://cleanlab.ai/careers/) | Remote | **Full-time positions start summer 2023** Backend Engineer, Frontend Engineer, Full-Stack Engineer, Infrastructure Engineer, ML Engineer, and Research Scientist |
 | [Glean](https://boards.greenhouse.io/gleanwork/jobs/4006730005) | Palo Alto | Software Engineer - University Grad |
 | Affirm | Remote(US) | [Software Engineer-SRE](https://boards.greenhouse.io/affirm/jobs/4827136003), [Software Engineer-Compute](https://boards.greenhouse.io/affirm/jobs/5324983003) |
-| [2K (Visual Concepts)](https://boards.greenhouse.io/visualconcepts/jobs/5293521003) | Austin, TX | **This is a great opportunity ideally starting in January 2023.** Associate Software Engineer (Please check their websites for other locations and roles, but can't confirm if they are ng roles.) |
+| [2K (Visual Concepts)](https://boards.greenhouse.io/visualconcepts/jobs/5293521003) | Austin, TX | Associate Engineer Position |
+| Blend360 | Denver, CO; Columbia, MD | **🔒 Closed 🔒** Data Engineer and Data Scientist | 
+| Tektronix | Beaverton, Oregon | **🔒 Closed 🔒** 2023 Engineering Rotation Program |
+| Gartner | Stamford, CT;  Irving, TX |**🔒 Closed 🔒** Associate Software Engineer Rotational Program - 2023 Grads |
 | [Washington University School of Medicine](https://medicine.wustl.edu) | [St. Louis](https://goo.gl/maps/6K2ZDhTL8D8Rz12AA)/Remote | [Application Developer - WashU IT Research Infrastructure Services](https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Application-Developer-Opportunities---WUIT---Research-Application-Engineering_JR66760) |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Software-Engineering---Software-Developer--Cloud--I_IRC87498?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | Schaumburg, IL |  Software Engineer (New Graduate, Cloud) ||
 | [Candid Health](https://www.workatastartup.com/jobs/56849) | NYC, NY |  Software Engineer ||
 | [Two Dots](https://www.workatastartup.com/jobs/59260) | Los Angeles, CA |  Software Engineer ||
 | [Citadel](https://www.citadel.com/careers/open-opportunities/students/full-time/) | Multiple Locations, US | Software Engineer, [Quant Research](https://www.citadel.com/careers/details/quantitative-research-analyst-full-time-us-2/) |
+| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | [IT System Engineer](https://boards.greenhouse.io/neuralink/jobs/4450312003) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/owini/New-Grad-Positions-2023#the-list-)
