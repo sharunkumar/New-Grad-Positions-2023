@@ -267,7 +267,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [C3.ai](https://c3.ai/job-description/?gh_jid=6345004002) | Redwood City, CA | Software Engineer - Early Professional (2023) |
 | [Cleanlab.ai](https://cleanlab.ai/careers/) | Remote | **Full-time positions start summer 2023** Backend Engineer, Frontend Engineer, Full-Stack Engineer, Infrastructure Engineer, ML Engineer, and Research Scientist |
 | [SAP](https://jobs.sap.com/job/Palo-Alto-SOFTWARE-ENGINEERING-SAP-Next-Talent-Rotational-Program-%282023-Grads%29-CA-94304/865869201/) | Palo Alto, CA | **Requirement of not needing permanent US work authorization (now nor in the future) to be considered, there is no visa sponsorship available at this time.** SOFTWARE ENGINEERING: SAP Next Talent - Rotational Program (2023 Grads) | 
-| [Glean](https://boards.greenhouse.io/gleanwork/jobs/4006730005) | Palo Alto | Software Engineer - University Grad |
+| Glean | Palo Alto |  **🔒 Closed 🔒** Software Engineer - University Grad |
 | Charles Schwab| Multiple Locations | **🔒 Closed 🔒** Associate - Software Development & Engineering |
 | Radical Semiconductors | Los Angeles, CA | **No Visa Sponsorship** [Full-Stack Product Engineer (New Grad)](https://simplify.jobs/p/4695e0d6-77c6-453c-ab8c-239abb28a450/Full-Stack-Product-Engineer-New-Grad) |
 | Affirm | Remote(US) | [Software Engineer-SRE](https://boards.greenhouse.io/affirm/jobs/4827136003), [Software Engineer-Compute](https://boards.greenhouse.io/affirm/jobs/5324983003) |
