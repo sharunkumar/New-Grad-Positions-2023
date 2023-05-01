@@ -33,11 +33,6 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
-| Akuna Capital | Chicago      | **🔒 Closed 🔒**	Various Junior Developer Positions |
-| Disney | Burbank, CA | **🔒 Closed 🔒** Software Engineer I |
-| VMware | Palo Alto, California; Atlanta, Georgia  | **🔒 Closed 🔒** Launch New Grad SWE |
-| IMC | Chicago  | **🔒 Closed 🔒** Graduate Software Engineer |
-| Palantir | Denver, CO | **🔒 Closed 🔒** Software Engineer, New Grad |
 | [Sofi](https://www.sofi.com/careers/) | Multiple | Several "New Grad, Software Engineer" roles in "Engineering" |
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
