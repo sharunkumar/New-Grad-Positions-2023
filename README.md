@@ -60,7 +60,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Stytch | San Francisco, CA |  **🔒 Closed 🔒** New Grad, Software Engineer |
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | Raytheon Technologies| Cedar Rapids, IA |  **🔒 Closed 🔒** Software Engineer I(New Grad)(Hybrid)|
-| [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/Software-Engineer--University-Grad-_3043053?source=APPLICANT_SOURCE-6-2)  | San Diego, CA | Software Engineer - New Grad|
+| Qualcomm  | San Diego, CA | **🔒 Closed 🔒** Software Engineer - New Grad|
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Quant Trader--Campus 2023 Start |
 | Citrix  | US |  **🔒 Closed 🔒** Software Engineer 2023 |
 | WeRide.ai  | San Jose, CA |  **🔒 Closed 🔒**  Software Engineer (New Grad) |
