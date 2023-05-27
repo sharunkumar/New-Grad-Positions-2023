@@ -168,7 +168,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | PMG | Dallas, TX | **🔒 Closed 🔒** Graduate Leadership Program - Software Engineer - Summer 2023 |
 | [Point72](https://careers.point72.com/CSJobDetail?jobName=2023-cubist-quant-academy-developers&jobCode=CSS-0010116) | NYC | 2023 Cubist Quant Academy--Developers |
 | Lam Research | Fremont, CA | **🔒 Closed 🔒** New College Graduate Software Engineer |
-| [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-for-Mixed-Signal-Simulation-and-Verification--New-College-Graduate-_R40004-1) | San Jose, CA | Software Engineer for Mixed-Signal Simulation and Verification (New College Graduate). [Software Engineer (New College Graduate)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Graduate-_R40844-1) |
+| [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-for-Mixed-Signal-Simulation-and-Verification--New-College-Graduate-_R40004-1) | San Jose, CA | **🔒 Closed 🔒** Software Engineer for Mixed-Signal Simulation and Verification (New College Graduate) |
 | PwC | Multiple Locations | **🔒 Closed 🔒** Software Engineer Associate Summer/Fall '23 |
 | PROS | Houston, TX | **🔒 Closed 🔒** 2023 University Recruiting - Software Engineer I |
 | Qualtrics | Multiple Locations | **🔒 Closed 🔒** Software Engineer - New Grad |
