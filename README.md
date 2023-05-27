@@ -39,7 +39,8 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
 | [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles |
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
-| [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/Software-Engineer--University-Grad-_3043053?source=APPLICANT_SOURCE-6-2)  | San Diego, CA | Software Engineer - New Grad|
+| Raytheon Technologies| Cedar Rapids, IA |  **🔒 Closed 🔒** Software Engineer I(New Grad)(Hybrid)|
+| Qualcomm  | San Diego, CA | **🔒 Closed 🔒** Software Engineer - New Grad|
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Quant Trader--Campus 2023 Start |
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)  | Natick, MA | Multiple Openings - Engineering Development Group |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
@@ -84,7 +85,13 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
 | [BAE System](https://jobs.baesystems.com/global/en/search-results?keywords=2023%20Entry%20Level%20Software%20Engineer&s=1) | US | **Requires US Citizenship Status** 2023 Entry Level Software Engineer | 
 | Nextdoor | San Francisco, CA / US Remote | Machine Learning Engineer - New Grad 2023 (Master / PhD required) ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4571489), [Remote](https://about.nextdoor.com/careers-list/?gh_jid=4571500)); Software Engineer - New Grad 2023 ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4328986)) |
-| [Chewy](https://careers.chewy.com/us/en/job/4521685/Software-Engineer-1-2023-Campus-Recruiting) | Boston, MA; Minneapolis, MN; Plantation, FL; or Bellevue, WA | **Current permanent U.S. work authorization required** Software Engineer 1 – 2023 Campus Recruiting | 
+| Tebra | Newport Beach, CA (Remote) | **🔒 Closed 🔒** Front End Software Engineer |
+| Rakuten Advertising | San Mateo, CA; New York, NY; Midvale, Utah | **🔒 Closed 🔒**  Associate Software Engineer |
+| PayPal | US multiple |  **🔒 Closed 🔒**  Software Engineer- Recent Graduate | 
+| Lockedheed Martin | Marietta, GA | **🔒 Closed 🔒** Software Engineer (Early Career) |
+| [ADP](https://tech.adp.com/job-search-results/?keyword=grad) | Norfolk, VA; Alpharetta, GA; Pasadena, CA; and Roseland, NJ |  **🔒 Closed 🔒** GPT Development Program – Associate Application Developer |
+| Chewy | Boston, MA; Minneapolis, MN; Plantation, FL; or Bellevue, WA | **🔒 Closed 🔒**  Software Engineer | 
+| Aurora | MTV, Seattle, Louisville, Pittsburgh, and San Francisco | **🔒 Closed 🔒** Associate Software Engineer |
 | [Samsara](https://www.samsara.com/company/careers/roles?departments=Early%20Career) | Remote - US | [SWE](https://boards.greenhouse.io/samsara/jobs/4475858?gh_jid=4475858), [Firmware](https://boards.greenhouse.io/samsara/jobs/4475594?gh_jid=4475594) |
 | [Anduril](https://jobs.lever.co/anduril/59640365-448f-49c3-bce3-8b83e0570197) | Costa Mesa, CA | **Need U.S. Person status** [Software Engineer] (https://jobs.lever.co/anduril/59640365-448f-49c3-bce3-8b83e0570197), [Mission Software Engineer](https://jobs.lever.co/anduril/b0a84037-8a50-4584-8637-ec3f9389bf91), [Robotics Software Engineer](https://jobs.lever.co/anduril/e9eecced-536a-460a-8145-5c9fcdb84a8b), [Embedded Software Engineer](https://jobs.lever.co/anduril/13240f81-0325-41a7-b268-e9f464805bc8), [Electrical Engineer](https://jobs.lever.co/anduril/698c6c0b-9097-4028-bad3-44aaaaa07d0e) |
 | [IXL](https://ie.ixl.com/company/careers?gh_jid=6304481002) | [San Mateo, CA](https://ie.ixl.com/company/careers?gh_jid=6304481002); [Raleigh, NC](https://ie.ixl.com/company/careers?gh_jid=6304459002); and [Toronto, ON, Canada](https://ie.ixl.com/company/careers?gh_jid=6304303002) | Software Developer, New Grad |
