@@ -141,7 +141,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Duolingo | Pittsburgh, PA |  **🔒 Closed 🔒** Operations Engineer, AI Research Engineer |
 | [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
-| [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
+| Vecna | Burlington, MA |  **🔒 Closed 🔒** New Grad - Software Engineer | 
 | Western Digital | Rochester, MN | **🔒 Closed 🔒** Software Engineer |
 | [ByteDance](https://jobs.bytedance.com/en/position/7138210801609591077/detail?spread=BSPP2KS) | Mountain View, CA | Software Engineer, University Graduate (Lark)- 2023 Start (BS/MS) |
 | Deutsche Bank | Multiple | **🔒 Closed 🔒** Deutsche Bank Analyst Program - Technology, Data and Innovation |
