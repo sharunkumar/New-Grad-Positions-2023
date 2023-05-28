@@ -64,7 +64,8 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html#:~:text=pursuing%20a%20BA/BS%20degree) | USA | Software Engineer (New Grad)|
 | [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
-| [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
+| Vecna | Burlington, MA |  **🔒 Closed 🔒** New Grad - Software Engineer | 
+| Western Digital | Rochester, MN | **🔒 Closed 🔒** Software Engineer |
 | [ByteDance](https://jobs.bytedance.com/en/position/7138210801609591077/detail?spread=BSPP2KS) | Mountain View, CA | Software Engineer, University Graduate (Lark)- 2023 Start (BS/MS) |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2022-2023) | USA | Full-Time Analyst Program |
 | [Visa](https://usa.visa.com/en_us/jobs/REF52473N) | Austin, TX | Software Engineer - Undergrad New College Grad - Multiple Locations - 2023 |
@@ -72,7 +73,19 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | [Arm](https://earlycareers-arm.icims.com/jobs/6215/graduate-rotation-engineer---cpu/job?mode=submit_apply) | Austin, TX | Graduate Rotation Engineer - CPU |
 | [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=CT_203%2CCT_75%2CCT_222%2CCT_104%2CCT_223%2CCT_221%2CCT_247%2CCT_157%2CCT_243%2CCT_114%2CCT_94&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=) | Mountain View, Santa Clara, SF, Seattle, LA, and NYC | SWE, MLE, DS, SRE, and Researcher |
 | [Point72](https://careers.point72.com/CSJobDetail?jobName=2023-cubist-quant-academy-developers&jobCode=CSS-0010116) | NYC | 2023 Cubist Quant Academy--Developers |
-| [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-for-Mixed-Signal-Simulation-and-Verification--New-College-Graduate-_R40004-1) | San Jose, CA | Software Engineer for Mixed-Signal Simulation and Verification (New College Graduate). [Software Engineer (New College Graduate)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Graduate-_R40844-1) |
+| Lam Research | Fremont, CA | **🔒 Closed 🔒** New College Graduate Software Engineer |
+| [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-for-Mixed-Signal-Simulation-and-Verification--New-College-Graduate-_R40004-1) | San Jose, CA | **🔒 Closed 🔒** Software Engineer for Mixed-Signal Simulation and Verification (New College Graduate) |
+| PwC | Multiple Locations | **🔒 Closed 🔒** Software Engineer Associate Summer/Fall '23 |
+| PROS | Houston, TX | **🔒 Closed 🔒** 2023 University Recruiting - Software Engineer I |
+| Qualtrics | Multiple Locations | **🔒 Closed 🔒** Software Engineer - New Grad |
+| Fairmarkit | Remote | **🔒 Closed 🔒** Software Engineer - 2023 New Grad | 
+| WillowTree| Multiple | **🔒 Closed 🔒** Backend Software Engineer |
+| Hudl | Remote | **🔒 Closed 🔒** Software Engineer |
+| Aon | NYC & more | **🔒 Closed 🔒** Early Careers: Cyber Associate |
+| Brex | Remote | **🔒 Closed 🔒** Software Engineer, New Grad - c/o 2023 (Remote) |
+| [Atlassian](https://www.atlassian.com/company/careers/students) | Fully Remote, MTV | [SWE](https://www.atlassian.com/company/careers/detail/977df53a-539d-4b6c-9fbf-0167d8ffd83b) - **No sponsorships**|
+| Nike | Beaverton, Oregon | **🔒 Closed 🔒** Software Engineer |
+| Zoom | Remote; San Jose (CA) | **🔒 Closed 🔒** Software Development Engineer & DevOps |
 | [Nutanix](https://nutanix.eightfold.ai/careers?pid=13264357&domain=nutanix.com) | San Jose, CA (Hybrid) | Software Engineering - New Grad |
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
