@@ -191,7 +191,7 @@ Happy New Year! This repo is to share and keep track of any full time positions 
 | Peraton | Blacksburg, VA | **🔒 Closed 🔒** Software Engineer (Entry-Level) |
 | Pinterest | US Remote | **🔒 Closed 🔒** University Grad Software Engineer |
 | Sentry | San Francisco, CA |**🔒 Closed 🔒**  Software Engineer, New Grad (2023) |
-| [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
+| DISCO| Austin, TX | **🔒 Closed 🔒**  Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
 | Singularity Data | Santa Clara| **🔒 Closed 🔒** Software Engineer (New Grad)-Cloud Database | 
 | New Relic,Inc | Remote | **🔒 Closed 🔒** Associate Software Engineer  | 
