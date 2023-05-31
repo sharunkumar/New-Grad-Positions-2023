@@ -33,7 +33,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 | Name | Location | Notes |
 | ---- | -------- | ----- |
-| Goldman Sachs| Global | Placeholder |
+| [Blackrock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB)| Atlanta, GA **\|** San Francisco, CA **\|** New York, NY | [SWE, PM, Quant Positions](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) |
 
 <!-- Please leave a one line gap between this and the table -->
 
