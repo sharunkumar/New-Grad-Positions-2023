@@ -1,6 +1,6 @@
 # 2023 New Grad Tech Positions :earth_americas::rocket:
 
-Happy New Year! This repo is to share and keep track of any full time positions in SWE, Quant, Data Scientist, ML Engineer and PM. It's been a crazy time, but many companies are still hiring. You got this! 🎉
+This repo is to share and keep track of any full time positions in SWE, Quant, Data Scientist, ML Engineer and PM. It's been a crazy time, but many companies are still hiring. You got this! 🎉
 
 
 ### 🧠 Tech Interview Guides</summary>
