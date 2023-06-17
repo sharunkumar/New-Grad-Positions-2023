@@ -246,7 +246,7 @@ This repo is to share and keep track of any full time positions in SWE, Quant, D
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/4557684) | Multiple locations | Software Engineer - New Grad
 | Forbes | Jersey City, NJ | **🔒 Closed 🔒** Junior Software Engineer |
 | [NXP](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Engineers---December-2022-and-May-2023-Graduates_R-10043733?source=web_handshake) | Austin (Oakhill, Office), San Jose (Plumeria Dr), Irvine, San Diego, Austin (Ed Bluestein, Office), Chandler (Office) | Entry Level Software Engineers - December 2022 and May 2023 Graduates |
-| [Voleon](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | BERKELEY, CA OR AUSTIN, TX | Software Engineer - University Hire 2023 |
+| [Voleon](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | BERKELEY, CA OR AUSTIN, TX | **🔒 Closed 🔒** Software Engineer - University Hire 2023 |
 | [Observe](https://jobs.lever.co/observeinc/0df1b2ef-0118-4cc1-b219-f11bf06faceb) | San Mateo | [Software Engineer: Frontend, New Grad](https://jobs.lever.co/observeinc/0df1b2ef-0118-4cc1-b219-f11bf06faceb)|
 | Baseten | San Francisco, CA / US Remote |  **🔒 Closed 🔒** Full Stack SWE| 
 | [Snackpass](https://boards.greenhouse.io/snackpass/jobs/4566648004) | NYC, SF, LA, Remote | **No Visa Sponsorship** Full Stack Software Engineer |｜[Tackle.io](https://jobs.lever.co/tackle/884413e2-082a-41f1-86da-f53164d1f955) | US Remote | Software Engineer New Graduate |
