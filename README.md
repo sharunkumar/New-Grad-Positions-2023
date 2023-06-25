@@ -66,7 +66,7 @@ This repo is to share and keep track of any full time positions in SWE, Quant, D
 | WeRide.ai  | San Jose, CA |  **🔒 Closed 🔒**  Software Engineer (New Grad) |
 | Otter.ai  | Mountain View, CA |  **🔒 Closed 🔒** Software Engineer, Backend (New Grad)|
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)  | Natick, MA | Multiple Openings - Engineering Development Group |
-| [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
+| [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco |  **🔒 Closed 🔒** Software Engineer, New Grad |
 | Verkada | San Mateo, CA | **🔒 Closed 🔒** Backend, Frontend, Security |
 | Credit Suisse  | New York, NY, Raleigh, NC  |  **🔒 Closed 🔒** 2023 Americas Technology Full-Time Analyst |
 | Old Mission  | Multiple locations  | **🔒 Closed 🔒** Junior Software Engineer |
