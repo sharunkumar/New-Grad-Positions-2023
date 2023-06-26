@@ -58,7 +58,7 @@ This repo is to share and keep track of any full time positions in SWE, Quant, D
 | Oracle | US | **🔒 Closed 🔒** Software Engineer 2023 Grads |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn) | US multiple | [**No Visa Sponsorship**](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn#:~:text=Able%20to%20legally%20live%20and%20work%20in%20the%20country%20for%20which%20you%E2%80%99re%20applying%2C%20without%20visa%20support%20or%20sponsorship%C2%A0); Software Engineer I (Full Time) United States |
 | Stytch | San Francisco, CA |  **🔒 Closed 🔒** New Grad, Software Engineer |
-| [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
+| SIG | Bala Cynwyd, PA | **🔒 Closed 🔒** Software Developer--Campus 2023 Start |
 | Raytheon Technologies| Cedar Rapids, IA |  **🔒 Closed 🔒** Software Engineer I(New Grad)(Hybrid)|
 | Qualcomm  | San Diego, CA | **🔒 Closed 🔒** Software Engineer - New Grad|
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | **🔒 Closed 🔒** Quant Trader--Campus 2023 Start |
