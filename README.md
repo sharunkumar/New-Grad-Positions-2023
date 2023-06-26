@@ -61,7 +61,7 @@ This repo is to share and keep track of any full time positions in SWE, Quant, D
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | Raytheon Technologies| Cedar Rapids, IA |  **🔒 Closed 🔒** Software Engineer I(New Grad)(Hybrid)|
 | Qualcomm  | San Diego, CA | **🔒 Closed 🔒** Software Engineer - New Grad|
-| [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Quant Trader--Campus 2023 Start |
+| [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | **🔒 Closed 🔒** Quant Trader--Campus 2023 Start |
 | Citrix  | US |  **🔒 Closed 🔒** Software Engineer 2023 |
 | WeRide.ai  | San Jose, CA |  **🔒 Closed 🔒**  Software Engineer (New Grad) |
 | Otter.ai  | Mountain View, CA |  **🔒 Closed 🔒** Software Engineer, Backend (New Grad)|
