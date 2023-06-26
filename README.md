@@ -61,12 +61,12 @@ This repo is to share and keep track of any full time positions in SWE, Quant, D
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | Raytheon Technologies| Cedar Rapids, IA |  **🔒 Closed 🔒** Software Engineer I(New Grad)(Hybrid)|
 | Qualcomm  | San Diego, CA | **🔒 Closed 🔒** Software Engineer - New Grad|
-| [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Quant Trader--Campus 2023 Start |
+| [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | **🔒 Closed 🔒** Quant Trader--Campus 2023 Start |
 | Citrix  | US |  **🔒 Closed 🔒** Software Engineer 2023 |
 | WeRide.ai  | San Jose, CA |  **🔒 Closed 🔒**  Software Engineer (New Grad) |
 | Otter.ai  | Mountain View, CA |  **🔒 Closed 🔒** Software Engineer, Backend (New Grad)|
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)  | Natick, MA | Multiple Openings - Engineering Development Group |
-| [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
+| [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco |  **🔒 Closed 🔒** Software Engineer, New Grad |
 | Verkada | San Mateo, CA | **🔒 Closed 🔒** Backend, Frontend, Security |
 | Credit Suisse  | New York, NY, Raleigh, NC  |  **🔒 Closed 🔒** 2023 Americas Technology Full-Time Analyst |
 | Old Mission  | Multiple locations  | **🔒 Closed 🔒** Junior Software Engineer |
@@ -113,7 +113,7 @@ This repo is to share and keep track of any full time positions in SWE, Quant, D
 | [NetApp](https://netapp.eightfold.ai/careers?pid=12956090&domain=netapp.com&utm) | San Jose, CA & more | NetApp Emerging Talent - Software Engineer. For the same role in other locations, look up the job title on their website. |
 | U.S. Bank | Richfield, MN & more |  **🔒 Closed 🔒** 2023 Engineering Full-Time Rotation Program Early Careers (Undergraduate) |
 | Rippling | San Francisco, CA |  **🔒 Closed 🔒** Software Engineer - New Grad |
-| [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html) | NYC & more | Global Technology Analyst Program - 2023 |
+| [Bank of America | NYC & more |  **🔒 Closed 🔒** Global Technology Analyst Program - 2023 |
 | [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
 | [Gordian Software](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
 | Adobe | US |  **🔒 Closed 🔒** Multiple 2023 New Grad Roles | 
@@ -246,7 +246,7 @@ This repo is to share and keep track of any full time positions in SWE, Quant, D
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/4557684) | Multiple locations | Software Engineer - New Grad
 | Forbes | Jersey City, NJ | **🔒 Closed 🔒** Junior Software Engineer |
 | [NXP](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Engineers---December-2022-and-May-2023-Graduates_R-10043733?source=web_handshake) | Austin (Oakhill, Office), San Jose (Plumeria Dr), Irvine, San Diego, Austin (Ed Bluestein, Office), Chandler (Office) | Entry Level Software Engineers - December 2022 and May 2023 Graduates |
-| [Voleon](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | BERKELEY, CA OR AUSTIN, TX | Software Engineer - University Hire 2023 |
+| [Voleon](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | BERKELEY, CA OR AUSTIN, TX | **🔒 Closed 🔒** Software Engineer - University Hire 2023 |
 | [Observe](https://jobs.lever.co/observeinc/0df1b2ef-0118-4cc1-b219-f11bf06faceb) | San Mateo | [Software Engineer: Frontend, New Grad](https://jobs.lever.co/observeinc/0df1b2ef-0118-4cc1-b219-f11bf06faceb)|
 | Baseten | San Francisco, CA / US Remote |  **🔒 Closed 🔒** Full Stack SWE| 
 | [Snackpass](https://boards.greenhouse.io/snackpass/jobs/4566648004) | NYC, SF, LA, Remote | **No Visa Sponsorship** Full Stack Software Engineer |｜[Tackle.io](https://jobs.lever.co/tackle/884413e2-082a-41f1-86da-f53164d1f955) | US Remote | Software Engineer New Graduate |
