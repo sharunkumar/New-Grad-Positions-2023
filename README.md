@@ -1,5 +1,5 @@
 # 2024 New Grad Tech Positions :earth_americas::rocket:
-And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant positions for **2024**. 
+We're back! Use this repo to share and keep track of software, tech, CS, PM, quant positions for **2024**. 
 :warning: **This repository is only for positions in the United States, Canada or for Remote positions :earth_americas:.**
 
 🧠 For tips on the recruiting process, check out the [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠
