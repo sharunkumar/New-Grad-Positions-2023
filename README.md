@@ -43,6 +43,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | [Capgemini](https://www.capgemini.com/jobs/N92ZBYcBf9EzbUpvy_Nu/071398-technology-consultant---new-york---campus-recruiting-2024/?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed&idOrigine=1522&jobPipeline=Indeed)                                                                   | New York, NY | Technology Consultant |
 | [Meta](https://www.metacareers.com/careerprograms/students/?p[teams][0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&p[teams][1]=Internship%20-%20Business&p[teams][2]=Internship%20-%20PhD&p[teams][3]=University%20Grad%20-%20PhD%20%26%20Postdoc&p[teams][4]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&p[teams][5]=University%20Grad%20-%20Business&teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design#openpositions) | USA | University Grads |
 | [Mathworks](https://www.mathworks.com/company/jobs/opportunities/16217?source=19210&s_eid=Rci_19210) | USA | Multiple Positions |
+| [McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/softwareengineer-universitystudents-79400) | USA | SWE, Data Engineer |
+| [Citadel](https://www.citadel.com/careers/details/software-engineer-full-time-us/) | USA | SWE |
+| [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus?listFilterMode=1) | USA | Quant Researcher |
 
 
 <!-- Please leave a one line gap between this and the table -->
