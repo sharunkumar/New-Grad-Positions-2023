@@ -45,7 +45,7 @@ This repo is to share and keep track of any full time positions in SWE, Quant, D
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 |Raytheon Technologies | Sterling, VA | **🔒 Closed 🔒** Software Engineer I, New Grad |
 | Cruise | San Francisco, CA | **🔒 Closed 🔒**  New Grad, Software Engineer, Developer Platform |
-| [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
+| [Goldman Sachs | US | **🔒 Closed 🔒** 2023 New Analyst Program |
 | Applied Intuition | Mountain View, CA | **🔒 Closed 🔒** New Grad, Software Engineer |
 | [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles |
 | Indeed | Remote | **🔒 Closed 🔒**  Associate Research Engineer |
