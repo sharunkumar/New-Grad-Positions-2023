@@ -45,7 +45,7 @@ This repo is to share and keep track of any full time positions in SWE, Quant, D
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 |Raytheon Technologies | Sterling, VA | **🔒 Closed 🔒** Software Engineer I, New Grad |
 | Cruise | San Francisco, CA | **🔒 Closed 🔒**  New Grad, Software Engineer, Developer Platform |
-| [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
+| [Goldman Sachs | US | **🔒 Closed 🔒** 2023 New Analyst Program |
 | Applied Intuition | Mountain View, CA | **🔒 Closed 🔒** New Grad, Software Engineer |
 | [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles |
 | Indeed | Remote | **🔒 Closed 🔒**  Associate Research Engineer |
@@ -56,7 +56,7 @@ This repo is to share and keep track of any full time positions in SWE, Quant, D
 | Procter & Gamble | Cincinnati, OH | **🔒 Closed 🔒**  Software/Data Engineer 2023 Grads |
 | Optiver | US | **🔒 Closed 🔒** SWE and Quant  |
 | Oracle | US | **🔒 Closed 🔒** Software Engineer 2023 Grads |
-| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn) | US multiple | [**No Visa Sponsorship**](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn#:~:text=Able%20to%20legally%20live%20and%20work%20in%20the%20country%20for%20which%20you%E2%80%99re%20applying%2C%20without%20visa%20support%20or%20sponsorship%C2%A0); Software Engineer I (Full Time) United States |
+| Cisco | US multiple | **🔒 Closed 🔒** Software Engineer I (Full Time) United States |
 | Stytch | San Francisco, CA |  **🔒 Closed 🔒** New Grad, Software Engineer |
 | SIG | Bala Cynwyd, PA | **🔒 Closed 🔒** Software Developer--Campus 2023 Start |
 | Raytheon Technologies| Cedar Rapids, IA |  **🔒 Closed 🔒** Software Engineer I(New Grad)(Hybrid)|
