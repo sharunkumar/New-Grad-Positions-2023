@@ -46,6 +46,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | [McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/softwareengineer-universitystudents-79400) | USA | SWE, Data Engineer |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-full-time-us/) | USA | SWE |
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus?listFilterMode=1) | USA | Quant Researcher |
+| [Old Mission](https://www.oldmissioncapital.com/careers/) | Chicago, IL \| New York City, NY | [Junior Software Engineer (2024)](https://www.oldmissioncapital.com/careers/?gh_jid=5643831003) <br> [Junior Quant Trader (2024)](https://www.oldmissioncapital.com/careers/?gh_jid=5650790003)
 
 
 <!-- Please leave a one line gap between this and the table -->
