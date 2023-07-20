@@ -24,17 +24,11 @@ jobs:
         git config --global user.email "sharunksplus@gmail.com"
         git config --global user.name "Sharun"
 
-    - name: Add upstream
-      run: git remote add upstream https://github.com/owini/New-Grad-Positions.git
-
-    - name: Fetch upstream
-      run: git fetch upstream
-
-    - name: Backup the current README.md
-      run: cp README.md README.md.temp
-
-    - name: Merge upstream
-      run: git merge upstream/master --strategy=recursive --strategy-option=theirs
+    - name: Upstream Setup & Merge
+      run: |
+        git remote add upstream https://github.com/owini/New-Grad-Positions.git
+        git fetch upstream
+        git merge --log upstream/dev --strategy=recursive --strategy-option=theirs
 
     - name: Update README.md
       run: |
@@ -42,11 +36,7 @@ jobs:
         sed -i '/no sponsorship/Id' README.md
         sed -i '/no visa sponsorship/Id' README.md
         sed -i '/must be US citizen/Id' README.md
-
-    - name: Compare the backed up README.md with the updated README.md
-      run: |
-        diff --color README.md.temp README.md || true
-        rm README.md.temp
+        sed -i '/Citizenship Required/Id' README.md
 
     - name: Commit and push
       run: |
