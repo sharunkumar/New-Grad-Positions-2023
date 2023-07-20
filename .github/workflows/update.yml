@@ -25,7 +25,7 @@ jobs:
         git config --global user.name "Sharun"
 
     - name: Add upstream
-      run: git remote add upstream https://github.com/owini/New-Grad-Positions-2023.git
+      run: git remote add upstream https://github.com/owini/New-Grad-Positions.git
 
     - name: Fetch upstream
       run: git fetch upstream
