@@ -1,35 +1,5 @@
 # 2023 New Grad Tech Positions :earth_americas::rocket:
 
-This repo is to share and keep track of any full time positions in SWE, Quant, Data Scientist, ML Engineer and PM. It's been a crazy time, but many companies are still hiring. You got this! 🎉
-
-
-### 🧠 Tech Interview Guides</summary>
-
-- [Coding Interview Guide](https://github.com/owini/coding-interview-university)
-- [Software Engineering Interview Prep](https://github.com/owini/soft-eng-interview-prep)
-- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
-
-  - [Best practice questions](https://www.techinterviewhandbook.org/coding-interview-study-plan/) for coding interviews
-  - [Grind 75](https://www.techinterviewhandbook.org/grind75) - the next evolution of Blind 75, bigger and better
-  - [How to prepare](https://www.techinterviewhandbook.org/coding-interview-prep/) for coding interviews
-  - [Coding interview best practices](https://www.techinterviewhandbook.org/coding-interview-cheatsheet/) - Straight-to-the-point Do's and Don'ts
-  - [Algorithm cheatsheets and tips](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) categorized by topic
-  - [Step-by-step Software Engineer resume guide](https://www.techinterviewhandbook.org/resume/) to prepare a FAANG-ready resume
-  - [Behavioral questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/) asked by the top tech companies
-  - [Front end interview preparation](https://www.frontendinterviewhandbook.com)
-
-
-:warning: **This repository is only for full-time positions in the United States, Canada or for Remote positions :earth_americas:.**
-
-:star:  **For internships, check out [Pitt CSC's Summer 2023 Internship repo](https://github.com/pittcsc/Summer2023-Internships).**
-
-🙏 **Contribute to this project by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)!**
-
-
-
-## The List 🎆
-
-[⬇️ Jump to bottom ⬇️](https://github.com/owini/New-Grad-Positions-2023#thank-you-to-all-our-contributors)
 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
@@ -104,11 +74,3 @@ This repo is to share and keep track of any full time positions in SWE, Quant, D
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | [IT System Engineer](https://boards.greenhouse.io/neuralink/jobs/4450312003) |
 
 <!-- Please leave a one line gap between this and the table -->
-[⬆️ Back to Top ⬆️](https://github.com/owini/New-Grad-Positions-2023#the-list-)
-
-## Thank you to all our contributors!
-Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-<a href="https://github.com/owini/New-Grad-Positions-2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=owini/New-Grad-Positions-2023&columns=24&max=480" />
-</a>
-*Made with [contrib.rocks](https://contrib.rocks).*
