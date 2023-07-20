@@ -28,7 +28,7 @@ jobs:
       run: |
         git remote add upstream https://github.com/owini/New-Grad-Positions.git
         git fetch upstream
-        git merge --log upstream/dev --strategy=recursive --strategy-option=theirs
+        git merge --log upstream/master --strategy=recursive --strategy-option=theirs
 
     - name: Update README.md
       run: |
