@@ -58,7 +58,8 @@ jobs:
       run: |
         sed -i '/We'\''re back!/,/The List/d' README.md
         sed -i '/We love/,/Made with/d' README.md
-        # sed -i '/Jump to bottom/Id' README.md
+        sed -i '/This repo/,/Jump to bottom/d' New-Grad-Positions-2023.md
+        sed -i '/Back to Top/,/Made with/d' New-Grad-Positions-2023.md
 
     - name: Commit
       run: |
