@@ -46,9 +46,10 @@ jobs:
           echo "No changes to commit"
         fi
 
-    - name: Remove other workflows
+    - name: Remove other workflows & files
       run: |
         find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
+        find .github/workflows/ -name '*.md' ! -name 'update.yml' -exec rm -v {} +
 
     - name: Commit and push
       run: |
