@@ -38,6 +38,14 @@ jobs:
         sed -i '/must be US citizen/Id' README.md
         sed -i '/Citizenship Required/Id' README.md
 
+    - name: Update New-Grad-Positions-2023.md
+      run: |
+        sed -i '/🔒 Closed 🔒/Id' New-Grad-Positions-2023.md
+        sed -i '/no sponsorship/Id' New-Grad-Positions-2023.md
+        sed -i '/no visa sponsorship/Id' New-Grad-Positions-2023.md
+        sed -i '/must be US citizen/Id' New-Grad-Positions-2023.md
+        sed -i '/Citizenship Required/Id' New-Grad-Positions-2023.md
+
     - name: Commit changes
       run: |
         if [[ `git status --porcelain` ]]; then
