@@ -38,10 +38,10 @@ jobs:
         sed -i '/must be US citizen/Id' README.md
         sed -i '/Citizenship Required/Id' README.md
 
-    - name: Commit and push
+    - name: Commit changes
       run: |
         if [[ `git status --porcelain` ]]; then
-          git commit -am "remove closed, no sponsorship entries" && git push
+          git commit -am "remove closed, no sponsorship entries"
         else
           echo "No changes to commit"
         fi
@@ -51,10 +51,14 @@ jobs:
         find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
         find .github/ -name '*.md' ! -name 'update.yml' -exec rm -v {} +
 
-    - name: Commit and push
+    - name: Commit changes
       run: |
         if [[ `git status --porcelain` ]]; then
-          git commit -am "removed unused workflows and files" && git push
+          git commit -am "removed unused workflows and files"
         else
           echo "No changes to commit"
         fi
+
+    - name: Push
+      run: |
+        git push
