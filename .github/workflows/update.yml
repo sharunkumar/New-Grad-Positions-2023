@@ -54,7 +54,7 @@ jobs:
     - name: Commit and push
       run: |
         if [[ `git status --porcelain` ]]; then
-          git commit -am "removed the unused workflows" && git push
+          git commit -am "removed unused workflows and files" && git push
         else
           echo "No changes to commit"
         fi
