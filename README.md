@@ -26,9 +26,3 @@
 
 <!-- Please leave a one line gap between this and the table -->
 
-## We love our contributors ❤️❤️
-Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-<a href="https://github.com/owini/New-Grad-Positions-2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=owini/New-Grad-Positions-2023&columns=24&max=480" />
-</a>
-*Made with [contrib.rocks](https://contrib.rocks).*
