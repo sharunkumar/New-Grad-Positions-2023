@@ -48,7 +48,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus?listFilterMode=1) | USA | Quant Researcher |
 | [Old Mission](https://www.oldmissioncapital.com/careers/) | Chicago, IL \| New York City, NY | [Junior Software Engineer (2024)](https://www.oldmissioncapital.com/careers/?gh_jid=5643831003) <br> [Junior Quant Trader (2024)](https://www.oldmissioncapital.com/careers/?gh_jid=5650790003)
 | [Konrad](https://www.konrad.com/careers) | Vancouver, Canada <br> Toronto, Canada | [Mobile Developer (Entry-Level)](https://boards.greenhouse.io/konradgroup/jobs/5599054003?utm_source=Simplify) <br> [Software Developer (Entry-Level)](https://www.konrad.com/careers/job/software-developer-entry-level_5597791003) 
-
+| [Akuna Capital](https://akunacapital.com/careers) | Chicago,Illinois | [Software Engineer(Entry-Level)-C++](https://akunacapital.com/job-details?gh_jid=5136022&gh_src=d1eb258d1us)
 
 
 <!-- Please leave a one line gap between this and the table -->
