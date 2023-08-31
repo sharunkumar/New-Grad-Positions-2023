@@ -51,7 +51,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet) | Boston, Massachusetts| [Quantitative Developer](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/details/Quantitative-Developer_R866)
 | [Akuna Capital](https://akunacapital.com/careers) | Chicago,Illinois | [Software Engineer(Entry-Level)-C++](https://akunacapital.com/job-details?gh_jid=5136022&gh_src=d1eb258d1us)
 | [MTSI](https://mtsi-careers.employeereferrals.com/jobs/NVAPAC0PnD?locale=en) | Colorado Springs, CO | Junior Full Stack Software Developer |
-| [Nium Inc](https://jobs.lever.co/nium) | San Francisco | **Hiring new grads as well as experienced folks.** [Backend Engineer](https://jobs.lever.co/nium/f20a5f60-6c69-4f44-8f64-45b92dec4d09) and [Frontend Engineer](https://jobs.lever.co/nium/590ef78f-04ff-4110-9c12-b5786894ea29) |
+| [Nium Inc](https://jobs.lever.co/nium) | San Francisco | [Backend Engineer](https://jobs.lever.co/nium/f20a5f60-6c69-4f44-8f64-45b92dec4d09) and [Frontend Engineer](https://jobs.lever.co/nium/590ef78f-04ff-4110-9c12-b5786894ea29) |
 
 
 
