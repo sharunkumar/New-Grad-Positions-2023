@@ -1,0 +1,87 @@
+name: Update
+
+on:
+  push:
+    branches:
+      - master
+      - upstream/master
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Add Git Commiter Details
+      run: |
+        git config --global user.email "sharunksplus@gmail.com"
+        git config --global user.name "Sharun"
+
+    - name: Upstream Setup & Merge
+      run: |
+        git remote add upstream https://github.com/owini/New-Grad-Positions.git
+        git fetch upstream
+        git merge --log upstream/master --strategy=recursive --strategy-option=theirs
+
+    - name: Update README.md
+      run: |
+        sed -i '/🔒 Closed 🔒/Id' README.md
+        sed -i '/no sponsorship/Id' README.md
+        sed -i '/no visa sponsorship/Id' README.md
+        sed -i '/must be US citizen/Id' README.md
+        sed -i '/Citizenship Required/Id' README.md
+
+    - name: Update New-Grad-Positions-2023.md
+      run: |
+        sed -i '/🔒 Closed 🔒/Id' New-Grad-Positions-2023.md
+        sed -i '/no sponsorship/Id' New-Grad-Positions-2023.md
+        sed -i '/no visa sponsorship/Id' New-Grad-Positions-2023.md
+        sed -i '/must be US citizen/Id' New-Grad-Positions-2023.md
+        sed -i '/Citizenship Required/Id' New-Grad-Positions-2023.md
+
+    - name: Commit changes
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "remove closed, no sponsorship entries"
+        else
+          echo "No changes to commit"
+        fi
+
+    - name: Remove Fluff
+      run: |
+        sed -i '/We'\''re back!/,/The List/d' README.md
+        sed -i '/We love/,/Made with/d' README.md
+        sed -i '/This repo/,/Jump to bottom/d' New-Grad-Positions-2023.md
+        sed -i '/Back to Top/,/Made with/d' New-Grad-Positions-2023.md
+
+    - name: Commit
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "remove fluff"
+        else
+          echo "No changes to commit"
+        fi
+
+    - name: Remove other workflows & files
+      run: |
+        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
+        find .github/ -name '*.md' ! -name 'update.yml' -exec rm -v {} +
+
+    - name: Commit changes
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "removed unused workflows and files"
+        else
+          echo "No changes to commit"
+        fi
+
+    - name: Push
+      run: |
+        git push
