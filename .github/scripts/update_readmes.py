@@ -10,6 +10,7 @@ def main():
     listings = util.getListingsFromJSON()
 
     util.checkSchema(listings)
+    listings = util.customFilter(listings)
     filtered = util.filterListings(listings)
     
     util.sortListings(filtered)

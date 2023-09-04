@@ -101,6 +101,9 @@ def embedTable(listings):
     with open(filepath, "w") as f:
         f.write(newText)
 
+def customFilter(listings):
+    return [listing for listing in listings if listing["active"] and listing["sponsorship"] not in ["Does Not Offer Sponsorship", "U.S. Citizenship is Required"]]
+
 def sortListings(listings):
 
     linkForCompany = {}

@@ -3,10 +3,9 @@ name: Update
 on:
   push:
     branches:
-      - master
-      - upstream/master
+      - dev
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,9 +14,14 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.9"
 
     - name: Add Git Commiter Details
       run: |
@@ -26,62 +30,35 @@ jobs:
 
     - name: Upstream Setup & Merge
       run: |
-        git remote add upstream https://github.com/owini/New-Grad-Positions.git
+        git remote add upstream https://github.com/SimplifyJobs/New-Grad-Positions.git
         git fetch upstream
-        git merge --log upstream/master --strategy=recursive --strategy-option=theirs
+        git merge --log upstream/dev --strategy=recursive --strategy-option=ours
 
-    - name: Update README.md
+    # This has to be done first due to permissions reasons
+    - name: Move other workflows
       run: |
-        sed -i '/🔒 Closed 🔒/Id' README.md
-        sed -i '/no sponsorship/Id' README.md
-        sed -i '/no visa sponsorship/Id' README.md
-        sed -i '/must be US citizen/Id' README.md
-        sed -i '/Citizenship Required/Id' README.md
-
-    - name: Update New-Grad-Positions-2023.md
-      run: |
-        sed -i '/🔒 Closed 🔒/Id' New-Grad-Positions-2023.md
-        sed -i '/no sponsorship/Id' New-Grad-Positions-2023.md
-        sed -i '/no visa sponsorship/Id' New-Grad-Positions-2023.md
-        sed -i '/must be US citizen/Id' New-Grad-Positions-2023.md
-        sed -i '/Citizenship Required/Id' New-Grad-Positions-2023.md
-
-    - name: Commit changes
-      run: |
-        if [[ `git status --porcelain` ]]; then
-          git commit -am "remove closed, no sponsorship entries"
-        else
-          echo "No changes to commit"
-        fi
-
-    - name: Remove Fluff
-      run: |
-        sed -i '/We'\''re back!/,/The List/d' README.md
-        sed -i '/We love/,/Made with/d' README.md
-        sed -i '/This repo/,/Jump to bottom/d' New-Grad-Positions-2023.md
-        sed -i '/Back to Top/,/Made with/d' New-Grad-Positions-2023.md
+        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec git mv {} .github/archived-workflows/ \;
 
     - name: Commit
       run: |
         if [[ `git status --porcelain` ]]; then
-          git commit -am "remove fluff"
+          git commit -am "move unused workflows"
         else
           echo "No changes to commit"
         fi
 
-    - name: Remove other workflows & files
+    - name: Update README
       run: |
-        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
-        find .github/ -name '*.md' ! -name 'update.yml' -exec rm -v {} +
+        cp .github/template/README.md .
+        python .github/scripts/update_readmes.py
 
-    - name: Commit changes
+    - name: Commit
       run: |
         if [[ `git status --porcelain` ]]; then
-          git commit -am "removed unused workflows and files"
+          git commit -am "Update README"
         else
           echo "No changes to commit"
         fi
-
+        
     - name: Push
-      run: |
-        git push
+      run: git push
