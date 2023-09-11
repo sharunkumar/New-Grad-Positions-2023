@@ -2419,7 +2419,7 @@
         "company_name": "The Boeing Company",
         "id": "d045ef25-9988-4aec-a6ec-0ea3802b4e54",
         "title": "Manager Software Development \u2013 Early Career Program",
-        "active": true,
+        "active": false,
         "date_updated": 1693408418,
         "date_posted": 1693408418,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Seattle-WA/Manager-Software-Development---Early-Career-Program_00000390214-1",
@@ -3019,6 +3019,38 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Sony-Music",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694440726,
+        "url": "https://careers.garmin.com/careers-home/jobs/11249?lang=en-us&iss=linkedin",
+        "company_name": "Garmin",
+        "title": "SOFTWARE ENGINEER 1 - EMBEDDED DEVELOPMENT",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "abg5043",
+        "id": "6637e11c-cf39-41bf-af45-d5fc4d86a845",
+        "date_posted": 1694440726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Justworks",
+        "id": "830ebc97-f836-4d54-9840-2c4e0fbcf9a5",
+        "title": "Software Engineer - Tax Technology",
+        "active": true,
+        "date_updated": 1694444773,
+        "date_posted": 1694444773,
+        "url": "https://boards.greenhouse.io/justworks/jobs/5305638",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Justworks",
         "is_visible": true,
         "sponsorship": "Other"
     }
