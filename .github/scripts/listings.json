@@ -117,14 +117,14 @@
         "id": "20cc80aa-9a86-4b1c-bbb0-6719bb631798",
         "title": "VAS Trader",
         "active": true,
-        "date_updated": 1692205663,
+        "date_updated": 1694723131,
         "date_posted": 1692140976,
         "url": "https://boards.greenhouse.io/vestmark/jobs/5284315",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Vestmark",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -1713,14 +1713,14 @@
         "id": "8ccd2279-a582-4d43-abf0-9131a766fc1a",
         "title": "Entry Level Career Opportunities in Finance & Operation",
         "active": true,
-        "date_updated": 1692400111,
+        "date_updated": 1694723115,
         "date_posted": 1692400111,
         "url": "https://boards.greenhouse.io/ibkr/jobs/4246812002",
         "locations": [
             "Greenwich, CT"
         ],
         "company_url": "https://simplify.jobs/c/IBKR",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -2163,14 +2163,14 @@
         "id": "0bf68e1e-0481-4ad5-b498-e75b8f3da9f3",
         "title": "Software Developer in Test - Sdet",
         "active": true,
-        "date_updated": 1692948023,
+        "date_updated": 1694722877,
         "date_posted": 1692948023,
         "url": "https://www.hitachivantara.com/en-us/company/careers/job-details.6854677002.html?gh_jid=6854677002",
         "locations": [
             "Waltham, MA"
         ],
         "company_url": "https://simplify.jobs/c/Hitachi-Vantara",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -2194,7 +2194,7 @@
         "company_name": "Hitachi Vantara",
         "id": "65c6dc1c-caef-4695-9c2f-cd387c380f37",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1692947952,
         "date_posted": 1692947952,
         "url": "https://www.hitachivantara.com/en-us/company/careers/job-details.6755649002.html?gh_jid=6755649002",
@@ -2532,14 +2532,14 @@
         "id": "7b611fe4-090f-4ca0-95ae-fcc4901e02a2",
         "title": "Finance Development Rotation Program \u2013 New Grad",
         "active": true,
-        "date_updated": 1693523676,
+        "date_updated": 1694722896,
         "date_posted": 1693523676,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/743999927720948",
         "locations": [
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -2756,14 +2756,14 @@
         "id": "ec76586a-9494-4409-b216-0b6f94818b36",
         "title": "Core Development Program",
         "active": true,
-        "date_updated": 1693927034,
+        "date_updated": 1694723062,
         "date_posted": 1693927034,
         "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=5698667003",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/InterSystems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -2772,14 +2772,14 @@
         "id": "e14086f4-cff5-418c-a46a-f291036f342b",
         "title": "Solutions Development Program",
         "active": true,
-        "date_updated": 1693927037,
+        "date_updated": 1694722992,
         "date_posted": 1693927037,
         "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=5698671003",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/InterSystems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -2947,7 +2947,7 @@
         "company_name": "Capital One",
         "id": "8403b7ed-8cc0-40e1-8453-193f280d089e",
         "title": "FT Associate \u2013 New Grad 2024 - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1694128171,
         "date_posted": 1694128171,
         "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/FT-Associate--Software-Engineer--New-Grad-2024-_R174356",
@@ -3059,7 +3059,7 @@
         "company_name": "Aviatrix",
         "id": "be62e1fc-359a-41e1-9eef-6ef89e833eb2",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1694474328,
         "date_posted": 1694474328,
         "url": "https://aviatrix.com/careers/?gh_jid=4316168005",
@@ -3331,7 +3331,7 @@
         "company_name": "Capital One",
         "id": "af4e6cde-ee99-41ae-8d8c-5a4e6a9e2988",
         "title": "Associate \u2013 FT New Grad 2024 - Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1694612267,
         "date_posted": 1694612267,
         "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst--FT-New-Grad-2024-_R174596",
@@ -3348,7 +3348,7 @@
         "id": "df26b6a8-3546-4e5b-9f1e-e93b12e24ef2",
         "title": "Associate Technical Consultant \u2013 New Grad - January 2024 Start",
         "active": true,
-        "date_updated": 1694647900,
+        "date_updated": 1694721533,
         "date_posted": 1694647900,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Canada---Toronto/Associate-Technical-Consultant---January-2024-Start--New-Grad-_JR215448-1",
         "locations": [
@@ -3356,7 +3356,7 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -3365,7 +3365,7 @@
         "id": "19304064-7394-49b1-8200-b0e0cd7bf7b9",
         "title": "Associate Technical Consultant \u2013 New Grad - January 2024 Start Date",
         "active": true,
-        "date_updated": 1694647901,
+        "date_updated": 1694721515,
         "date_posted": 1694647901,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Georgia---Atlanta/Associate-Technical-Consultant---January-2024-Start-Date--New-Grad-_JR215447",
         "locations": [
@@ -3376,7 +3376,7 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -3385,7 +3385,7 @@
         "id": "1665b12a-0de4-47c4-b259-81002b19054e",
         "title": "Associate Technical Consultant \u2013 New Grad - July 2024 Start Date",
         "active": true,
-        "date_updated": 1694647899,
+        "date_updated": 1694721548,
         "date_posted": 1694647899,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Canada---Toronto/Associate-Technical-Consultant---July-2024-Start-Date--New-Grad-_JR216601-1",
         "locations": [
@@ -3393,7 +3393,7 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -3402,7 +3402,7 @@
         "id": "a274801b-5373-4baa-9a59-40f97e14d0e6",
         "title": "Associate Technical Consultant \u2013 New Grad - July 2024 Start Date",
         "active": true,
-        "date_updated": 1694647898,
+        "date_updated": 1694723189,
         "date_posted": 1694647898,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Georgia---Atlanta/Associate-Technical-Consultant---July-2024-Start-Date--New-Grad-_JR216870-2",
         "locations": [
@@ -3413,7 +3413,7 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -3470,7 +3470,7 @@
         "id": "f1dc15fc-94d0-4301-ab56-42668ef72ebb",
         "title": "Associate Product Designer \u2013 New College Grad",
         "active": true,
-        "date_updated": 1694704840,
+        "date_updated": 1694721495,
         "date_posted": 1694704840,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/743999930520864",
         "locations": [
@@ -3478,7 +3478,7 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     }
 ]
