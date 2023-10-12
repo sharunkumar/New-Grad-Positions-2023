@@ -4773,5 +4773,54 @@
         "company_url": "https://simplify.jobs/c/Tenstorrent",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1697150786,
+        "url": "https://www.wayfair.com/careers/job/software-engineer-i/6945942002",
+        "company_name": "Wayfair",
+        "title": "Software Engineer I - Summer 2024",
+        "locations": [
+            "Boston, Massachusetts"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ramirezfernando",
+        "id": "d2b41c21-d843-42a0-a920-2d4c3e89cd00",
+        "date_posted": 1697150786,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697150803,
+        "url": "https://cummins.jobs/columbus-in/software-engineering-entry-level-full-time-positions/5DC8B81CE0244B7A903DFD6D251C7A74/job/?vs=7000",
+        "company_name": "Cummins",
+        "title": "Software Engineer Entry Level Full Time Positions",
+        "locations": [
+            "Columbus, Indiana"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "why-karthik",
+        "id": "a839a488-44c7-4669-8de8-a34da7d08a8e",
+        "date_posted": 1697150803,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697150818,
+        "url": "https://app.ripplematch.com/v2/public/job/d7342288/details",
+        "company_name": "Figma",
+        "title": "Associate Product Manager, Early Career (2024)",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY,"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "2140157d-3b65-4133-869b-9af908a27689",
+        "date_posted": 1697150818,
+        "company_url": "",
+        "is_visible": true
     }
 ]
