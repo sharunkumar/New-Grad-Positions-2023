@@ -8079,14 +8079,14 @@
         "id": "649cfb5d-2861-4a0e-84cc-3929dbf3dadd",
         "title": "Weld Engineer I",
         "active": true,
-        "date_updated": 1708561046,
+        "date_updated": 1710218940,
         "date_posted": 1708561046,
         "url": "https://boards.greenhouse.io/relativity/jobs/7254024002",
         "locations": [
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -8095,14 +8095,14 @@
         "id": "2698b474-d313-4e65-865d-f0b02f54d74e",
         "title": "Customer Engagement Analyst",
         "active": true,
-        "date_updated": 1708560756,
+        "date_updated": 1710218962,
         "date_posted": 1708560756,
         "url": "https://www.dunnhumby.com/jobs/?gh_jid=5891031003",
         "locations": [
             "Grand Rapids, MI"
         ],
         "company_url": "https://simplify.jobs/c/dunnhumby",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -8768,14 +8768,14 @@
         "id": "56d308b0-8b09-4f81-acfc-33826c795b28",
         "title": "Electrical NPI Engineer \u2013 Entry Level",
         "active": true,
-        "date_updated": 1709943814,
+        "date_updated": 1710218905,
         "date_posted": 1709943814,
         "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999972813223",
         "locations": [
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Arista-Networks",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
