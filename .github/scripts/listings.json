@@ -13624,14 +13624,14 @@
         "id": "125a40aa-7b38-4674-ba8b-cfcc6099b0c2",
         "title": "Associate Engineer I&C - Instrumentation & Controls",
         "active": true,
-        "date_updated": 1713434907,
+        "date_updated": 1713921974,
         "date_posted": 1713434907,
         "url": "https://jobs.lever.co/valdeseng/eab2f38b-406f-440f-aa29-6dfd5cf17330/apply",
         "locations": [
             "Merrillville, IN"
         ],
         "company_url": "https://simplify.jobs/c/1a122d1d-f527-4bc7-9fc8-1d5f593d879b",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -13752,7 +13752,7 @@
         "id": "f81ee8e7-1de1-4735-9670-2cfd8ee6a53a",
         "title": "Data Analyst \u2013 Fresh Grad - Globalization",
         "active": true,
-        "date_updated": 1713553924,
+        "date_updated": 1713921957,
         "date_posted": 1713553924,
         "url": "https://boards.greenhouse.io/hoyoverse/jobs/4271721007",
         "locations": [
@@ -13760,7 +13760,7 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/Ho-Yoverse",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -13785,14 +13785,14 @@
         "id": "8d32ce49-2ef6-42fa-8b36-ac97f271d2d6",
         "title": "Technical Services Librarian",
         "active": true,
-        "date_updated": 1713568544,
+        "date_updated": 1713921902,
         "date_posted": 1713568544,
         "url": "https://www.mongodb.com/careers/job/?gh_jid=5911606",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -13801,14 +13801,14 @@
         "id": "5db81e0e-5d3a-4ea8-9dc2-7c58cd95b2d0",
         "title": "Technical Services Librarian",
         "active": true,
-        "date_updated": 1713568543,
+        "date_updated": 1713921925,
         "date_posted": 1713568543,
         "url": "https://www.mongodb.com/careers/job/?gh_jid=5918272",
         "locations": [
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -13817,14 +13817,14 @@
         "id": "033f7383-5c3c-4b46-8ccd-3eca33d936ac",
         "title": "Technical Services Librarian",
         "active": true,
-        "date_updated": 1713568542,
+        "date_updated": 1713921941,
         "date_posted": 1713568542,
         "url": "https://www.mongodb.com/careers/job/?gh_jid=5918276",
         "locations": [
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -13842,5 +13842,101 @@
         "company_url": "https://simplify.jobs/c/Nutanix",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1713922021,
+        "url": "https://simplify.jobs/p/d5eee09d-40ff-4b0d-982b-43acea2a0c2d/Software-Engineer--New-Grad",
+        "company_name": "Nominal",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "eca520d9-581a-4dd5-b8de-20e60332ac67",
+        "date_posted": 1713922021,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1713922038,
+        "url": "https://simplify.jobs/p/0446366e-48be-44ee-afc6-622c14d5b3af/Software-Engineer--New-Grad",
+        "company_name": "Nominal",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "4f7d84d3-8d37-425e-84fc-c413bce8f440",
+        "date_posted": 1713922038,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1713922052,
+        "url": "https://simplify.jobs/p/7ab10679-ed27-45f4-bed0-efb26fb87a7f/New-Graduate-Software-Engineer-Toronto-and-Alberta",
+        "company_name": "Jerry",
+        "title": "New Graduate Software Engineer Toronto and Alberta",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "a8bf75dc-adf5-42b5-88f7-71660174e5d7",
+        "date_posted": 1713922052,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1713922071,
+        "url": "https://simplify.jobs/p/cdb76464-b9b9-44a7-a1f9-b944fd35b5a9/Software-Engineer--New-Grad",
+        "company_name": "Nominal",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "a18c2ed3-1df8-45e3-b3a0-e41eb90d72f9",
+        "date_posted": 1713922071,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1713922089,
+        "url": "https://simplify.jobs/p/12d74d59-f8fb-4f04-a478-e3dd867f6e9d/University-Graduate",
+        "company_name": "Navan (fka TripActions) [https://simplify.jobs/c/Navan]",
+        "title": "University Graduate Software Engineer, Back-End",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "d1e0f277-3240-4fe3-9489-14675b79bf15",
+        "date_posted": 1713922089,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1713922102,
+        "url": "https://simplify.jobs/p/57bb51fd-65f2-4b15-83dc-6593043e8c1d/New-College-Graduate-Engineer-Software-Development",
+        "company_name": "Western Digital",
+        "title": "New College Graduate Engineer",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "c5fb8f88-70db-4f6c-9c6e-012fc3fff094",
+        "date_posted": 1713922102,
+        "company_url": "",
+        "is_visible": true
     }
 ]
