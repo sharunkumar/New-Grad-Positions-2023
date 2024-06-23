@@ -11,7 +11,7 @@ def main():
 
     util.checkSchema(listings)
     listings = util.customFilter(listings)
-    filtered = util.filterListings(listings)
+    filtered = util.filterListings(listings, earliest_date=1714528377)
     
     util.sortListings(filtered)
     util.embedTable(filtered)
