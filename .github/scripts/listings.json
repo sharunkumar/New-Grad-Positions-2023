@@ -2768,7 +2768,7 @@
         "company_name": "Jerry",
         "id": "362e07b3-ade0-4a3d-9b1d-ba6823c22c07",
         "title": "Software Engineer I - Toronto",
-        "active": true,
+        "active": false,
         "date_updated": 1719587612,
         "date_posted": 1719587612,
         "url": "https://jobs.ashbyhq.com/Jerry/a9c7c0d9-4524-4b05-900e-e6d26ddf8e0d/application",
@@ -4473,7 +4473,7 @@
         "company_name": "Veeva Systems",
         "id": "0ed8b19a-cee7-4d7f-9b54-1c3863536432",
         "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
-        "active": true,
+        "active": false,
         "date_updated": 1719961909,
         "date_posted": 1719961909,
         "url": "https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa/apply",
@@ -4563,5 +4563,65 @@
         "company_url": "https://simplify.jobs/c/Internet-Brands",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "fb72e240-9bf3-41f5-b801-a42abe9200aa",
+        "title": "Software Engineer I - Toronto",
+        "active": true,
+        "date_updated": 1720192298,
+        "date_posted": 1720192298,
+        "url": "https://jobs.ashbyhq.com/Jerry/288e3c48-5428-4397-90c9-5448ab57cc27/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1720217188,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527372",
+        "company_name": "JPMorgan Chase",
+        "title": "2025 Software Engineer Program",
+        "locations": [
+            "Atlanta, GA",
+            "Austin, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "Houston, TX",
+            "Jersey City, NJ",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Plano, TX",
+            "Seattle, WA",
+            "Tampa, FL",
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hsoper",
+        "id": "5b4e70ab-73e3-48d5-9731-fbcc9c989e57",
+        "date_posted": 1720217188,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720217203,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-2025-university-graduate-us-2/",
+        "company_name": "Citadel Securities",
+        "title": "Software Engineer \u2013 2025 University Graduate (US)",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DhyeyMavani2003",
+        "id": "99ca086f-7daf-46aa-939b-f5c2db9a24d4",
+        "date_posted": 1720217203,
+        "company_url": "",
+        "is_visible": true
     }
 ]
