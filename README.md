@@ -2,6 +2,7 @@
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Robinhood Careers** | Software Developer | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/robinhood/jobs/6087178?gh_src=NaN&gh_jid=6087178&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | **Intel** | FPGA Software Engineer | Toronto, ON, Canada | <a href="https://jobs.intel.com/en/job/toronto/fpga-software-engineer/41147/67421896768?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | **Microsoft** | Software Engineer | Redmond, Washington | <a href="https://jobs.careers.microsoft.com/global/en/job/1736578/Software-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | **[Square](https://simplify.jobs/c/Square)** | Junior Software Engineer - Android - Mobile Developer Experience | SF</br>Remote in USA | <a href="https://jobs.smartrecruiters.com/Square/743999999504436?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/101ccbab-64c0-435b-adaf-8c78414d1234?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 09 |
