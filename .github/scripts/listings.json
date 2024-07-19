@@ -5133,8 +5133,8 @@
         "company_name": "Square",
         "id": "101ccbab-64c0-435b-adaf-8c78414d1234",
         "title": "Junior Software Engineer - Android - Mobile Developer Experience",
-        "active": true,
-        "date_updated": 1720566369,
+        "active": false,
+        "date_updated": 1721342199,
         "date_posted": 1720566369,
         "url": "https://jobs.smartrecruiters.com/Square/743999999504436",
         "locations": [
@@ -12726,8 +12726,8 @@
         "company_name": "Kensho",
         "id": "8011450d-8e1e-4039-82c3-f4d88ae00484",
         "title": "Machine Learning Engineer \u2013 2024 Grad",
-        "active": true,
-        "date_updated": 1716937889,
+        "active": false,
+        "date_updated": 1721342185,
         "date_posted": 1716937889,
         "url": "https://jobs.lever.co/kensho/64f57a09-7f92-4c5b-883f-56eb92d62bf1/apply",
         "locations": [
@@ -16188,20 +16188,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1721163640,
+        "date_updated": 1721346985,
         "url": "https://jobs.intel.com/en/job/toronto/fpga-software-engineer/41147/67421896768",
         "company_name": "Intel",
         "title": "FPGA Software Engineer",
         "locations": [
             "Toronto, ON, Canada"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "angelz913",
         "id": "4da7771c-6d4c-4f51-9a6d-5c1afc33f807",
         "date_posted": 1721163640,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1721243648,
