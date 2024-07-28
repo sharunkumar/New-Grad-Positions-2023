@@ -4415,22 +4415,12 @@
         "company_name": "Salesforce",
         "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
         "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": true,
-        "date_updated": 1719875851,
+        "active": false,
+        "date_updated": 1722119292,
         "date_posted": 1719875851,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS--New-Grad-_JR244479-1",
         "locations": [
-            "Cambridge, MA",
-            "Seattle, WA",
-            "Indianapolis, IN",
-            "SF",
-            "Remote in USA",
-            "McLean, VA",
-            "Chicago, IL",
-            "NYC",
-            "Bellevue, WA",
-            "Atlanta, GA",
-            "Burlington, MA"
+            "Cambridge, MA Seattle, WA Indianapolis, IN SF Remote in USA McLean, VA Chicago, IL NYC Bellevue, WA Atlanta, GA Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
         "is_visible": true,
@@ -16232,6 +16222,22 @@
         "source": "reddoy",
         "id": "98c71ba3-17ad-4659-9369-9397b120590b",
         "date_posted": 1721676352,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1722119314,
+        "url": "https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Software-Developer-I_REQ-02873?src=JB-10088",
+        "company_name": "Jackson",
+        "title": "Software Developer I",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Vandy02",
+        "id": "6c90943e-6c18-4116-b883-11cdbd5e6680",
+        "date_posted": 1722119314,
         "company_url": "",
         "is_visible": true
     }
