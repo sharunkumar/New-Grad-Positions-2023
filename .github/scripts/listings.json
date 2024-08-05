@@ -16226,18 +16226,53 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722119314,
+        "date_updated": 1722830792,
         "url": "https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Software-Developer-I_REQ-02873?src=JB-10088",
         "company_name": "Jackson",
         "title": "Software Developer I",
         "locations": [
             "Lansing, MI"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "Vandy02",
         "id": "6c90943e-6c18-4116-b883-11cdbd5e6680",
         "date_posted": 1722119314,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1722830775,
+        "url": "https://www.mwam.com/technology-graduate-scheme/",
+        "company_name": "Marshall Wace",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "London",
+            "NYC",
+            "Singapore"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mwam-hackathon",
+        "id": "ba6d86ea-cd6d-4d0c-bb4a-7248462d46ae",
+        "date_posted": 1722830775,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1722830823,
+        "url": "https://careers.confluent.io/jobs/14738286-2025-software-engineer",
+        "company_name": "Confluent",
+        "title": "Software Engineer",
+        "locations": [
+            "Austin, TX",
+            "Remote"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Aparna-Rajesh",
+        "id": "9b0a722e-f5ac-444a-9789-28a8b41a8563",
+        "date_posted": 1722830823,
         "company_url": "",
         "is_visible": true
     }
