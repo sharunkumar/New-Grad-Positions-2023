@@ -84,8 +84,8 @@
         "company_name": "Splunk",
         "id": "cde87b00-1165-48c8-be59-93f8dabed9d7",
         "title": "Software Engineer - Early in Career - Frontend",
-        "active": true,
-        "date_updated": 1715037266,
+        "active": false,
+        "date_updated": 1723583781,
         "date_posted": 1715037266,
         "url": "https://jobs.jobvite.com/splunk-careers/job/oeTxsfwQ?nl=1&nl=1&fr=false",
         "locations": [
@@ -246,14 +246,14 @@
         "id": "31bd40d2-03e5-4df7-bbcd-30c44e91ba9e",
         "title": "Software Engineer - Early in Career - Frontend",
         "active": true,
-        "date_updated": 1716938695,
+        "date_updated": 1723583866,
         "date_posted": 1716938695,
         "url": "https://jobs.jobvite.com/splunk-careers/job/on3Csfwe?nl=1&nl=1&fr=false",
         "locations": [
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Splunk",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16086,14 +16086,14 @@
         "id": "17f1b740-2c6a-4b83-bbe8-8142b619f20e",
         "title": "Software Engineer \u2013 Early Career - Product",
         "active": true,
-        "date_updated": 1716405609,
+        "date_updated": 1723583976,
         "date_posted": 1714807576,
         "url": "https://boards.greenhouse.io/zip/jobs/4731006004",
         "locations": [
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Zip",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16321,6 +16321,70 @@
         "source": "reddoy",
         "id": "8855647d-0d39-4566-a4dc-6da006be5052",
         "date_posted": 1723074820,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723583608,
+        "url": "https://jobs.ashbyhq.com/codeium/558657be-5082-4e97-8509-d49f5c25bf5b",
+        "company_name": "Codeium",
+        "title": "AI Product Engineer (New Grad)",
+        "locations": [
+            "Mountain VIew, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "jwang1011",
+        "id": "d6364b2a-74b1-4a38-94a4-6580c2b2696a",
+        "date_posted": 1723583608,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723583639,
+        "url": "https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12",
+        "company_name": "Ramp",
+        "title": "New Grad 2025: Software Engineer - Frontend",
+        "locations": [
+            "New York City, New York"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rohanpurandare",
+        "id": "90246102-849b-49db-b60b-151a5d620c98",
+        "date_posted": 1723583639,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723583661,
+        "url": "https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb",
+        "company_name": "Ramp",
+        "title": "New Grad 2025: Software Engineer - Backend",
+        "locations": [
+            "New York City, New York"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rohanpurandare",
+        "id": "bbf5da12-dbb2-45da-bcb2-c50068d2aa17",
+        "date_posted": 1723583661,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723583702,
+        "url": "https://jobs.ashbyhq.com/codeium/cb10c443-7e5b-44ac-8b21-0edd60b22095",
+        "company_name": "Codeium",
+        "title": "Software Engineer (New Grad)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "jwang1011",
+        "id": "9f1fb861-8544-4e5d-a9f7-ba45aea53da3",
+        "date_posted": 1723583702,
         "company_url": "",
         "is_visible": true
     }
