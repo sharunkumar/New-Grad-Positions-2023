@@ -16451,5 +16451,53 @@
         "date_posted": 1724390764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724644330,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471879007",
+        "company_name": "Verkada",
+        "title": "Android Software Engineer - University Graduate 2025",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "4ce66dd5-f634-4a2d-aaa6-9cc1ee577728",
+        "date_posted": 1724644330,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724644343,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471600007",
+        "company_name": "Verkada",
+        "title": "Backend Software Engineer - University Graduate 2025",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "104b5c7e-6c62-4bd0-a7ae-f67f7f6da7be",
+        "date_posted": 1724644343,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724644356,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4482613007",
+        "company_name": "Verkada",
+        "title": "Security Software Engineer - University Graduate 2025",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "ae5c3938-1f71-4802-9e79-710d045448da",
+        "date_posted": 1724644356,
+        "company_url": "",
+        "is_visible": true
     }
 ]
