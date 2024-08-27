@@ -16499,5 +16499,53 @@
         "date_posted": 1724644356,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724708535,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471860007",
+        "company_name": "Verkada",
+        "title": "iOS Software Engineer - University Graduate 2025",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "bb94f6b9-eb7a-42cc-9f13-fe5cad2c1bb9",
+        "date_posted": 1724708535,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724708566,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471635007",
+        "company_name": "Verkada",
+        "title": "Frontend Software Engineer - University Graduate 2025",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "7eba444a-c100-4425-9f3e-08bc3222fa56",
+        "date_posted": 1724708566,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724708596,
+        "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/6025906",
+        "company_name": "Stripe",
+        "title": "Software Engineer, New Grad",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ClamEater14",
+        "id": "757c31a9-2be7-4ca1-a2f0-936fedc9b853",
+        "date_posted": 1724708596,
+        "company_url": "",
+        "is_visible": true
     }
 ]
