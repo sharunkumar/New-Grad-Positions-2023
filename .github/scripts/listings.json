@@ -16635,7 +16635,7 @@
         "company_name": "esri",
         "id": "4ade0113-0354-476f-9184-43ba557450b8",
         "title": "Python Devops Engineer I - Arcgis Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1724948945,
         "date_posted": 1724948945,
         "url": "https://www.esri.com/careers/4498359007?gh_jid=4498359007",
@@ -17602,7 +17602,7 @@
         "company_name": "Applied Materials",
         "id": "61ff1603-a3c6-4f08-b1ca-b6b684444647",
         "title": "Software Engineer I - C/C++ - Embedded programming",
-        "active": true,
+        "active": false,
         "date_updated": 1722525748,
         "date_posted": 1722525748,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-1----E1--New-College-Grad_R2415471",
@@ -17986,7 +17986,7 @@
         "company_name": "Watershed",
         "id": "0e3eaa70-2438-4631-b4bf-e7242c140401",
         "title": "Software engineer \u2013 New grad",
-        "active": true,
+        "active": false,
         "date_updated": 1725074994,
         "date_posted": 1725074994,
         "url": "https://job-boards.greenhouse.io/watershedclimate/jobs/4091574004",
@@ -18061,6 +18061,54 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Datadog",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ZipRecruiter",
+        "id": "ec8cddda-da0c-4e6c-be99-8c8ac79a925c",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1725391341,
+        "date_posted": 1725391341,
+        "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ZipRecruiter",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RVO Health",
+        "id": "ff117a92-97e8-4c34-9bcb-202940bb2a6c",
+        "title": "2025 Early Career Program: Software Engineering Intern",
+        "active": true,
+        "date_updated": 1725393746,
+        "date_posted": 1725393746,
+        "url": "https://job-boards.greenhouse.io/rvohealth/jobs/4468377005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RVO-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OKX ",
+        "id": "f98ecb17-34b6-44cf-8307-31ef552197e3",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1725405523,
+        "date_posted": 1725405523,
+        "url": "https://job-boards.greenhouse.io/okx/jobs/6081008003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/OKX",
         "is_visible": true,
         "sponsorship": "Other"
     }
