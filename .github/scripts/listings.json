@@ -16587,7 +16587,7 @@
         "company_name": "Wyetech LLC",
         "id": "13e21d71-7cf9-406c-9746-2bbde9ae8c74",
         "title": "Software Engineer 1/Jr. Java Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1725002665,
         "date_posted": 1725002665,
         "url": "https://jobs.lever.co/wyetechllc/fb36d3fc-dfc9-4cae-89ef-7cd3632b2ba8/apply",
@@ -18109,6 +18109,38 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/OKX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Signify Health",
+        "id": "71f49cbc-2ad7-4a6f-9612-c04685cc3182",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1725462817,
+        "date_posted": 1725462817,
+        "url": "https://www.signifyhealth.com/careers-corporate?gh_jid=6108628003",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Signify-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech LLC",
+        "id": "9ee154bc-9a9d-44f6-aefb-9a7be9067ee6",
+        "title": "Software Engineer 1",
+        "active": false,
+        "date_updated": 1725463077,
+        "date_posted": 1725463077,
+        "url": "https://jobs.lever.co/wyetechllc/5611a299-a368-40e4-b0c7-af7230bbc978/apply",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other"
     }
