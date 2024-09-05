@@ -4415,7 +4415,7 @@
         "company_name": "Salesforce",
         "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
         "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1722119292,
         "date_posted": 1719875851,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS--New-Grad-_JR244479-1",
@@ -16955,7 +16955,7 @@
         "company_name": "Qloo",
         "id": "68b3d370-8179-438e-ad4c-8b067ee6607b",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1724283287,
         "date_posted": 1724283287,
         "url": "https://jobs.lever.co/qloo/56d875f9-671c-447b-868e-5da9af79ffce/apply",
@@ -17874,7 +17874,7 @@
         "company_name": "Wiley Edge",
         "id": "03853a07-8236-44ce-bd3f-64a3b0150a1e",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061087,
         "date_posted": 1725061087,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4392249006",
@@ -17906,7 +17906,7 @@
         "company_name": "Wiley Edge",
         "id": "9de17cca-57cb-4ea4-b73b-f9b65eafa5c3",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061086,
         "date_posted": 1725061086,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4383912006",
@@ -17922,7 +17922,7 @@
         "company_name": "Wiley Edge",
         "id": "6e96ebf0-e159-4e9d-beb0-71b35ae0f887",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061086,
         "date_posted": 1725061086,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4391958006",
@@ -17938,7 +17938,7 @@
         "company_name": "Wiley Edge",
         "id": "b2f60989-d115-4b9e-a071-5d6540c5313f",
         "title": "C++ Junior Software Engineer - London Heathrow - UK",
-        "active": false,
+        "active": true,
         "date_updated": 1725061080,
         "date_posted": 1725061080,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4375160006",
@@ -18117,7 +18117,7 @@
         "company_name": "Signify Health",
         "id": "71f49cbc-2ad7-4a6f-9612-c04685cc3182",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1725462817,
         "date_posted": 1725462817,
         "url": "https://www.signifyhealth.com/careers-corporate?gh_jid=6108628003",
@@ -18141,6 +18141,70 @@
             "Odenton, MD"
         ],
         "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trustpilot",
+        "id": "b1adf5a3-717e-4a45-9b0a-5465ba49a11f",
+        "title": "Software Engineer I - API Platform",
+        "active": true,
+        "date_updated": 1725478837,
+        "date_posted": 1725478837,
+        "url": "https://business.trustpilot.com/jobs/6107925?gh_jid=6107925",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trustpilot",
+        "id": "e5fbf95b-15b7-47e9-8208-03ef9c85b961",
+        "title": "Software Engineer I - API Platform",
+        "active": true,
+        "date_updated": 1725478837,
+        "date_posted": 1725478837,
+        "url": "https://business.trustpilot.com/jobs/6107934?gh_jid=6107934",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PolicyMe",
+        "id": "93dd032c-b3c0-454e-a0c3-b596dc8ca533",
+        "title": "Junior Software Engineer - Remote",
+        "active": true,
+        "date_updated": 1725494244,
+        "date_posted": 1725494244,
+        "url": "https://jobs.lever.co/policyme/b6b41cf8-fd9f-48d8-864c-671b53fc7042/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PolicyMe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anyscale",
+        "id": "5f7aaf47-f0a3-4ad9-b1f5-cb6d14820765",
+        "title": "Software Engineer \u2013 New Grad 2025",
+        "active": true,
+        "date_updated": 1725498055,
+        "date_posted": 1725498055,
+        "url": "https://jobs.lever.co/anyscale/49ed665c-3037-4430-9fa7-b900194c6401/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Anyscale",
         "is_visible": true,
         "sponsorship": "Other"
     }
