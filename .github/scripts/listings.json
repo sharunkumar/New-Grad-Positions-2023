@@ -1529,7 +1529,7 @@
         "company_name": "Veeva Systems",
         "id": "3f29d010-cc7e-46d3-809a-80b161151483",
         "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
-        "active": true,
+        "active": false,
         "date_updated": 1715815470,
         "date_posted": 1715815470,
         "url": "https://jobs.lever.co/veeva/f235ed8b-0972-4248-9d57-2d500aa094f5/apply",
@@ -16731,7 +16731,7 @@
         "company_name": "Grand Rounds",
         "id": "146ea259-126b-4e18-8753-a6d924f56f81",
         "title": "Software Engineer I - Orchestration Platform - Canada",
-        "active": true,
+        "active": false,
         "date_updated": 1721157673,
         "date_posted": 1721085152,
         "url": "https://jobs.lever.co/includedhealth/71927e92-88ec-4481-8d12-00a2bcd9c41f/apply",
@@ -17103,7 +17103,7 @@
         "company_name": "Glean",
         "id": "0da72647-f3bd-4a07-9f55-235f98d6c874",
         "title": "Software Engineer \u2013 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1724714289,
         "date_posted": 1724714289,
         "url": "https://boards.greenhouse.io/gleanwork/jobs/4449298005",
@@ -17954,7 +17954,7 @@
         "company_name": "Wiley Edge",
         "id": "a84d8845-f4db-45a6-b93d-dba7b71adbbb",
         "title": "Junior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1725061085,
         "date_posted": 1725061085,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4313148006",
@@ -18053,7 +18053,7 @@
         "company_name": "Datadog",
         "id": "2945c552-0101-45e5-8f9b-0e71bc01dac5",
         "title": "Data Scientist \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1725376538,
         "date_posted": 1725376538,
         "url": "https://careers.datadoghq.com/detail/6209265/?gh_jid=6209265",
@@ -18709,6 +18709,71 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Subsplash",
+        "id": "b60c54e1-7ab9-4d7a-9148-54d754be2ff0",
+        "title": "Software Development Engineer I - Front-end",
+        "active": true,
+        "date_updated": 1725995807,
+        "date_posted": 1725995807,
+        "url": "https://boards.greenhouse.io/subsplash/jobs/7632485002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Subsplash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Subsplash",
+        "id": "60b33825-ad15-4f24-8a40-e79b7c1a40c3",
+        "title": "Software Development Engineer I - Back-end",
+        "active": true,
+        "date_updated": 1725995807,
+        "date_posted": 1725995807,
+        "url": "https://boards.greenhouse.io/subsplash/jobs/7631988002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Subsplash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Disney Careers",
+        "id": "29bb61ea-711c-453d-b98c-e8f52686426b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1726009972,
+        "date_posted": 1726009972,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10099376",
+        "locations": [
+            "Santa Monica, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perpay",
+        "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1726009552,
+        "date_posted": 1726009552,
+        "url": "https://boards.greenhouse.io/perpay/jobs/4034578007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
         "is_visible": true,
         "sponsorship": "Other"
     }
