@@ -16667,7 +16667,7 @@
         "company_name": "Capital One",
         "id": "89f46cb5-8471-4dfa-9217-afe6a525b569",
         "title": "Associate \u2013 New Grad - Software Engineer - OR049152",
-        "active": false,
+        "active": true,
         "date_updated": 1724888340,
         "date_posted": 1724888340,
         "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad--OR049152-_R195487",
@@ -18572,7 +18572,7 @@
         "company_name": "Disney Careers",
         "id": "e17031e1-ec88-46f8-85ca-51344ba0eac3",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1725926168,
         "date_posted": 1725926168,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10097956",
@@ -18972,6 +18972,70 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Vectra",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RELX",
+        "id": "7e047c7a-949a-4a7e-b4c3-3adbd5fe4d77",
+        "title": "Aspire Tech Graduate Program - Data Engineer I",
+        "active": true,
+        "date_updated": 1725985999,
+        "date_posted": 1725985999,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Aspire-Tech-Graduate-Program---Data-Engineer-I_R83652-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gecko Robotics",
+        "id": "4de6098a-15b6-4713-a555-bdab5daa716c",
+        "title": "Embedded Software Engineer \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1725941434,
+        "date_posted": 1725941434,
+        "url": "https://jobs.ashbyhq.com/gecko-robotics/c161948f-001d-45e4-a340-776cfccc1ff2/application",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Navan",
+        "id": "12d74d59-f8fb-4f04-a478-e3dd867f6e9d",
+        "title": "University Graduate - Software Engineer - Back-End",
+        "active": true,
+        "date_updated": 1722036576,
+        "date_posted": 1722036576,
+        "url": "https://tripactions.com/job-openings?gh_jid=5382869",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Navan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tencent",
+        "id": "2fe87416-59d9-4125-ae96-47b609f83c15",
+        "title": "Security Software Engineer I",
+        "active": true,
+        "date_updated": 1726111127,
+        "date_posted": 1726111127,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Palo-Alto/Security-Engineer-I_R103856",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
         "is_visible": true,
         "sponsorship": "Other"
     }
