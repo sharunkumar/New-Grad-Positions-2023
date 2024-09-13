@@ -17103,7 +17103,7 @@
         "company_name": "Glean",
         "id": "0da72647-f3bd-4a07-9f55-235f98d6c874",
         "title": "Software Engineer \u2013 University Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1724714289,
         "date_posted": 1724714289,
         "url": "https://boards.greenhouse.io/gleanwork/jobs/4449298005",
@@ -18556,7 +18556,7 @@
         "company_name": "Disney Careers",
         "id": "82d566c5-9240-49d0-8663-0c44ed17fced",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1725926182,
         "date_posted": 1725926182,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Data-Engineer-I_10100253",
@@ -18980,7 +18980,7 @@
         "company_name": "RELX",
         "id": "7e047c7a-949a-4a7e-b4c3-3adbd5fe4d77",
         "title": "Aspire Tech Graduate Program - Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1725985999,
         "date_posted": 1725985999,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Aspire-Tech-Graduate-Program---Data-Engineer-I_R83652-1",
@@ -19036,6 +19036,38 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "adb60021-4fce-4bb3-adc5-aeee7d451e7e",
+        "title": "Software Engineer I - Palo Alto",
+        "active": true,
+        "date_updated": 1726170467,
+        "date_posted": 1726170467,
+        "url": "https://jobs.ashbyhq.com/Jerry/01a0c07a-ebc9-4bfb-a99d-21eafaf9be38/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech LLC",
+        "id": "9ac7fd5d-2003-4b24-95b4-beebf9d8f6e4",
+        "title": "Software Engineer 1 - Telework Available",
+        "active": true,
+        "date_updated": 1726182499,
+        "date_posted": 1726182499,
+        "url": "https://jobs.lever.co/wyetechllc/501f6be7-947a-4aa3-8530-d4134b1aab7a/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other"
     }
