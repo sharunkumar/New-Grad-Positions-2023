@@ -18461,7 +18461,7 @@
         "company_name": "Aquatic Capital Management",
         "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
         "title": "Software Engineer: Early Career - Python",
-        "active": true,
+        "active": false,
         "date_updated": 1725655419,
         "date_posted": 1725655419,
         "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
@@ -19136,5 +19136,21 @@
         "date_posted": 1726307549,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "a01d45cb-bb9a-41a7-8d48-4472ee0e9ce9",
+        "title": "New College Grad Engineer - Software Engineer - Firmware Engineering",
+        "active": true,
+        "date_updated": 1726505835,
+        "date_posted": 1726505835,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000014221462",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
