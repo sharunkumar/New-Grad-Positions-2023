@@ -16715,7 +16715,7 @@
         "company_name": "Barbaricum",
         "id": "07942845-5610-4018-b477-1fa49ee5b6c5",
         "title": "Junior Full Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1718738088,
         "date_posted": 1715181338,
         "url": "https://jobs.lever.co/barbaricum/4a17cdfc-138f-44de-b3f4-ab267185be59/apply",
@@ -18461,7 +18461,7 @@
         "company_name": "Aquatic Capital Management",
         "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
         "title": "Software Engineer: Early Career - Python",
-        "active": false,
+        "active": true,
         "date_updated": 1725655419,
         "date_posted": 1725655419,
         "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
@@ -18749,7 +18749,7 @@
         "company_name": "Disney Careers",
         "id": "29bb61ea-711c-453d-b98c-e8f52686426b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1726009972,
         "date_posted": 1726009972,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10099376",
@@ -19222,7 +19222,7 @@
         "company_name": "GitHub",
         "id": "f84c07a1-2726-4b59-82df-2be684c240c0",
         "title": "Software Engineer I - Copilot",
-        "active": true,
+        "active": false,
         "date_updated": 1726601102,
         "date_posted": 1726601102,
         "url": "https://githubinc.jibeapply.com/jobs/3041?lang=en-us&icims=1",
@@ -19280,6 +19280,38 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Duolingo",
+        "id": "9115ecfe-dd21-4257-bbe3-c8650b2a1fb0",
+        "title": "Data Scientist I \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1726672204,
+        "date_posted": 1726672204,
+        "url": "https://job-boards.greenhouse.io/duolingo/jobs/7642744002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Duolingo",
+        "id": "b349103c-bc7d-459b-af2b-cdba940d102d",
+        "title": "Data Scientist I \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1726672203,
+        "date_posted": 1726672203,
+        "url": "https://job-boards.greenhouse.io/duolingo/jobs/7643896002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
         "is_visible": true,
         "sponsorship": "Other"
     }
