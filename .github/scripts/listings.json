@@ -17858,7 +17858,7 @@
         "company_name": "Wiley Edge",
         "id": "4e2587db-6361-4149-9d21-78c486d240f2",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061187,
         "date_posted": 1725061187,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374540006",
@@ -17890,7 +17890,7 @@
         "company_name": "Wiley Edge",
         "id": "878b38f9-b530-44ec-982d-cd6211337fe7",
         "title": "Mthree \u2013 Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725514760,
         "date_posted": 1725061087,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374266006",
@@ -17906,7 +17906,7 @@
         "company_name": "Wiley Edge",
         "id": "9de17cca-57cb-4ea4-b73b-f9b65eafa5c3",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061086,
         "date_posted": 1725061086,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4383912006",
@@ -17938,7 +17938,7 @@
         "company_name": "Wiley Edge",
         "id": "b2f60989-d115-4b9e-a071-5d6540c5313f",
         "title": "C++ Junior Software Engineer - London Heathrow - UK",
-        "active": false,
+        "active": true,
         "date_updated": 1725061080,
         "date_posted": 1725061080,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4375160006",
@@ -18413,7 +18413,7 @@
         "company_name": "Wiley Edge",
         "id": "aeab7799-c1ed-4f67-b4cc-81bfa2380655",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725580968,
         "date_posted": 1725580968,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374347006",
@@ -18765,16 +18765,16 @@
         "source": "Simplify",
         "company_name": "Perpay",
         "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
-        "title": "Software Engineer \u2013 New Grad",
+        "title": "Software Engineer, New Grad",
         "active": true,
-        "date_updated": 1726009552,
+        "date_updated": 1727128045,
         "date_posted": 1726009552,
         "url": "https://boards.greenhouse.io/perpay/jobs/4034578007",
         "locations": [
-            "Philadelphia, PA"
+            "Philadelphia, Pa"
         ],
         "company_url": "https://simplify.jobs/c/Perpay",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -19104,17 +19104,15 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1726307527,
+        "date_updated": 1727127998,
         "url": "https://www.splunk.com/en_us/careers/jobs/software-engineer-early-in-29740.html",
         "company_name": "Splunk",
-        "title": "Software Engineer - Early in Career (Backend/Full-stack, Immediate Start Date)",
+        "title": "Software Engineer",
         "locations": [
-            "CO, United States",
-            "NC, United States",
-            "Hybrid Remote"
+            "SF Bay Area, Seattle Metro, and New York City Metro Area"
         ],
-        "sponsorship": "Other",
-        "active": true,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": false,
         "source": "Akshay6890",
         "id": "87348472-60dd-49f8-b9de-2c7e2f8a4545",
         "date_posted": 1726307527,
@@ -19445,6 +19443,118 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rocket Software",
+        "id": "7e9ad487-7cc2-4d34-8325-6ff1f0499f00",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1727119561,
+        "date_posted": 1727119561,
+        "url": "https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Newbury-United-Kingdom/Software-Engineer-I_R2024-5044",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ff0e403d-7fb1-43cf-81ba-a2f00c99612b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727125614,
+        "url": "https://bloomberg.avature.net/careers/JobDetail/2025-Software-Engineer-New-York/6961",
+        "company_name": "Bloomberg",
+        "title": "Software Engineer (New Grad)",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": false,
+        "source": "quantumscholar",
+        "id": "d53614e8-c2ef-408d-afb3-97140046f4d1",
+        "date_posted": 1727125614,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1727125644,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1771661/Software-Engineer---Frontend%2C-Redmond",
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Frontend",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "eneief",
+        "id": "e304ea0a-48de-4f61-b33a-4c249258619b",
+        "date_posted": 1727125644,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Subsplash",
+        "id": "edad236e-3134-4c79-b028-4f358e263660",
+        "title": "Software Development Engineer I - Back-end",
+        "active": true,
+        "date_updated": 1727133027,
+        "date_posted": 1727133027,
+        "url": "https://boards.greenhouse.io/subsplash/jobs/7653784002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Subsplash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nominal",
+        "id": "cdb76464-b9b9-44a7-a1f9-b944fd35b5a9",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1727133447,
+        "date_posted": 1727133447,
+        "url": "https://jobs.lever.co/nominal/89854893-f950-4b95-afd9-415190bbcd1c/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nominal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nominal",
+        "id": "0446366e-48be-44ee-afc6-622c14d5b3af",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1727133447,
+        "date_posted": 1727133447,
+        "url": "https://jobs.lever.co/nominal/e6494c90-f3f3-4d18-b2bf-e72914e8a41d/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nominal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nominal",
+        "id": "d5eee09d-40ff-4b0d-982b-43acea2a0c2d",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1727133449,
+        "date_posted": 1727133449,
+        "url": "https://jobs.lever.co/nominal/9ed92de3-a7de-4901-9fe0-054b9c66d7c9/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nominal",
         "is_visible": true,
         "sponsorship": "Other"
     }
