@@ -17103,7 +17103,7 @@
         "company_name": "Glean",
         "id": "0da72647-f3bd-4a07-9f55-235f98d6c874",
         "title": "Software Engineer \u2013 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1724714289,
         "date_posted": 1724714289,
         "url": "https://boards.greenhouse.io/gleanwork/jobs/4449298005",
@@ -18851,7 +18851,7 @@
         "company_name": "Chime",
         "id": "37ddb0b1-17d9-4b43-b1ca-15fa8da3652d",
         "title": "Software Engineer-New Grad - For Fall 2024 Event Attendees",
-        "active": false,
+        "active": true,
         "date_updated": 1726096329,
         "date_posted": 1726096329,
         "url": "https://boards.greenhouse.io/chime/jobs/7626713002",
@@ -18899,7 +18899,7 @@
         "company_name": "Gecko Robotics",
         "id": "c5e871a0-bd0e-4b54-9746-56e579dfbc2a",
         "title": "Software Engineer \u2013 New Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1725927382,
         "date_posted": 1725927382,
         "url": "https://jobs.ashbyhq.com/gecko-robotics/34464bf6-1c55-4aed-8d08-ac43c7c965d1/application",
@@ -19350,7 +19350,7 @@
         "company_name": "NVIDIA",
         "id": "922c721f-9b0c-44d4-af33-5c75a368e6a4",
         "title": "Optical Mixed Signal Design Software Engineer \u2013 New College Grad 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1726861159,
         "date_posted": 1726861159,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Optical-Mixed-Signal-Design-Software-Engineer---New-College-Grad-2024_JR1987468",
@@ -19555,6 +19555,54 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Nominal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "ddb195bd-e5aa-491a-b877-2a6a11757ec8",
+        "title": "Software Engineer 1 - Telework",
+        "active": true,
+        "date_updated": 1727205335,
+        "date_posted": 1727205335,
+        "url": "https://jobs.lever.co/wyetechllc/b6553339-b2a7-4b91-ba56-ac3b8a18f337/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "d83f1539-88bd-4a36-adfd-1358207d8595",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1727205328,
+        "date_posted": 1727205328,
+        "url": "https://jobs.lever.co/wyetechllc/3fa5ec95-940b-44b7-9d47-dece3dde2975/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "96d18363-62af-4269-addc-1b0f280b2de7",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1727219353,
+        "date_posted": 1727219353,
+        "url": "https://jobs.lever.co/wyetechllc/e3e517ce-792b-4f97-974d-8d740caa2dd5/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other"
     }
