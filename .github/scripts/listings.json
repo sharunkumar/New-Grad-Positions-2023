@@ -19515,7 +19515,7 @@
         "company_name": "Nominal",
         "id": "cdb76464-b9b9-44a7-a1f9-b944fd35b5a9",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1727133447,
         "date_posted": 1727133447,
         "url": "https://jobs.lever.co/nominal/89854893-f950-4b95-afd9-415190bbcd1c/apply",
@@ -19531,7 +19531,7 @@
         "company_name": "Nominal",
         "id": "0446366e-48be-44ee-afc6-622c14d5b3af",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1727133447,
         "date_posted": 1727133447,
         "url": "https://jobs.lever.co/nominal/e6494c90-f3f3-4d18-b2bf-e72914e8a41d/apply",
@@ -19547,7 +19547,7 @@
         "company_name": "Nominal",
         "id": "d5eee09d-40ff-4b0d-982b-43acea2a0c2d",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1727133449,
         "date_posted": 1727133449,
         "url": "https://jobs.lever.co/nominal/9ed92de3-a7de-4901-9fe0-054b9c66d7c9/apply",
@@ -19603,6 +19603,72 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "0365c6ff-064f-42b8-92a3-b85c6ff96158",
+        "title": "Compiler Engineer \u2013 New College Grad 2024 - LLVM",
+        "active": true,
+        "date_updated": 1727293018,
+        "date_posted": 1727293018,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM---New-College-Grad-2024_JR1988112",
+        "locations": [
+            "Austin, TX",
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "189dfb08-5e4e-47d5-8c04-c3b0ff9a3629",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1727306140,
+        "date_posted": 1727306140,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-VA-Chantilly/Junior-Software-Engineer_R55534",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flashpoint",
+        "id": "e1db1599-3641-4bf0-8f8e-1ebe542f074d",
+        "title": "Software Engineer I - Collections",
+        "active": true,
+        "date_updated": 1727306053,
+        "date_posted": 1727306053,
+        "url": "https://job-boards.greenhouse.io/flashpoint/jobs/7657674002?gh_jid=7657674002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Flashpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "8354284b-7ff7-4e9c-8426-9e05d6f8e46e",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1727305975,
+        "date_posted": 1727305975,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10098772",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other"
     }
