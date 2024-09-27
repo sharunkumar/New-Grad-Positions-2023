@@ -18413,7 +18413,7 @@
         "company_name": "Wiley Edge",
         "id": "aeab7799-c1ed-4f67-b4cc-81bfa2380655",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1725580968,
         "date_posted": 1725580968,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374347006",
@@ -19661,7 +19661,7 @@
         "company_name": "The Walt Disney Company",
         "id": "8354284b-7ff7-4e9c-8426-9e05d6f8e46e",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1727305975,
         "date_posted": 1727305975,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10098772",
@@ -19693,7 +19693,7 @@
         "company_name": "Capital One",
         "id": "0708641e-cbe9-4912-b240-d5020e94ad77",
         "title": "Associate \u2013 New Grad - Software Engineer - OR049160",
-        "active": true,
+        "active": false,
         "date_updated": 1727363940,
         "date_posted": 1727363940,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad--OR049160-_R195501",
@@ -19701,6 +19701,86 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "80ea5956-2483-4c16-a6eb-506add359c2f",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1727378200,
+        "date_posted": 1727378200,
+        "url": "https://jobs.lever.co/wyetechllc/f70a3c22-5c54-4e01-8128-421faf496fd6/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sumo Logic",
+        "id": "41d041f6-06a8-4aa9-9697-845e9cbace2c",
+        "title": "Software Engineer I - Mle",
+        "active": true,
+        "date_updated": 1727378911,
+        "date_posted": 1727378911,
+        "url": "https://job-boards.greenhouse.io/sumologic/jobs/6267941",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sumo-Logic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "0feb0097-f1f8-458e-b5fb-088f0ae06031",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1727378199,
+        "date_posted": 1727378199,
+        "url": "https://jobs.lever.co/wyetechllc/5278ff9a-4625-44b0-858d-67cb2c1c3fdc/apply",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "ac3538f2-3069-4692-a897-7e83ab9935ef",
+        "title": "Software Engineer \u2013 New Grad - Pay Anyone",
+        "active": true,
+        "date_updated": 1727379050,
+        "date_posted": 1727379050,
+        "url": "https://boards.greenhouse.io/chime/jobs/7515160002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snap Inc.",
+        "id": "7737c33d-9b7b-49b1-94ed-7815816978c5",
+        "title": "Software Engineer \u2013 New Grad Engineer - Full Stack",
+        "active": true,
+        "date_updated": 1727392387,
+        "date_posted": 1727392387,
+        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Seattle-Washington/Software-Engineer--Full-Stack--New-Grad-Engineer_R0037143-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snap",
         "is_visible": true,
         "sponsorship": "Other"
     }
