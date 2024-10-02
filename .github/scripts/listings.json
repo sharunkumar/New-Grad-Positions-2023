@@ -18867,7 +18867,7 @@
         "company_name": "Alto Pharmacy",
         "id": "0e38bd82-57b3-4b35-8bb2-e96f647a2e52",
         "title": "Early Career Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1726307511,
         "date_posted": 1726096026,
         "url": "https://boards.greenhouse.io/alto/jobs/6235262",
@@ -19845,6 +19845,54 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/Codazen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SeatGeek",
+        "id": "05f006a7-e4b0-4263-915b-b761c61f8240",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1727811719,
+        "date_posted": 1727811719,
+        "url": "https://seatgeek.com/jobs/6295342?gh_jid=6295342",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SeatGeek",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SMX",
+        "id": "efdb49dd-cee5-4049-bca9-01d77d755cf3",
+        "title": "Junior Software Engineer - Ts/Sci CI Poly",
+        "active": true,
+        "date_updated": 1727811030,
+        "date_posted": 1727811030,
+        "url": "https://www.smxtech.com/careers/?gh_jid=6228060003",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "b3cd2dc0-5c30-4527-abee-a408d1f0985f",
+        "title": "Fedramp Software Engineer \u2013 Early Career - Raleigh - NC - Jan 2025 or sooner start date ONLY",
+        "active": true,
+        "date_updated": 1727824595,
+        "date_posted": 1727824595,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/ovBBufwV?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
     }
