@@ -19220,7 +19220,7 @@
         "company_name": "GitHub",
         "id": "f84c07a1-2726-4b59-82df-2be684c240c0",
         "title": "Software Engineer I - Copilot",
-        "active": false,
+        "active": true,
         "date_updated": 1726601102,
         "date_posted": 1726601102,
         "url": "https://githubinc.jibeapply.com/jobs/3041?lang=en-us&icims=1",
@@ -19805,7 +19805,7 @@
         "company_name": "KLA",
         "id": "97057cba-e730-4b44-a093-b4377f13b939",
         "title": "Software Engineer \u2013 C++ / New College Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1727745838,
         "date_posted": 1725927397,
         "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Austin-TX/Software-Engineer--C-C-----Qt-_2424709-1",
@@ -19913,5 +19913,21 @@
         "date_posted": 1727859026,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Grand Rounds",
+        "id": "aca438a8-e473-4ff0-82c1-cc31c65f85e6",
+        "title": "Full Stack Software Engineer \u2013 New College Grad - Treat Team",
+        "active": false,
+        "date_updated": 1727897355,
+        "date_posted": 1727897355,
+        "url": "https://jobs.lever.co/includedhealth/84ee4d3b-ee3e-461f-ad77-db0d82ee65f6/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Grand-Rounds",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
