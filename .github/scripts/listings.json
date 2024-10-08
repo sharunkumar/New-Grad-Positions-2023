@@ -16891,7 +16891,7 @@
         "company_name": "Radiant",
         "id": "cbfa5543-1f6a-40a1-b323-9cbf8b20844a",
         "title": "Software Engineer \u2013 New Graduates",
-        "active": true,
+        "active": false,
         "date_updated": 1723505784,
         "date_posted": 1723505784,
         "url": "https://job-boards.greenhouse.io/radiant/jobs/4460385005",
@@ -19983,7 +19983,7 @@
         "company_name": "NVIDIA",
         "id": "34620c69-14aa-46d2-814a-23a053d3591e",
         "title": "Software Engineer for Cloud Platforms \u2013 New College Graduate 2024 - Deep Learning Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1727997513,
         "date_posted": 1727997513,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer-for-Cloud-Platforms--Deep-Learning-Applications---New-College-Graduate-2024_JR1988779",
@@ -20154,6 +20154,54 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "4e2f4fd4-2fa2-474f-89f6-709d2aaf2d79",
+        "title": "Software Engineer I - Statwing Products",
+        "active": false,
+        "date_updated": 1728329364,
+        "date_posted": 1728329364,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6306098?gh_jid=6306098",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "9b96fa4d-804c-4291-a78a-0a89edd67d24",
+        "title": "Software Engineer \u2013 New College Grad 2025 - Big Data",
+        "active": true,
+        "date_updated": 1728329844,
+        "date_posted": 1728329844,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Big-Data---New-College-Grad-2025_JR1988904",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flexport",
+        "id": "8726571a-17ea-4047-998d-c1e8ab6375ff",
+        "title": "Software Engineer I - Forwarding Applications",
+        "active": true,
+        "date_updated": 1728343059,
+        "date_posted": 1728343059,
+        "url": "https://boards.greenhouse.io/flexport/jobs/6309298",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flexport",
         "is_visible": true,
         "sponsorship": "Other"
     }
