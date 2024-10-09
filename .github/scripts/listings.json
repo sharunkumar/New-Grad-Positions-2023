@@ -19757,7 +19757,7 @@
         "company_name": "Chime",
         "id": "ac3538f2-3069-4692-a897-7e83ab9935ef",
         "title": "Software Engineer \u2013 New Grad - Pay Anyone",
-        "active": true,
+        "active": false,
         "date_updated": 1727379050,
         "date_posted": 1727379050,
         "url": "https://boards.greenhouse.io/chime/jobs/7515160002",
@@ -20080,7 +20080,7 @@
         "company_name": "Uber",
         "id": "b6d7783c-d86a-4694-8342-db1951ea4414",
         "title": "Graduate 2024 Software Engineer I - Tor",
-        "active": true,
+        "active": false,
         "date_updated": 1728070490,
         "date_posted": 1728070490,
         "url": "https://www.uber.com/global/en/careers/list/136135/",
@@ -20234,6 +20234,22 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Universal Music Group",
+        "id": "ef49b34d-77ae-491e-84f6-48ac4b8636ea",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1728486818,
+        "date_posted": 1728486818,
+        "url": "https://umusic.wd5.myworkdayjobs.com/en-US/UMGUS/job/New-York-New-York/Junior-Software-Developer_UMG-17506",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Music-Group",
         "is_visible": true,
         "sponsorship": "Other"
     }
