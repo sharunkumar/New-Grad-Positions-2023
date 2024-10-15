@@ -13669,7 +13669,7 @@
         "company_name": "NewsBreak",
         "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "title": "Software Engineer \u2013 Junior & New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1716340171,
         "date_posted": 1716193274,
         "url": "https://boards.greenhouse.io/newsbreak/jobs/4054592006",
@@ -20444,6 +20444,39 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "f84a3029-c308-453f-894b-161ea8dc5105",
+        "title": "Software Dev Engineer I - Redshift",
+        "active": true,
+        "date_updated": 1728934645,
+        "date_posted": 1728934645,
+        "url": "https://amazon.jobs/en/jobs/2649147/software-dev-engineer-i-redshift",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Floqast",
+        "id": "7244bc38-abe3-49aa-9d58-e9febad76246",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1728947715,
+        "date_posted": 1728947715,
+        "url": "https://jobs.lever.co/floqast/b8ca2880-e07d-42f4-b2f1-fa32e677171d/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Floqast",
         "is_visible": true,
         "sponsorship": "Other"
     }
