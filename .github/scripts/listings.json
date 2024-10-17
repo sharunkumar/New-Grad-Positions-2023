@@ -18851,7 +18851,7 @@
         "company_name": "Chime",
         "id": "37ddb0b1-17d9-4b43-b1ca-15fa8da3652d",
         "title": "Software Engineer-New Grad - For Fall 2024 Event Attendees",
-        "active": true,
+        "active": false,
         "date_updated": 1726096329,
         "date_posted": 1726096329,
         "url": "https://boards.greenhouse.io/chime/jobs/7626713002",
@@ -19595,7 +19595,7 @@
         "company_name": "Wyetech",
         "id": "96d18363-62af-4269-addc-1b0f280b2de7",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1727219353,
         "date_posted": 1727219353,
         "url": "https://jobs.lever.co/wyetechllc/e3e517ce-792b-4f97-974d-8d740caa2dd5/apply",
@@ -19725,7 +19725,7 @@
         "company_name": "Sumo Logic",
         "id": "41d041f6-06a8-4aa9-9697-845e9cbace2c",
         "title": "Software Engineer I - Mle",
-        "active": false,
+        "active": true,
         "date_updated": 1727378911,
         "date_posted": 1727378911,
         "url": "https://job-boards.greenhouse.io/sumologic/jobs/6267941",
@@ -20542,6 +20542,38 @@
             "Fort Worth, TX"
         ],
         "company_url": "https://simplify.jobs/c/Koddi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "89936ca8-3004-4613-9cbc-677a399096c9",
+        "title": "New Grads 2025 - Software Engineer - Computer Vision/Deep Learning",
+        "active": true,
+        "date_updated": 1729107845,
+        "date_posted": 1729107845,
+        "url": "https://jobs.lever.co/weride/871b07f9-b4e4-4a4e-a5ec-d6adf794fc5a/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "4867ce68-7b8a-4cb5-9f3f-858ae6cefee6",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1729120494,
+        "date_posted": 1729120494,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-VA-Chantilly/Junior-Software-Engineer_R55970",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
         "is_visible": true,
         "sponsorship": "Other"
     }
