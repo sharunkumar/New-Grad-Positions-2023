@@ -18540,7 +18540,7 @@
         "company_name": "ManTech",
         "id": "17d50052-2945-4256-8ca2-7c8c2c4389c2",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1725923489,
         "date_posted": 1725923489,
         "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-VA-Chantilly/Junior-Software-Engineer_R54958-1",
@@ -19629,7 +19629,7 @@
         "company_name": "ManTech",
         "id": "189dfb08-5e4e-47d5-8c04-c3b0ff9a3629",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1727306140,
         "date_posted": 1727306140,
         "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-VA-Chantilly/Junior-Software-Engineer_R55534",
@@ -19919,7 +19919,7 @@
         "company_name": "Grand Rounds",
         "id": "aca438a8-e473-4ff0-82c1-cc31c65f85e6",
         "title": "Full Stack Software Engineer \u2013 New College Grad - Treat Team",
-        "active": false,
+        "active": true,
         "date_updated": 1727897355,
         "date_posted": 1727897355,
         "url": "https://jobs.lever.co/includedhealth/84ee4d3b-ee3e-461f-ad77-db0d82ee65f6/apply",
@@ -20274,7 +20274,7 @@
         "company_name": "Nuro",
         "id": "153be694-5eb6-4293-9218-0872ae77490a",
         "title": "Software Engineer \u2013 New Grad - Autonomy",
-        "active": true,
+        "active": false,
         "date_updated": 1728601751,
         "date_posted": 1728601751,
         "url": "https://nuro.ai/careersitem?gh_jid=6299078",
@@ -20566,7 +20566,7 @@
         "company_name": "ManTech",
         "id": "4867ce68-7b8a-4cb5-9f3f-858ae6cefee6",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1729120494,
         "date_posted": 1729120494,
         "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-VA-Chantilly/Junior-Software-Engineer_R55970",
@@ -20622,6 +20622,22 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Grand Rounds",
+        "id": "8afbaf77-738c-45c4-873c-7e48ad9e104b",
+        "title": "Android Engineer \u2013 2024 New Grad - Treat Team",
+        "active": true,
+        "date_updated": 1729279812,
+        "date_posted": 1729279812,
+        "url": "https://jobs.lever.co/includedhealth/9df413a7-c8e0-4649-9c47-59d8f686f750/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Grand-Rounds",
         "is_visible": true,
         "sponsorship": "Other"
     }
