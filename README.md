@@ -186,7 +186,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[NewsBreak](https://simplify.jobs/c/NewsBreak)** | Machine Learning Engineer (Junior & New Grad) | Bellevue, WA | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4338876006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **KLA** | Software Engineer – C++ / New College Graduate | Austin, TX | 🔒 | Sep 10 |
 | **Gecko Robotics** | Software Engineer – New Graduate | Boston, MA | 🔒 | Sep 10 |
-| **[Gecko Robotics](https://simplify.jobs/c/Gecko-Robotics)** | Field Software Engineer – New Graduate | Pittsburgh, PA | <a href="https://jobs.ashbyhq.com/gecko-robotics/456af2b4-804c-4fc5-95c3-01d6539cdc0e/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/cdf96759-2a86-4465-a888-b1307363d142?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 10 |
+| **Gecko Robotics** | Field Software Engineer – New Graduate | Pittsburgh, PA | 🔒 | Sep 10 |
 | **Gecko Robotics** | Forward Deployed Software Engineer – New Graduate | NYC | 🔒 | Sep 10 |
 | **Disney Careers** | Data Engineer I | Santa Monica, CA | 🔒 | Sep 09 |
 | **Disney Careers** | Software Engineer I | Santa Monica, CA</br>Bristol, CT | 🔒 | Sep 09 |
