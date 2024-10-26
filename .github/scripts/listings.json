@@ -20839,5 +20839,70 @@
         "company_url": "https://simplify.jobs/c/Pax8",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nextdoor",
+        "id": "86e2eef0-5e9f-4c19-925f-8dbc82a38e63",
+        "title": "Software Engineer \u2013 New Grad 2025",
+        "active": true,
+        "date_updated": 1729898426,
+        "date_posted": 1729898426,
+        "url": "https://about.nextdoor.com/careers-list/?gh_jid=6202947",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextdoor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MSD",
+        "id": "3f2b57ac-0b18-4387-8aca-b63864616837",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1729899534,
+        "date_posted": 1729899534,
+        "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Junior-Data-Engineer_R310324",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Remitly",
+        "id": "4eb4c762-cafb-4478-b89b-7c29c06d1157",
+        "title": "Software Development Engineer 1 - New Initiatives Team",
+        "active": true,
+        "date_updated": 1729898070,
+        "date_posted": 1729898070,
+        "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-1---New-Initiatives-Team_R_102452",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Remitly",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "80a6773d-3e13-41f3-bbe6-0c433b2c2175",
+        "title": "Tech Accelerate Graduate Program-Software Engineer I",
+        "active": true,
+        "date_updated": 1729898714,
+        "date_posted": 1729898714,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Accelerate-Tech-Graduate-Program--Software-Engineer-I_R83206",
+        "locations": [
+            "Georgia",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
