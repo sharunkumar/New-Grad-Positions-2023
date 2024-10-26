@@ -20904,5 +20904,21 @@
         "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia Group",
+        "id": "94ebcf29-5684-4bf2-af19-4065a7d33edd",
+        "title": "Software Development Engineer I - Workday",
+        "active": true,
+        "date_updated": 1729898709,
+        "date_posted": 1729898709,
+        "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I---Workday_R-90242",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/3e019fc3-52c2-459d-b7e9-b5acd6029da0",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
