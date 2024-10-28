@@ -20920,5 +20920,22 @@
         "company_url": "https://simplify.jobs/c/3e019fc3-52c2-459d-b7e9-b5acd6029da0",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mastercard",
+        "id": "df6df804-7ceb-47a6-a369-977dd665e068",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730156881,
+        "date_posted": 1730156881,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Remote---Connecticut/Software-Engineer-I_R-232552",
+        "locations": [
+            "O'Fallon, MO",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
