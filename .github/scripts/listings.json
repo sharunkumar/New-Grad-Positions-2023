@@ -17970,7 +17970,7 @@
         "company_name": "Zip",
         "id": "97b03a7e-3d00-428f-8f2a-94ea334e187f",
         "title": "Software Engineer \u2013 New Grad - 2025 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1725061376,
         "date_posted": 1725061376,
         "url": "https://job-boards.greenhouse.io/zip/jobs/5234060004",
@@ -20935,6 +20935,22 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "f8aecf7d-64d7-4025-9b26-f562fd2ae38f",
+        "title": "Data Scientist - Junior",
+        "active": true,
+        "date_updated": 1730171845,
+        "date_posted": 1730171845,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist--Junior_R0208847",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
         "is_visible": true,
         "sponsorship": "Other"
     }
