@@ -20953,5 +20953,21 @@
         "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730185806,
+        "url": "https://jobs.ashbyhq.com/Crusoe/80c4152c-a400-4ebd-ad6f-8a98a26bc65d",
+        "company_name": "Crusoe Cloud",
+        "title": "University Software Engineer - Full-time",
+        "locations": [
+            "San Fransisco"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "SKam23",
+        "id": "61f80dfe-88a3-4657-bbcc-3a0c33aaaad7",
+        "date_posted": 1730185806,
+        "company_url": "",
+        "is_visible": true
     }
 ]
