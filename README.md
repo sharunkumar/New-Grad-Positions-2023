@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[ClearEdge](https://simplify.jobs/c/ClearEdge)** | Software Engineer I | Annapolis Junction, MD | <a href="https://jobs.lever.co/clearedge/bf3aaaa5-0534-4f0c-93e5-7e071e257522/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/cd7acb67-1126-4c0f-8c06-7e96c236dc89?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 29 |
 | **Crusoe Cloud** | University Software Engineer - Full-time 🛂 | San Fransisco | <a href="https://jobs.ashbyhq.com/Crusoe/80c4152c-a400-4ebd-ad6f-8a98a26bc65d?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Booz Allen** | Data Scientist - Junior | Honolulu, HI | 🔒 | Oct 29 |
 | **[Mastercard](https://simplify.jobs/c/Mastercard)** | Software Engineer I | O'Fallon, MO</br>Remote in USA | <a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Remote---Connecticut/Software-Engineer-I_R-232552?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/df6df804-7ceb-47a6-a369-977dd665e068?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 28 |
