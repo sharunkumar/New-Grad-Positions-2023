@@ -20969,5 +20969,21 @@
         "date_posted": 1730185806,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ClearEdge",
+        "id": "cd7acb67-1126-4c0f-8c06-7e96c236dc89",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730215494,
+        "date_posted": 1730215494,
+        "url": "https://jobs.lever.co/clearedge/bf3aaaa5-0534-4f0c-93e5-7e071e257522/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ClearEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
