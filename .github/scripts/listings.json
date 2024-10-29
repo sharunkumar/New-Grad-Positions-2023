@@ -583,7 +583,7 @@
         "company_name": "Forward",
         "id": "69ee35be-0ef9-4b03-ab2b-941c9402d9db",
         "title": "Software Engineer \u2013 Entry Level - Full Stack",
-        "active": false,
+        "active": true,
         "date_updated": 1719271009,
         "date_posted": 1719271009,
         "url": "https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a/apply",
@@ -20983,6 +20983,22 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/ClearEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Forward",
+        "id": "331fc552-7e73-4169-90b5-65ebf0f5c6cd",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1730243546,
+        "date_posted": 1730243546,
+        "url": "https://jobs.lever.co/goforward/60755515-db06-4fb9-a9ca-e8410e05e726/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Forward",
         "is_visible": true,
         "sponsorship": "Other"
     }
