@@ -18766,7 +18766,7 @@
         "company_name": "Perpay",
         "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
         "title": "Software Engineer, New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1727128045,
         "date_posted": 1726009552,
         "url": "https://boards.greenhouse.io/perpay/jobs/4034578007",
@@ -20354,7 +20354,7 @@
         "company_name": "Pax8",
         "id": "0475d339-069e-46be-aed1-8b2f9f000ead",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1727897502,
         "date_posted": 1724455309,
         "url": "https://www.pax8.com/en-us/careers/job-openings?gh_jid=4694725004",
@@ -20918,6 +20918,23 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/3e019fc3-52c2-459d-b7e9-b5acd6029da0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mastercard",
+        "id": "df6df804-7ceb-47a6-a369-977dd665e068",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730156881,
+        "date_posted": 1730156881,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Remote---Connecticut/Software-Engineer-I_R-232552",
+        "locations": [
+            "O'Fallon, MO",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
         "is_visible": true,
         "sponsorship": "Other"
     }
