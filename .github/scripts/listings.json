@@ -20937,5 +20937,21 @@
         "company_url": "https://simplify.jobs/c/Mastercard",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "f8aecf7d-64d7-4025-9b26-f562fd2ae38f",
+        "title": "Data Scientist - Junior",
+        "active": true,
+        "date_updated": 1730171845,
+        "date_posted": 1730171845,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist--Junior_R0208847",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
