@@ -62,7 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **[Cambridge Mobile Telematics](https://simplify.jobs/c/4deb12d2-2054-45da-b1c8-a49bc3f15c6a)** | Software Engineer I - Android SDK | Remote in USA | <a href="https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=5845723&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/49e870f6-eabc-4125-988c-da15e32fa82f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 30 |
+| **Cambridge Mobile Telematics** | Software Engineer I - Android SDK | Remote in USA | 🔒 | Oct 30 |
 | **[Supernova Technology](https://simplify.jobs/c/4019ae9c-3cfa-47fe-83fd-758f3b050277)** | Junior Software Engineer | Chicago, IL | <a href="https://jobs.lever.co/supernovacompanies/68e224c9-e125-4e3f-9acd-065c0fc94bba/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/96cc08fe-93f9-488b-850b-b496706d6853?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 30 |
 | **[Forward](https://simplify.jobs/c/Forward)** | Software Engineer – New Grad | SF | <a href="https://jobs.lever.co/goforward/60755515-db06-4fb9-a9ca-e8410e05e726/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/331fc552-7e73-4169-90b5-65ebf0f5c6cd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 29 |
 | **ClearEdge** | Software Engineer I | Annapolis Junction, MD | 🔒 | Oct 29 |
@@ -123,6 +123,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Citylitics** | Junior Data Engineer | Toronto, ON, Canada | 🔒 | Oct 04 |
 | **NVIDIA** | Software Engineer for Cloud Platforms – New College Graduate 2024 - Deep Learning Applications | Remote in USA</br>Santa Clara, CA | 🔒 | Oct 03 |
 | **Capital One** | Associate – New Grad - Software Engineer - OR049161 | Toronto, ON, Canada | 🔒 | Oct 03 |
+| **[Wayfair](https://simplify.jobs/c/Wayfair)** | Software Engineer I – Experienced Graduates - Fall 2024 Start | Boston, MA | <a href="https://www.wayfair.com/careers/jobs/7626279002?gh_jid=7626279002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ba404dfa-b4af-43bc-9ee8-616886163bf3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 03 |
 | **Quora** | Data Scientist – New Grad - Monetization - Remote | Remote in USA | 🔒 | Oct 03 |
 | **Affirm** | Software Engineer I - Data Platform | Remote in USA | 🔒 | Oct 03 |
 | **PolyAI** | Software Engineer – Graduate / Junior - Project - Must be in Toronto | Toronto, ON, Canada | 🔒 | Oct 03 |
@@ -298,9 +299,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Cockroach Labs** | Software Engineer – New Grad - Backend - Migrations - Toronto | Toronto, ON, Canada | 🔒 | Aug 07 |
 | **RVO Health** | 2025 Early Career Program: Software Engineering | Charlotte, NC | 🔒 | Aug 07 |
 | **Sentry** | Software Engineer (New Grad)	 | San Francisco and Toronto and Vienna | 🔒 | Aug 06 |
-| **[Databricks](https://simplify.jobs/c/Databricks)** | Software Engineer – New Grad - Distributed Data Systems - 2025 Start | Bellevue, WA | <a href="https://boards.greenhouse.io/embed/job_app?token=6866556002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e3d21593-1e8b-450d-b6d6-003cb9b886d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 05 |
-| **[Databricks](https://simplify.jobs/c/Databricks)** | Software Engineer – New Grad - 2025 Start | Mountain View, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=6865698002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6229e804-43a5-47a4-882c-c7bf3dc4968f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 05 |
-| **[Databricks](https://simplify.jobs/c/Databricks)** | Software Engineer – New Grad - Distributed Data Systems - 2025 Start | Remote in USA | <a href="https://boards.greenhouse.io/embed/job_app?token=6865704002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/992ceb83-2b59-4901-b82d-8ca2b8edc498?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 05 |
+| **Databricks** | Software Engineer – New Grad - Distributed Data Systems - 2025 Start | Bellevue, WA | 🔒 | Aug 05 |
+| **Databricks** | Software Engineer – New Grad - 2025 Start | Mountain View, CA | 🔒 | Aug 05 |
+| **Databricks** | Software Engineer – New Grad - Distributed Data Systems - 2025 Start | Remote in USA | 🔒 | Aug 05 |
 | **Databricks** | Software Engineer – New Grad - 2025 Start | Bellevue, WA | 🔒 | Aug 05 |
 | **Confluent** | Software Engineer | Austin, TX</br>Remote | <a href="https://careers.confluent.io/jobs/14738286-2025-software-engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Marshall Wace** | Software Engineer – New Grad | London</br>NYC</br>Singapore | <a href="https://www.mwam.com/technology-graduate-scheme/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
