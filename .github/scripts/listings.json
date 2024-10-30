@@ -21049,5 +21049,53 @@
         "company_url": "https://simplify.jobs/c/Wayfair",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "98c27da6-b246-4b2e-a5d9-af60de9b7723",
+        "title": "Software Engineer - Frontend - Early in Career - Vancouver - Bc - Jan 2025 or sooner start date",
+        "active": true,
+        "date_updated": 1730330326,
+        "date_posted": 1730330326,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oXmLufwi?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "0cbafbb6-2529-4080-8b8a-79b6ce3dcead",
+        "title": "Software Engineer - Backend/Fullstack - Early in Career - Vancouver - Bc - Jan 2025 or sooner start date",
+        "active": true,
+        "date_updated": 1730330325,
+        "date_posted": 1730330325,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oxpLufwV?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MSD",
+        "id": "b52aea29-c9a8-4a3a-920f-378643b72df5",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1730330238,
+        "date_posted": 1730330238,
+        "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Junior-Data-Engineer_R317497",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
