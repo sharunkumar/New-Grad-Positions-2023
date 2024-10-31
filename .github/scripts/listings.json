@@ -16843,7 +16843,7 @@
         "company_name": "Databricks",
         "id": "e3d21593-1e8b-450d-b6d6-003cb9b886d3",
         "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2025 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1725047862,
         "date_posted": 1722901621,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6866556002",
@@ -17185,7 +17185,7 @@
         "company_name": "Databricks",
         "id": "6229e804-43a5-47a4-882c-c7bf3dc4968f",
         "title": "Software Engineer \u2013 New Grad - 2025 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1725047860,
         "date_posted": 1722901621,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
@@ -17698,7 +17698,7 @@
         "company_name": "Databricks",
         "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
         "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2025 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1725047862,
         "date_posted": 1722901620,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
@@ -17842,7 +17842,7 @@
         "company_name": "Databricks",
         "id": "0c371caf-e8f4-4052-bb57-cf6f1dc9555f",
         "title": "Software Engineer \u2013 New Grad - 2025 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1725047861,
         "date_posted": 1722901619,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6866542002",
@@ -20582,7 +20582,7 @@
         "company_name": "Signify Health",
         "id": "3af3c77c-4b58-45b6-be27-a4e679ce9243",
         "title": "Data Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1729206854,
         "date_posted": 1729206854,
         "url": "https://job-boards.greenhouse.io/signifyhealth/jobs/6243091003",
@@ -20861,7 +20861,7 @@
         "company_name": "MSD",
         "id": "3f2b57ac-0b18-4387-8aca-b63864616837",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1729899534,
         "date_posted": 1729899534,
         "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Junior-Data-Engineer_R310324",
@@ -21007,7 +21007,7 @@
         "company_name": "Cambridge Mobile Telematics",
         "id": "49e870f6-eabc-4125-988c-da15e32fa82f",
         "title": "Software Engineer I - Android SDK",
-        "active": true,
+        "active": false,
         "date_updated": 1730258401,
         "date_posted": 1730258401,
         "url": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=5845723",
@@ -21031,6 +21031,70 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/4019ae9c-3cfa-47fe-83fd-758f3b050277",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "ba404dfa-b4af-43bc-9ee8-616886163bf3",
+        "title": "Software Engineer I \u2013 Experienced Graduates - Fall 2024 Start",
+        "active": true,
+        "date_updated": 1730316554,
+        "date_posted": 1727996760,
+        "url": "https://www.wayfair.com/careers/jobs/7626279002?gh_jid=7626279002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "98c27da6-b246-4b2e-a5d9-af60de9b7723",
+        "title": "Software Engineer - Frontend - Early in Career - Vancouver - Bc - Jan 2025 or sooner start date",
+        "active": true,
+        "date_updated": 1730330326,
+        "date_posted": 1730330326,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oXmLufwi?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "0cbafbb6-2529-4080-8b8a-79b6ce3dcead",
+        "title": "Software Engineer - Backend/Fullstack - Early in Career - Vancouver - Bc - Jan 2025 or sooner start date",
+        "active": true,
+        "date_updated": 1730330325,
+        "date_posted": 1730330325,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oxpLufwV?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MSD",
+        "id": "b52aea29-c9a8-4a3a-920f-378643b72df5",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1730330238,
+        "date_posted": 1730330238,
+        "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Junior-Data-Engineer_R317497",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183",
         "is_visible": true,
         "sponsorship": "Other"
     }
