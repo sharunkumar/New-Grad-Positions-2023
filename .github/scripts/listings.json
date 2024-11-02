@@ -18389,7 +18389,7 @@
         "company_name": "Salesforce",
         "id": "47e3621f-6df0-4275-9601-99435d3759f6",
         "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1725581502,
         "date_posted": 1725581502,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--New-Grad-_JR264567-1",
@@ -21175,6 +21175,38 @@
             "Vienna, VA"
         ],
         "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "c87d02df-9c8e-448d-b8d4-bcfac97717f9",
+        "title": "Software Engineer \u2013 New College Grad - 2025",
+        "active": true,
+        "date_updated": 1730491256,
+        "date_posted": 1730491256,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000024173085",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "9e3e6efa-c703-4d8c-b7da-068260ef87b6",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730502821,
+        "date_posted": 1730502821,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Software-Engineer-I_10104819",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other"
     }
