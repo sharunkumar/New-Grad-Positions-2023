@@ -21241,5 +21241,21 @@
         "company_url": "https://simplify.jobs/c/Wayfair",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "d5379622-ee88-46e8-9c40-9d517f70b176",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1730753829,
+        "date_posted": 1730330064,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5367134004",
+        "locations": [
+            "Cherry Hills Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
