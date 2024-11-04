@@ -21225,5 +21225,21 @@
         "company_url": "https://simplify.jobs/c/5fdb14b0-be2f-4141-8255-f61325f9e0c2",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "6547c6e7-ce1d-4ee3-847f-79ff8f2a6363",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1730751440,
+        "date_posted": 1730751440,
+        "url": "https://www.wayfair.com/careers/jobs/7714495002?gh_jid=7714495002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
