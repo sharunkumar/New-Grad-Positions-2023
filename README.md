@@ -62,7 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **[Spotify](https://simplify.jobs/c/Spotify)** | Backend Engineer I - Podcast |  | <a href="https://jobs.lever.co/spotify/1aac51b4-8ea2-4abf-b7b4-2bcbd6869dde/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/097b2c10-c12b-46b7-9ea6-f77a045570fd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 05 |
+| **Spotify** | Backend Engineer I - Podcast |  | 🔒 | Nov 05 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Frontend - Early in Career - Jan 2025 or sooner start date | California | <a href="https://jobs.jobvite.com/splunk-careers/job/omQMufwc?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bdef1732-267d-4afa-89c4-f2fdaf05f324?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 05 |
 | **[Genmo](https://simplify.jobs/c/Genmo)** | Software Engineer – New Grad | SF | <a href="https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2785d820-e76e-4f39-a52a-94f4a7932f95?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 04 |
 | **Wayfair** | Data Engineer I | Boston, MA | 🔒 | Nov 04 |
