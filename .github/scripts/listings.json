@@ -21273,5 +21273,21 @@
         "company_url": "https://simplify.jobs/c/Genmo",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "bdef1732-267d-4afa-89c4-f2fdaf05f324",
+        "title": "Software Engineer - Frontend - Early in Career - Jan 2025 or sooner start date",
+        "active": true,
+        "date_updated": 1730765974,
+        "date_posted": 1730765974,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/omQMufwc?nl=1&nl=1&fr=false",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
