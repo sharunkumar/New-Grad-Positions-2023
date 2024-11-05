@@ -199,7 +199,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Pinterest** | University Grad Software Engineer - USA | Remote in USA | 🔒 | Sep 17 |
 | **[Genesis Therapeutics](https://simplify.jobs/c/Genesis-Thera)** | Software Engineer – New Grad | Burlingame, CA | <a href="https://jobs.lever.co/genesistherapeutics/528d24ad-745a-4eed-a883-c0fbba5aa624/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/decb3730-fd92-400a-a430-d51f92632fcf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 17 |
 | **GitHub** | Software Engineer I - Copilot | Remote in USA | 🔒 | Sep 17 |
-| **[Applied Intuition](https://simplify.jobs/c/Applied-Intuition)** | Embedded Software Engineer – New Grad | Mountain View, CA | <a href="https://boards.greenhouse.io/appliedintuition/jobs/4319633005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/feae57c5-bd69-4c29-aa99-8299b7f8854e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 16 |
+| **Applied Intuition** | Embedded Software Engineer – New Grad | Mountain View, CA | 🔒 | Sep 16 |
 | **Visa** | Software Engineer – New College Grad - 2025 🛂 | San Mateo, CA | 🔒 | Sep 16 |
 | **Visa** | Software Engineer – New College Grad - 2025 | Austin, TX | 🔒 | Sep 16 |
 | **WeRide** | New Grads 2025 - General Software Engineer | San Jose, CA | 🔒 | Sep 16 |
