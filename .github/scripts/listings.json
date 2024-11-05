@@ -16907,7 +16907,7 @@
         "company_name": "Genius Sports",
         "id": "778a9fe1-ae0c-496e-a706-d6424534dbd4",
         "title": "Junior Software Engineer - C#/.Net",
-        "active": false,
+        "active": true,
         "date_updated": 1714748956,
         "date_posted": 1714748956,
         "url": "https://boards.greenhouse.io/geniussports/jobs/5693417003",
@@ -16939,7 +16939,7 @@
         "company_name": "Pollen Mobile",
         "id": "79a02e5b-32a5-41d7-91e5-e6b098706fe4",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1720486190,
         "date_posted": 1717764512,
         "url": "https://jobs.lever.co/pronto-ai/575d882e-624c-4259-9114-260fe7aa860c/apply",
@@ -18357,7 +18357,7 @@
         "company_name": "Trustpilot",
         "id": "785f3420-6c01-4b61-b724-5401a97f0fab",
         "title": "Fullstack Software Engineer I - Tnt",
-        "active": false,
+        "active": true,
         "date_updated": 1725556195,
         "date_posted": 1725556195,
         "url": "https://business.trustpilot.com/jobs/6192971?gh_jid=6192971",
@@ -21371,6 +21371,40 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Hallow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strive Health",
+        "id": "6e675a50-038c-4aa9-a5ef-fb1a5e1ee804",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1730258306,
+        "date_posted": 1730258306,
+        "url": "https://boards.greenhouse.io/strivehealth/jobs/4406927006",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/fb4bdaa0-c951-4127-9241-493a8a986078",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zappos",
+        "id": "995cd3fd-0f16-46e2-ab64-6b5350ecd73f",
+        "title": "Software Development Engineer I - Discovery",
+        "active": true,
+        "date_updated": 1729897616,
+        "date_posted": 1729897616,
+        "url": "https://zappos.wd1.myworkdayjobs.com/en-US/Zappos/job/Las-Vegas-Office/Software-Development-Engineer-II--Discovery_JR596",
+        "locations": [
+            "Las Vegas, NV",
+            "Seattle, WA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/a6570f4d-f873-454f-be46-9267de8d387b",
         "is_visible": true,
         "sponsorship": "Other"
     }
