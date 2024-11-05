@@ -21469,5 +21469,21 @@
         "company_url": "https://simplify.jobs/c/Spotify",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parafin",
+        "id": "973ae845-99f0-44b9-9f37-746f6410ee65",
+        "title": "Software Engineer \u2013 New Grad - Backend",
+        "active": true,
+        "date_updated": 1730841447,
+        "date_posted": 1730841447,
+        "url": "https://jobs.ashbyhq.com/parafin/a927f400-58be-416f-88c7-180c8e16a43e/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parafin",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
