@@ -309,7 +309,7 @@
         "company_name": "Konrad Group",
         "id": "fa797771-52ff-4d34-b455-4ea452679bdb",
         "title": "Mobile Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1717716152,
         "date_posted": 1717716152,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6015617003",
@@ -16907,7 +16907,7 @@
         "company_name": "Genius Sports",
         "id": "778a9fe1-ae0c-496e-a706-d6424534dbd4",
         "title": "Junior Software Engineer - C#/.Net",
-        "active": false,
+        "active": true,
         "date_updated": 1714748956,
         "date_posted": 1714748956,
         "url": "https://boards.greenhouse.io/geniussports/jobs/5693417003",
@@ -16939,7 +16939,7 @@
         "company_name": "Pollen Mobile",
         "id": "79a02e5b-32a5-41d7-91e5-e6b098706fe4",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1720486190,
         "date_posted": 1717764512,
         "url": "https://jobs.lever.co/pronto-ai/575d882e-624c-4259-9114-260fe7aa860c/apply",
@@ -17281,7 +17281,7 @@
         "company_name": "Konrad Group",
         "id": "3ef0f95b-7742-4447-a3de-44b0d83373fd",
         "title": "Mobile Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1723246687,
         "date_posted": 1723246687,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6084310003",
@@ -18357,7 +18357,7 @@
         "company_name": "Trustpilot",
         "id": "785f3420-6c01-4b61-b724-5401a97f0fab",
         "title": "Fullstack Software Engineer I - Tnt",
-        "active": false,
+        "active": true,
         "date_updated": 1725556195,
         "date_posted": 1725556195,
         "url": "https://business.trustpilot.com/jobs/6192971?gh_jid=6192971",
@@ -21287,6 +21287,172 @@
             "California"
         ],
         "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of America",
+        "id": "62d95169-fbb0-4a28-8459-a6e335d2570c",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730503341,
+        "date_posted": 1730503341,
+        "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Software-Engineer-I_24043442",
+        "locations": [
+            "Charlotte, NC",
+            "NYC",
+            "Addison, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of America",
+        "id": "5c12797e-5cd9-439e-b366-4f0931dfad1a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730503340,
+        "date_posted": 1730503340,
+        "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Software-Engineer-I_24043444",
+        "locations": [
+            "Plano, TX",
+            "Charlotte, NC",
+            "Addison, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Grand Rounds",
+        "id": "b6a09598-febb-4d18-9df7-c89d7413e5ce",
+        "title": "Backend Engineer I - Customer Experience",
+        "active": true,
+        "date_updated": 1730230117,
+        "date_posted": 1730171638,
+        "url": "https://jobs.lever.co/includedhealth/843a62b0-af91-4dc3-8b4c-67aef79d1304/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Grand-Rounds",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Telnyx",
+        "id": "2ca6621b-eea1-4669-9c28-67609df8e832",
+        "title": "Junior Software Engineer - Python - Remote",
+        "active": true,
+        "date_updated": 1728934282,
+        "date_posted": 1728934282,
+        "url": "https://boards.greenhouse.io/telnyx54/jobs/4413191003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Telnyx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hallow",
+        "id": "4bf1f59b-a19e-4586-8296-1e8a3d578dda",
+        "title": "Junior Backend Developer",
+        "active": true,
+        "date_updated": 1729579417,
+        "date_posted": 1729579417,
+        "url": "https://jobs.lever.co/hallow/e14361be-5685-48a9-a537-b44a80f10829/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Hallow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strive Health",
+        "id": "6e675a50-038c-4aa9-a5ef-fb1a5e1ee804",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1730258306,
+        "date_posted": 1730258306,
+        "url": "https://boards.greenhouse.io/strivehealth/jobs/4406927006",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/fb4bdaa0-c951-4127-9241-493a8a986078",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zappos",
+        "id": "995cd3fd-0f16-46e2-ab64-6b5350ecd73f",
+        "title": "Software Development Engineer I - Discovery",
+        "active": true,
+        "date_updated": 1729897616,
+        "date_posted": 1729897616,
+        "url": "https://zappos.wd1.myworkdayjobs.com/en-US/Zappos/job/Las-Vegas-Office/Software-Development-Engineer-II--Discovery_JR596",
+        "locations": [
+            "Las Vegas, NV",
+            "Seattle, WA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/a6570f4d-f873-454f-be46-9267de8d387b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "892a9a36-9a3d-4625-abf8-baeb8d97d85f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730502614,
+        "date_posted": 1730502614,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/6255596003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strive Health",
+        "id": "dedb6771-2c7c-4559-9087-aa5abb29ea3f",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1730258305,
+        "date_posted": 1730258305,
+        "url": "https://boards.greenhouse.io/strivehealth/jobs/4409592006",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/fb4bdaa0-c951-4127-9241-493a8a986078",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "580a1818-6b2f-4cf5-bf55-a67a759f382d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1728515369,
+        "date_posted": 1728515369,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/6228679003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
         "is_visible": true,
         "sponsorship": "Other"
     }
