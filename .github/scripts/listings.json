@@ -21407,5 +21407,53 @@
         "company_url": "https://simplify.jobs/c/a6570f4d-f873-454f-be46-9267de8d387b",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "892a9a36-9a3d-4625-abf8-baeb8d97d85f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730502614,
+        "date_posted": 1730502614,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/6255596003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strive Health",
+        "id": "dedb6771-2c7c-4559-9087-aa5abb29ea3f",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1730258305,
+        "date_posted": 1730258305,
+        "url": "https://boards.greenhouse.io/strivehealth/jobs/4409592006",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/fb4bdaa0-c951-4127-9241-493a8a986078",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "580a1818-6b2f-4cf5-bf55-a67a759f382d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1728515369,
+        "date_posted": 1728515369,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/6228679003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
