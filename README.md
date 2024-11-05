@@ -217,8 +217,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Wiley Edge** | Junior Software Engineer - Open to relocation - Sheffield - Birmingham - Bournemouth - Newcastle & Glasgow | <details><summary>**5 locations**</summary>Christchurch, UK</br>Newcastle upon Tyne, UK</br>Birmingham, UK</br>Sheffield, UK</br>Glasgow, UK</details> | 🔒 | Sep 11 |
 | **Wiley Edge** | Mthree – Junior Software Engineer - Chester & Sheffield | Sheffield, UK</br>Liverpool, UK | 🔒 | Sep 11 |
 | **Disney Careers** | Software Engineer I | Santa Monica, CA</br>NYC | 🔒 | Sep 10 |
-| **Subsplash** | Software Development Engineer I - Front-end | Remote in USA | 🔒 | Sep 10 |
-| **Subsplash** | Software Development Engineer I - Back-end | Remote in USA | 🔒 | Sep 10 |
+| **[Subsplash](https://simplify.jobs/c/Subsplash)** | Software Development Engineer I - Front-end | Remote in USA | <a href="https://boards.greenhouse.io/subsplash/jobs/7632485002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b60c54e1-7ab9-4d7a-9148-54d754be2ff0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 10 |
+| **[Subsplash](https://simplify.jobs/c/Subsplash)** | Software Development Engineer I - Back-end | Remote in USA | <a href="https://boards.greenhouse.io/subsplash/jobs/7631988002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/60b33825-ad15-4f24-8a40-e79b7c1a40c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 10 |
 | **RELX** | Aspire Tech Graduate Program - Data Engineer I | Raleigh, NC | 🔒 | Sep 10 |
 | **Booz Allen** | Data Scientist - Junior | Arlington, VA | 🔒 | Sep 10 |
 | **Gecko Robotics** | Embedded Software Engineer – New Graduate | Pittsburgh, PA | 🔒 | Sep 10 |
@@ -245,7 +245,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Wiley Edge** | Junior Software Engineer | United States | 🔒 | Sep 06 |
 | **ThirstySprout** | Data Analyst - Junior Data Scientist | Remote in USA | 🔒 | Sep 06 |
 | **[Trustpilot](https://simplify.jobs/c/Trustpilot)** | Fullstack Software Engineer I - Tnt | London, UK | <a href="https://business.trustpilot.com/jobs/6192971?gh_jid=6192971&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/785f3420-6c01-4b61-b724-5401a97f0fab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 05 |
-| **Trustpilot** | Fullstack Software Engineer I - Tnt | Edinburgh, UK | 🔒 | Sep 05 |
+| **[Trustpilot](https://simplify.jobs/c/Trustpilot)** | Fullstack Software Engineer I - Tnt | Edinburgh, UK | <a href="https://business.trustpilot.com/jobs/6235343?gh_jid=6235343&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/54a95d95-4203-4230-b62a-2d77ff52b61c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 05 |
 | **[NewsBreak](https://simplify.jobs/c/NewsBreak)** | Software Engineer (Junior & New Grad) | Mountain View, CA | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4054592006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | **Wiley Edge** | Développeur génie logiciel / Junior Software Developer - Canada - Montreal | Montreal, QC, Canada | 🔒 | Sep 05 |
 | **Nutanix** | Early Career / Software Engineer 2 - Cdp | San Jose, CA | 🔒 | Sep 05 |
