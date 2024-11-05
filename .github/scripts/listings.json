@@ -309,7 +309,7 @@
         "company_name": "Konrad Group",
         "id": "fa797771-52ff-4d34-b455-4ea452679bdb",
         "title": "Mobile Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1717716152,
         "date_posted": 1717716152,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6015617003",
@@ -17281,7 +17281,7 @@
         "company_name": "Konrad Group",
         "id": "3ef0f95b-7742-4447-a3de-44b0d83373fd",
         "title": "Mobile Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1723246687,
         "date_posted": 1723246687,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6084310003",
@@ -21305,6 +21305,72 @@
             "Addison, TX"
         ],
         "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of America",
+        "id": "5c12797e-5cd9-439e-b366-4f0931dfad1a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730503340,
+        "date_posted": 1730503340,
+        "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Software-Engineer-I_24043444",
+        "locations": [
+            "Plano, TX",
+            "Charlotte, NC",
+            "Addison, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Grand Rounds",
+        "id": "b6a09598-febb-4d18-9df7-c89d7413e5ce",
+        "title": "Backend Engineer I - Customer Experience",
+        "active": true,
+        "date_updated": 1730230117,
+        "date_posted": 1730171638,
+        "url": "https://jobs.lever.co/includedhealth/843a62b0-af91-4dc3-8b4c-67aef79d1304/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Grand-Rounds",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Telnyx",
+        "id": "2ca6621b-eea1-4669-9c28-67609df8e832",
+        "title": "Junior Software Engineer - Python - Remote",
+        "active": true,
+        "date_updated": 1728934282,
+        "date_posted": 1728934282,
+        "url": "https://boards.greenhouse.io/telnyx54/jobs/4413191003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Telnyx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hallow",
+        "id": "4bf1f59b-a19e-4586-8296-1e8a3d578dda",
+        "title": "Junior Backend Developer",
+        "active": true,
+        "date_updated": 1729579417,
+        "date_posted": 1729579417,
+        "url": "https://jobs.lever.co/hallow/e14361be-5685-48a9-a537-b44a80f10829/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Hallow",
         "is_visible": true,
         "sponsorship": "Other"
     }
