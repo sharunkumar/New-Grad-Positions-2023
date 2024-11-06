@@ -21565,5 +21565,53 @@
         "company_url": "https://simplify.jobs/c/Mastercard",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Yonder",
+        "id": "41efac59-2032-4a60-933d-8503bf2a568a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730925247,
+        "date_posted": 1730925247,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_243040",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "ffadd693-1995-4b88-96e5-c5ef9d171ae5",
+        "title": "Software Engineer I - Surgical Robotics",
+        "active": true,
+        "date_updated": 1730925041,
+        "date_posted": 1730925041,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Software-Engineer-I---Surgical-Robotics_R12205-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "b0c981ca-eb39-44db-a229-ce9610c9d749",
+        "title": "Software Engineer I - Surgical Robotics",
+        "active": true,
+        "date_updated": 1730925035,
+        "date_posted": 1730925035,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Software-Engineer-I---Surgical-Robotics_R12206-2",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
