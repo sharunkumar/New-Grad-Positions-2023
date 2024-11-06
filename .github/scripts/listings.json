@@ -21533,5 +21533,21 @@
         "date_posted": 1730856958,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730857080,
+        "url": "https://job-boards.greenhouse.io/sproutsocialcollege/jobs/6230427",
+        "company_name": "Sprout Social",
+        "title": "Associate Data Scientist",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "JosephTJennings",
+        "id": "59081840-49f5-40ae-a0a4-96a607f89f4d",
+        "date_posted": 1730857080,
+        "company_url": "",
+        "is_visible": true
     }
 ]
