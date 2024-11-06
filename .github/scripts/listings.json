@@ -21613,5 +21613,21 @@
         "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "9674ccbc-3181-4b10-afaf-cfa9492889b2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730924905,
+        "date_posted": 1730924905,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Software-Engineer-I_10105522",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
