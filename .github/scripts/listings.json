@@ -21517,5 +21517,21 @@
         "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730856958,
+        "url": "https://job-boards.greenhouse.io/sproutsocialcollege/jobs/6169382",
+        "company_name": "Sprout Social",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "JosephTJennings",
+        "id": "534aec3f-8003-4697-9e0c-da87138eb006",
+        "date_posted": 1730856958,
+        "company_url": "",
+        "is_visible": true
     }
 ]
