@@ -21501,5 +21501,21 @@
         "company_url": "https://simplify.jobs/c/ELEVI-Associates",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ICF",
+        "id": "cfa82296-4157-47e8-87d3-9fdac8c04845",
+        "title": "Associate Software Engineer \u2013 December 2024 Grad - Remote",
+        "active": true,
+        "date_updated": 1730852531,
+        "date_posted": 1730852531,
+        "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Albany-NY/Associate-Software-Engineer_R2403756",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
