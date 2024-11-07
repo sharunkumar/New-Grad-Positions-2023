@@ -4647,7 +4647,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1720489300,
+        "date_updated": 1730944366,
         "url": "https://www.google.com/about/careers/applications/jobs/results/142022721218192070-user-experience-designer",
         "company_name": "Google",
         "title": "User Experience Designer",
@@ -4655,8 +4655,8 @@
             "Mountain View, CA",
             "San Francisco, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "seanlewertow",
         "id": "28b36095-22fd-4c60-9022-e08b74fa67b2",
         "date_posted": 1720489300,
