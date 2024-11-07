@@ -21661,5 +21661,21 @@
         "company_url": "https://simplify.jobs/c/Applied-Materials",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zynga",
+        "id": "3b759ce6-c59a-40a8-9fb6-c3e684ea41a5",
+        "title": "Software Engineer 1 - Full Stack - Game of Thrones: Legends",
+        "active": true,
+        "date_updated": 1730967635,
+        "date_posted": 1730967635,
+        "url": "https://job-boards.greenhouse.io/zynga/jobs/5369833004",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Zynga",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
