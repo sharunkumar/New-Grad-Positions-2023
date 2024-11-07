@@ -17249,7 +17249,7 @@
         "company_name": "Belvedere Trading",
         "id": "0c126d54-19b1-45cf-8655-3cc3bbfecde9",
         "title": "Quantitative Trader \u2013 Entry Level 2025",
-        "active": true,
+        "active": false,
         "date_updated": 1723598087,
         "date_posted": 1723246982,
         "url": "https://jobs.lever.co/belvederetrading/69de6697-e9d4-426e-ae22-bad4c6e04cf8/apply",
@@ -19919,7 +19919,7 @@
         "company_name": "Grand Rounds",
         "id": "aca438a8-e473-4ff0-82c1-cc31c65f85e6",
         "title": "Full Stack Software Engineer \u2013 New College Grad - Treat Team",
-        "active": false,
+        "active": true,
         "date_updated": 1727897355,
         "date_posted": 1727897355,
         "url": "https://jobs.lever.co/includedhealth/84ee4d3b-ee3e-461f-ad77-db0d82ee65f6/apply",
@@ -20290,7 +20290,7 @@
         "company_name": "AQR Capital Management",
         "id": "fadb6bc7-4525-468a-8ab9-57c9ef9edda6",
         "title": "Junior Software Engineer-Quantitative Research",
-        "active": true,
+        "active": false,
         "date_updated": 1727723719,
         "date_posted": 1727723719,
         "url": "https://careers.aqr.com/jobs?gh_jid=6283929&gh_jid=6283929",
@@ -21119,7 +21119,7 @@
         "company_name": "Medtronic",
         "id": "eeb66242-ec28-4025-8300-a45df10aa927",
         "title": "Software Engineer I - Surgical Robotics",
-        "active": true,
+        "active": false,
         "date_updated": 1730417659,
         "date_posted": 1730417659,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Software-Engineer-I---Surgical-Robotics_R12242-2",
@@ -21199,7 +21199,7 @@
         "company_name": "The Walt Disney Company",
         "id": "9e3e6efa-c703-4d8c-b7da-068260ef87b6",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1730502821,
         "date_posted": 1730502821,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Software-Engineer-I_10104819",
@@ -21507,7 +21507,7 @@
         "company_name": "ICF",
         "id": "cfa82296-4157-47e8-87d3-9fdac8c04845",
         "title": "Associate Software Engineer \u2013 December 2024 Grad - Remote",
-        "active": true,
+        "active": false,
         "date_updated": 1730852531,
         "date_posted": 1730852531,
         "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Albany-NY/Associate-Software-Engineer_R2403756",
@@ -21563,6 +21563,86 @@
             "O'Fallon, MO"
         ],
         "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Yonder",
+        "id": "41efac59-2032-4a60-933d-8503bf2a568a",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1730925247,
+        "date_posted": 1730925247,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_243040",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "ffadd693-1995-4b88-96e5-c5ef9d171ae5",
+        "title": "Software Engineer I - Surgical Robotics",
+        "active": false,
+        "date_updated": 1730925041,
+        "date_posted": 1730925041,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Software-Engineer-I---Surgical-Robotics_R12205-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "b0c981ca-eb39-44db-a229-ce9610c9d749",
+        "title": "Software Engineer I - Surgical Robotics",
+        "active": true,
+        "date_updated": 1730925035,
+        "date_posted": 1730925035,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Software-Engineer-I---Surgical-Robotics_R12206-2",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "9674ccbc-3181-4b10-afaf-cfa9492889b2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1730924905,
+        "date_posted": 1730924905,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Software-Engineer-I_10105522",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Relay",
+        "id": "2e348cd7-db2e-456b-8095-c1d9c14f1d5b",
+        "title": "Junior Software Developer in Test",
+        "active": true,
+        "date_updated": 1730938436,
+        "date_posted": 1730938436,
+        "url": "https://www.globalrelay.com/careers/jobs/?gh_jid=5372217004",
+        "locations": [
+            "Kelowna, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Relay",
         "is_visible": true,
         "sponsorship": "Other"
     }
