@@ -21677,5 +21677,21 @@
         "company_url": "https://simplify.jobs/c/Zynga",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cambridge Mobile Telematics",
+        "id": "44359840-3e79-496b-a3b6-b3b8a55e778a",
+        "title": "Software Engineer I - Cloud",
+        "active": true,
+        "date_updated": 1730996349,
+        "date_posted": 1730996349,
+        "url": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=6381682",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/4deb12d2-2054-45da-b1c8-a49bc3f15c6a",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
