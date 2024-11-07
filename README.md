@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Zynga](https://simplify.jobs/c/Zynga)** | Software Engineer 1 - Full Stack - Game of Thrones: Legends | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/zynga/jobs/5369833004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3b759ce6-c59a-40a8-9fb6-c3e684ea41a5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 07 |
 | **[Global Relay](https://simplify.jobs/c/Global-Relay)** | Junior Software Developer in Test | Kelowna, BC, Canada | <a href="https://www.globalrelay.com/careers/jobs/?gh_jid=5372217004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2e348cd7-db2e-456b-8095-c1d9c14f1d5b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 07 |
 | **Blue Yonder** | Software Engineer I | Dallas, TX | 🔒 | Nov 06 |
 | **Medtronic** | Software Engineer I - Surgical Robotics | Boston, MA | 🔒 | Nov 06 |
