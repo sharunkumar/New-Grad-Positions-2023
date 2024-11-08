@@ -20452,7 +20452,7 @@
         "company_name": "Amazon",
         "id": "f84a3029-c308-453f-894b-161ea8dc5105",
         "title": "Software Dev Engineer I - Redshift",
-        "active": true,
+        "active": false,
         "date_updated": 1728934645,
         "date_posted": 1728934645,
         "url": "https://amazon.jobs/en/jobs/2649147/software-dev-engineer-i-redshift",
@@ -21723,6 +21723,22 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "033d109b-6d23-4b1b-b7e2-ab264ceb3987",
+        "title": "Software Engineer - Early in Career - Backend/Fullstack - January 2025 or sooner start date",
+        "active": true,
+        "date_updated": 1731098341,
+        "date_posted": 1731098341,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oyKOufwk?nl=1&nl=1&fr=false",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
     }
