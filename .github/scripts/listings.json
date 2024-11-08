@@ -17071,7 +17071,7 @@
         "company_name": "Palantir",
         "id": "4cbc04d5-d651-438a-81ec-b82f768a6602",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1722526601,
         "date_posted": 1722526601,
         "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply",
@@ -19919,7 +19919,7 @@
         "company_name": "Grand Rounds",
         "id": "aca438a8-e473-4ff0-82c1-cc31c65f85e6",
         "title": "Full Stack Software Engineer \u2013 New College Grad - Treat Team",
-        "active": true,
+        "active": false,
         "date_updated": 1727897355,
         "date_posted": 1727897355,
         "url": "https://jobs.lever.co/includedhealth/84ee4d3b-ee3e-461f-ad77-db0d82ee65f6/apply",
@@ -21707,6 +21707,22 @@
             "California"
         ],
         "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "314b4828-7fcc-4d27-ad09-f16ce3d8496a",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1731097291,
+        "date_posted": 1731097291,
+        "url": "https://jobs.lever.co/wyetechllc/ef3503d5-0f95-4cf9-9f2f-b82792fc507f/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other"
     }
