@@ -21741,5 +21741,38 @@
         "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Twilio",
+        "id": "ff54225e-995d-45e3-b851-7542227e7bec",
+        "title": "Software Engineer \u2013 New Graduate - Email Platform",
+        "active": true,
+        "date_updated": 1731111773,
+        "date_posted": 1731111773,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/6379315",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Twilio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "c6b8fba3-9e9a-4e25-9155-3cc60cd9a4d0",
+        "title": "AI Software Engineer \u2013 New College Grad 2024 - Copilots",
+        "active": true,
+        "date_updated": 1731111564,
+        "date_posted": 1731111564,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-WA-Seattle/AI-Software-Engineer--Copilots---New-College-Grad-2024_JR1990357-1",
+        "locations": [
+            "Seattle, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
