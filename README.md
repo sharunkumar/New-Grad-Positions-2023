@@ -110,7 +110,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Grand Rounds](https://simplify.jobs/c/Grand-Rounds)** | Backend Engineer I - Customer Experience | Remote in USA | <a href="https://jobs.lever.co/includedhealth/843a62b0-af91-4dc3-8b4c-67aef79d1304/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b6a09598-febb-4d18-9df7-c89d7413e5ce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 29 |
 | **Mastercard** | Software Engineer I | O'Fallon, MO</br>Remote in USA | 🔒 | Oct 28 |
 | **MSD** | Junior Data Engineer | San Jose, CA | 🔒 | Oct 25 |
-| **LexisNexis Risk Solutions** | Tech Accelerate Graduate Program-Software Engineer I | Georgia</br>Alpharetta, GA | 🔒 | Oct 25 |
+| **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76)** | Tech Accelerate Graduate Program-Software Engineer I | Georgia</br>Alpharetta, GA | <a href="https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Accelerate-Tech-Graduate-Program--Software-Engineer-I_R83206?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/80a6773d-3e13-41f3-bbe6-0c433b2c2175?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 25 |
 | **Expedia Group** | Software Development Engineer I - Workday | Seattle, WA | 🔒 | Oct 25 |
 | **Nextdoor** | Software Engineer – New Grad 2025 | SF | 🔒 | Oct 25 |
 | **Remitly** | Software Development Engineer 1 - New Initiatives Team | Seattle, WA | 🔒 | Oct 25 |
