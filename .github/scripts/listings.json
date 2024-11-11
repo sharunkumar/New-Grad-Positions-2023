@@ -21774,5 +21774,38 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dick's Sporting Goods",
+        "id": "985ee4bb-74e2-43fb-a430-1cb00bfc1088",
+        "title": "Software Engineer I - Athlete Care Technology - Remote",
+        "active": true,
+        "date_updated": 1731341951,
+        "date_posted": 1731341951,
+        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Remote---US/Software-Engineer-I---Athlete-Care-Technology--REMOTE-_202418070",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/1f496c9a-0179-4206-9dc5-571200cf653e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "5301c6c9-7403-47f5-b3ee-0e1410fd0a1c",
+        "title": "Software Engineer - Early Careers",
+        "active": true,
+        "date_updated": 1731341908,
+        "date_posted": 1731341908,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Early-Careers_R0105106",
+        "locations": [
+            "Plano, TX",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
