@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[ICF](https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529)** | Junior Full Stack Developer | Remote in USA | <a href="https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Junior-Full-Stack-Developer_R2404393?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3e989f85-b639-46a1-a06f-5f9a1c07cbdb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 12 |
 | **Eventbrite** | Software Engineer I | Remote in USA | 🔒 | Nov 12 |
 | **Zynga** | Software Engineer 1 - Full Stack | Remote in USA | 🔒 | Nov 12 |
 | **Dick's Sporting Goods** | Software Engineer I - Athlete Care Technology - Remote | Remote in USA | 🔒 | Nov 11 |
@@ -72,7 +73,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | Nov 08 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | C++ Software Engineer – Early Career - January 2025 or sooner start date | California | <a href="https://jobs.jobvite.com/splunk-careers/job/oajOufwv?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/168029f3-ff01-4bfd-9494-8fa4a691cc87?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 07 |
 | **Cambridge Mobile Telematics** | Software Engineer I - Cloud | Cambridge, MA | 🔒 | Nov 07 |
-| **[Zynga](https://simplify.jobs/c/Zynga)** | Software Engineer 1 - Full Stack - Game of Thrones: Legends | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/zynga/jobs/5369833004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3b759ce6-c59a-40a8-9fb6-c3e684ea41a5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 07 |
+| **Zynga** | Software Engineer 1 - Full Stack - Game of Thrones: Legends | Toronto, ON, Canada | 🔒 | Nov 07 |
 | **[Global Relay](https://simplify.jobs/c/Global-Relay)** | Junior Software Developer in Test | Kelowna, BC, Canada | <a href="https://www.globalrelay.com/careers/jobs/?gh_jid=5372217004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2e348cd7-db2e-456b-8095-c1d9c14f1d5b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 07 |
 | **Blue Yonder** | Software Engineer I | Dallas, TX | 🔒 | Nov 06 |
 | **Medtronic** | Software Engineer I - Surgical Robotics | Boston, MA | 🔒 | Nov 06 |
