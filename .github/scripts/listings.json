@@ -17746,7 +17746,7 @@
         "company_name": "Palantir",
         "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1724456004,
         "date_posted": 1724456004,
         "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply",
@@ -20338,7 +20338,7 @@
         "company_name": "DV Trading",
         "id": "9f73ebc2-717c-47ee-a630-ed3ff5aade38",
         "title": "Junior Quantitative Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1726801881,
         "date_posted": 1726801881,
         "url": "https://boards.greenhouse.io/dvtrading/jobs/4475499005",
@@ -21247,7 +21247,7 @@
         "company_name": "Two Six Technologies",
         "id": "d5379622-ee88-46e8-9c40-9d517f70b176",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1730753829,
         "date_posted": 1730330064,
         "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5367134004",
@@ -21363,7 +21363,7 @@
         "company_name": "Hallow",
         "id": "4bf1f59b-a19e-4586-8296-1e8a3d578dda",
         "title": "Junior Backend Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1729579417,
         "date_posted": 1729579417,
         "url": "https://jobs.lever.co/hallow/e14361be-5685-48a9-a537-b44a80f10829/apply",
@@ -21805,6 +21805,38 @@
             "San Antonio, TX"
         ],
         "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zynga",
+        "id": "fdab032f-c6ad-4288-8843-cdc0da017241",
+        "title": "Software Engineer 1 - Full Stack",
+        "active": true,
+        "date_updated": 1731386489,
+        "date_posted": 1731386489,
+        "url": "https://job-boards.greenhouse.io/zynga/jobs/5369842004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zynga",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dev Technology Group",
+        "id": "3049464d-b65b-427f-88d8-a7cf13f406ad",
+        "title": "Junior Full Stack React/Node.js Developer",
+        "active": true,
+        "date_updated": 1728415743,
+        "date_posted": 1728415743,
+        "url": "https://job-boards.greenhouse.io/devtechnology/jobs/7615403002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DevTechGrp",
         "is_visible": true,
         "sponsorship": "Other"
     }
