@@ -21807,5 +21807,37 @@
         "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zynga",
+        "id": "fdab032f-c6ad-4288-8843-cdc0da017241",
+        "title": "Software Engineer 1 - Full Stack",
+        "active": true,
+        "date_updated": 1731386489,
+        "date_posted": 1731386489,
+        "url": "https://job-boards.greenhouse.io/zynga/jobs/5369842004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zynga",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dev Technology Group",
+        "id": "3049464d-b65b-427f-88d8-a7cf13f406ad",
+        "title": "Junior Full Stack React/Node.js Developer",
+        "active": true,
+        "date_updated": 1728415743,
+        "date_posted": 1728415743,
+        "url": "https://job-boards.greenhouse.io/devtechnology/jobs/7615403002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DevTechGrp",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
