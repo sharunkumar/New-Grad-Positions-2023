@@ -21855,5 +21855,21 @@
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Eventbrite",
+        "id": "171e3014-8976-43c3-b72a-d818194f595d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1731416574,
+        "date_posted": 1731416574,
+        "url": "https://job-boards.greenhouse.io/eventbriteinc/jobs/4559246007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eventbrite",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
