@@ -21861,7 +21861,7 @@
         "company_name": "Eventbrite",
         "id": "171e3014-8976-43c3-b72a-d818194f595d",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1731416574,
         "date_posted": 1731416574,
         "url": "https://job-boards.greenhouse.io/eventbriteinc/jobs/4559246007",
@@ -21947,6 +21947,38 @@
         "url": "https://aurora.tech/jobs/7718367002?gh_jid=7718367002",
         "locations": [],
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coalition",
+        "id": "d612de15-3f08-4a18-a775-6ed244c4e51d",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1731435157,
+        "date_posted": 1731435157,
+        "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4494330005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coalition",
+        "id": "7e6d0171-0c5f-4c6e-90a1-51a6a22f2477",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1731435155,
+        "date_posted": 1731435155,
+        "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4494718005",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
         "is_visible": true,
         "sponsorship": "Other"
     }
