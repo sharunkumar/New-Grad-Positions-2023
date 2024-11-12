@@ -21247,7 +21247,7 @@
         "company_name": "Two Six Technologies",
         "id": "d5379622-ee88-46e8-9c40-9d517f70b176",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1730753829,
         "date_posted": 1730330064,
         "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5367134004",
@@ -22043,6 +22043,23 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/02aeb92e-5fbf-4181-a45d-054399d1b7dc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "03faab2d-8a13-4d41-a3b3-b450d496dabb",
+        "title": "Software Engineer - Early Careers",
+        "active": true,
+        "date_updated": 1731450669,
+        "date_posted": 1731450669,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Early-Careers_R0105166",
+        "locations": [
+            "Plano, TX",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
         "is_visible": true,
         "sponsorship": "Other"
     }
