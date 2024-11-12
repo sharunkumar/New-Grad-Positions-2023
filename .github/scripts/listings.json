@@ -21247,7 +21247,7 @@
         "company_name": "Two Six Technologies",
         "id": "d5379622-ee88-46e8-9c40-9d517f70b176",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1730753829,
         "date_posted": 1730330064,
         "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5367134004",
@@ -22027,6 +22027,22 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fieldwire",
+        "id": "db42b550-e426-4eea-a7f3-e292a7e8673a",
+        "title": "Junior Android Engineer",
+        "active": true,
+        "date_updated": 1730257563,
+        "date_posted": 1730257563,
+        "url": "https://www.fieldwire.com/job/7680254002?gh_jid=7680254002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/02aeb92e-5fbf-4181-a45d-054399d1b7dc",
         "is_visible": true,
         "sponsorship": "Other"
     }
