@@ -16651,7 +16651,7 @@
         "company_name": "Valkyrie Trading",
         "id": "70e4d8e9-e161-4ec1-b005-7d639916db29",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1724888352,
         "date_posted": 1724888352,
         "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply",
@@ -21995,6 +21995,22 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/4c26f17d-45a1-476f-8df4-5d08cd6e3e33",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Electric Mind",
+        "id": "77cc1fe0-d2b4-4e0b-b646-51ef60dff6b7",
+        "title": "Junior Software Developer - Full Stack",
+        "active": true,
+        "date_updated": 1730258398,
+        "date_posted": 1730258398,
+        "url": "https://jobs.lever.co/intelliware/759b57c3-a5c3-4698-af78-66b3591bb936/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/51123b55-9be2-4c4f-a980-2c22c96aa4bf",
         "is_visible": true,
         "sponsorship": "Other"
     }
