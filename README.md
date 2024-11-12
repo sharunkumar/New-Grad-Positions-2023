@@ -63,7 +63,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Eventbrite** | Software Engineer I | Remote in USA | 🔒 | Nov 12 |
-| **[Zynga](https://simplify.jobs/c/Zynga)** | Software Engineer 1 - Full Stack | Remote in USA | <a href="https://job-boards.greenhouse.io/zynga/jobs/5369842004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fdab032f-c6ad-4288-8843-cdc0da017241?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 12 |
+| **Zynga** | Software Engineer 1 - Full Stack | Remote in USA | 🔒 | Nov 12 |
 | **Dick's Sporting Goods** | Software Engineer I - Athlete Care Technology - Remote | Remote in USA | 🔒 | Nov 11 |
 | **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63)** | Software Engineer - Early Careers | Plano, TX</br>San Antonio, TX | <a href="https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Early-Careers_R0105106?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5301c6c9-7403-47f5-b3ee-0e1410fd0a1c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 11 |
 | **Twilio** | Software Engineer – New Graduate - Email Platform | Remote in USA | 🔒 | Nov 09 |
@@ -302,7 +302,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Scale AI](https://simplify.jobs/c/Scale-AI)** | Software Engineer – New Grad | SF | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4463083005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/dd45647d-ea56-420f-8e20-72c1cf00d29c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 29 |
 | **[Accenture Federal Services](https://simplify.jobs/c/AccentureFederalServices)** | Software Engineer 0 | Annapolis Junction, MD | <a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4398316006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/97765bb2-ef29-41a0-b992-dc8cc6d12998?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 29 |
 | **esri** | Python Devops Engineer I - Arcgis Enterprise | West Redlands, Redlands, CA | 🔒 | Aug 29 |
-| **[Valkyrie Trading](https://simplify.jobs/c/Valkyrie-Trading)** | Junior Software Engineer | Chicago, IL | <a href="https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/70e4d8e9-e161-4ec1-b005-7d639916db29?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 28 |
+| **Valkyrie Trading** | Junior Software Engineer | Chicago, IL | 🔒 | Aug 28 |
 | **Capital One** | Associate – New Grad - Software Engineer - OR049152 | Toronto, ON, Canada | 🔒 | Aug 28 |
 | **Vultr** | Junior Software Engineer - PHP - Cloud Native | Remote in USA | 🔒 | Aug 28 |
 | **esri** | C++ Software Development Engineer I | West Redlands, Redlands, CA | 🔒 | Aug 27 |
