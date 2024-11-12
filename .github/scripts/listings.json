@@ -21935,5 +21935,19 @@
         "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora Innovation",
+        "id": "5467f1e7-b4bd-4ee5-accc-6e63ec1d38cb",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1731434271,
+        "date_posted": 1731434271,
+        "url": "https://aurora.tech/jobs/7718367002?gh_jid=7718367002",
+        "locations": [],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
