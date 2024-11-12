@@ -22019,7 +22019,7 @@
         "company_name": "Wyetech",
         "id": "c8fbc7fc-6896-4d04-a934-108f3822fbe2",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1731445250,
         "date_posted": 1731445250,
         "url": "https://jobs.lever.co/wyetechllc/abedcbd8-2d7d-46a2-9d31-fdb4f14ba954/apply",
@@ -22060,6 +22060,22 @@
             "San Antonio, TX"
         ],
         "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Harmonia",
+        "id": "246a20f9-02fe-4af7-bc79-587d5fd22ade",
+        "title": "Junior Full Stack Developer",
+        "active": true,
+        "date_updated": 1731435036,
+        "date_posted": 1731435036,
+        "url": "https://www.harmonia.com/job-application/?gh_jid=6260710003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ba0c3269-d801-4a03-822e-801359d1ec6b",
         "is_visible": true,
         "sponsorship": "Other"
     }
