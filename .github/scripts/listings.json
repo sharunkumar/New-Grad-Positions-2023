@@ -21667,7 +21667,7 @@
         "company_name": "Zynga",
         "id": "3b759ce6-c59a-40a8-9fb6-c3e684ea41a5",
         "title": "Software Engineer 1 - Full Stack - Game of Thrones: Legends",
-        "active": true,
+        "active": false,
         "date_updated": 1730967635,
         "date_posted": 1730967635,
         "url": "https://job-boards.greenhouse.io/zynga/jobs/5369833004",
@@ -21917,6 +21917,22 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ICF",
+        "id": "3e989f85-b639-46a1-a06f-5f9a1c07cbdb",
+        "title": "Junior Full Stack Developer",
+        "active": true,
+        "date_updated": 1731432961,
+        "date_posted": 1731432961,
+        "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Junior-Full-Stack-Developer_R2404393",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
         "is_visible": true,
         "sponsorship": "Other"
     }
