@@ -22256,5 +22256,21 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trellix",
+        "id": "4fd6ef78-8e42-4860-9ae3-a7850263eede",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1729898628,
+        "date_posted": 1729898628,
+        "url": "https://trellix.wd1.myworkdayjobs.com/en-US/EnterpriseCareers/job/England-Aylesbury/Junior-Software-Engineer_JR0034636",
+        "locations": [
+            "Aylesbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/31a20e45-1f09-426e-86f5-5a28acb6e5a4",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
