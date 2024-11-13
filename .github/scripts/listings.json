@@ -22110,5 +22110,21 @@
         "company_url": "https://simplify.jobs/c/Here-io",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Recast",
+        "id": "9d74bd99-0dbc-4e8d-837d-c2dbea571bec",
+        "title": "Junior Customer Data Scientist",
+        "active": true,
+        "date_updated": 1729552478,
+        "date_posted": 1729552478,
+        "url": "https://job-boards.greenhouse.io/recast/jobs/4138252008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/f6324a00-68f0-4680-892d-aa486d4c60f5",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
