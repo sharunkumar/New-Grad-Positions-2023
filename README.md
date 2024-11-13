@@ -206,7 +206,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Codazen** | Full-Stack Engineer Summer 2025 New Grad | Salt Lake City, UT | 🔒 | Oct 01 |
 | **Accenture Federal Services** | Junior Software Developer | Huntsville, AL | 🔒 | Oct 01 |
 | **Booz Allen** | Software Developer - Junior | McLean, VA | 🔒 | Sep 30 |
-| **[AQR Capital Management](https://simplify.jobs/c/AQR-Capital-Management)** | Junior Software Engineer-Quantitative Research | Greenwich, CT | <a href="https://careers.aqr.com/jobs?gh_jid=6283929&gh_jid=6283929&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fadb6bc7-4525-468a-8ab9-57c9ef9edda6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 30 |
+| **AQR Capital Management** | Junior Software Engineer-Quantitative Research | Greenwich, CT | 🔒 | Sep 30 |
 | **Snap Inc.** | Software Engineer – New Grad Engineer - Full Stack | Seattle, WA | 🔒 | Sep 26 |
 | **Chime** | Software Engineer – New Grad - Pay Anyone | SF | 🔒 | Sep 26 |
 | **Sumo Logic** | Software Engineer I - Mle | Remote in USA | 🔒 | Sep 26 |
