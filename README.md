@@ -187,7 +187,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Uber** | Graduate 2024 Machine Learning Engineer I - San Francisco | SF</br>Sunnyvale, CA | 🔒 | Oct 04 |
 | **Uber** | Graduate 2024 Machine Learning Engineer I - San Francisco | SF | 🔒 | Oct 04 |
 | **Uber** | Graduate 2024 Software Engineer I - Tor | Toronto, ON, Canada | 🔒 | Oct 04 |
-| **[Citylitics](https://simplify.jobs/c/Citylitics)** | Junior Data Engineer | Toronto, ON, Canada | <a href="https://apply.workable.com/citylitics/j/EF1E9FD739/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fa5a36a9-0fbc-45bf-beac-f34757f70c86?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 04 |
+| **Citylitics** | Junior Data Engineer | Toronto, ON, Canada | 🔒 | Oct 04 |
 | **NVIDIA** | Software Engineer for Cloud Platforms – New College Graduate 2024 - Deep Learning Applications | Remote in USA</br>Santa Clara, CA | 🔒 | Oct 03 |
 | **Capital One** | Associate – New Grad - Software Engineer - OR049161 | Toronto, ON, Canada | 🔒 | Oct 03 |
 | **Wayfair** | Software Engineer I – Experienced Graduates - Fall 2024 Start | Boston, MA | 🔒 | Oct 03 |
