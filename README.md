@@ -406,7 +406,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **minware** | Junior Front End Engineer | Remote in USA | 🔒 | Jul 13 |
 | **minware** | Junior Front End Engineer | Remote in USA | 🔒 | Jul 13 |
 | **OpenGov** | Software Engineer I - Rev | Atlanta, GA | 🔒 | Jul 12 |
-| **[Seneca Nation Group](https://simplify.jobs/c/Seneca-Nation-Group)** | Junior Data Scientist | Washington, DC | <a href="https://senecaholdings.com/jobs/?gh_jid=4443216005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2b6c2f0d-ade1-4005-b0ff-ab42375998ee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 12 |
+| **Seneca Nation Group** | Junior Data Scientist | Washington, DC | 🔒 | Jul 12 |
 | **ElectronX** | New Grad: Software Engineer | New York, NY</br>Chicago, IL | 🔒 | Jul 10 |
 | **Square** | Junior Software Engineer - Android - Mobile Developer Experience | SF</br>Remote in USA | 🔒 | Jul 09 |
 | **[Nium](https://simplify.jobs/c/Nium)** | Backend Engineer - Sde I | San Francisco, CA | <a href="https://simplify.jobs/p/ba2a7f99-4dc4-487e-8c4f-8f6a9b61fce7/Backend-Engineer-Sde-I?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
