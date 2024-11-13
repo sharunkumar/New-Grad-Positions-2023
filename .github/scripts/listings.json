@@ -20290,7 +20290,7 @@
         "company_name": "AQR Capital Management",
         "id": "fadb6bc7-4525-468a-8ab9-57c9ef9edda6",
         "title": "Junior Software Engineer-Quantitative Research",
-        "active": true,
+        "active": false,
         "date_updated": 1727723719,
         "date_posted": 1727723719,
         "url": "https://careers.aqr.com/jobs?gh_jid=6283929&gh_jid=6283929",
@@ -20322,7 +20322,7 @@
         "company_name": "Redhorse",
         "id": "9dfcf51a-363b-4539-a6a2-8742858bf03f",
         "title": "Junior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1728156652,
         "date_posted": 1728156652,
         "url": "https://jobs.lever.co/redhorsecorp/c5dcf08a-943b-432f-8dfe-4d441710b077/apply",
@@ -21215,7 +21215,7 @@
         "company_name": "Citigroup",
         "id": "4a10ca85-9d42-4b9b-995a-5338c9ae5cee",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1730738665,
         "date_posted": 1730738665,
         "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Junior-Software-Engineer_24799343",
@@ -21893,7 +21893,7 @@
         "company_name": "PolicyMe",
         "id": "29d1d8ee-e768-45eb-8b1b-43b596a83d46",
         "title": "Junior Software Engineer - Remote",
-        "active": true,
+        "active": false,
         "date_updated": 1730842319,
         "date_posted": 1730842319,
         "url": "https://jobs.lever.co/policyme/cae34edc-78d9-40ae-ad43-b07c87dcc6cb/apply",
@@ -22035,7 +22035,7 @@
         "company_name": "Fieldwire",
         "id": "db42b550-e426-4eea-a7f3-e292a7e8673a",
         "title": "Junior Android Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1730257563,
         "date_posted": 1730257563,
         "url": "https://www.fieldwire.com/job/7680254002?gh_jid=7680254002",
@@ -22068,7 +22068,7 @@
         "company_name": "Harmonia",
         "id": "246a20f9-02fe-4af7-bc79-587d5fd22ade",
         "title": "Junior Full Stack Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1731435036,
         "date_posted": 1731435036,
         "url": "https://www.harmonia.com/job-application/?gh_jid=6260710003",
@@ -22108,6 +22108,38 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Here-io",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Recast",
+        "id": "9d74bd99-0dbc-4e8d-837d-c2dbea571bec",
+        "title": "Junior Customer Data Scientist",
+        "active": false,
+        "date_updated": 1729552478,
+        "date_posted": 1729552478,
+        "url": "https://job-boards.greenhouse.io/recast/jobs/4138252008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/f6324a00-68f0-4680-892d-aa486d4c60f5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "esri",
+        "id": "25c8d8c5-e64d-4417-964e-ca47952c726e",
+        "title": "Software Engineer I - Generative AI & Assistants",
+        "active": true,
+        "date_updated": 1731473141,
+        "date_posted": 1731473141,
+        "url": "https://www.esri.com/careers/4557494007?gh_jid=4557494007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
         "is_visible": true,
         "sponsorship": "Other"
     }
