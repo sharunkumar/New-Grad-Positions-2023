@@ -173,7 +173,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Universal Music Group** | Junior Software Developer | NYC | 🔒 | Oct 09 |
 | **[Codazen](https://simplify.jobs/c/Codazen)** | Full-Stack Engineer Summer 2025 New Grad | Irvine, CA | <a href="https://boards.greenhouse.io/codazen/jobs/5338060004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0866b4e3-6588-48bf-827f-7badd404a86d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 08 |
 | **Spotify** | Junior Backend Engineer - Content Catalog | London, UK | 🔒 | Oct 08 |
-| **[Dev Technology Group](https://simplify.jobs/c/DevTechGrp)** | Junior Full Stack React/Node.js Developer | Remote in USA | <a href="https://job-boards.greenhouse.io/devtechnology/jobs/7615403002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3049464d-b65b-427f-88d8-a7cf13f406ad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 08 |
+| **Dev Technology Group** | Junior Full Stack React/Node.js Developer | Remote in USA | 🔒 | Oct 08 |
 | **Flexport** | Software Engineer I - Forwarding Applications | Bellevue, WA | 🔒 | Oct 07 |
 | **Geico** | Engineer I - Software Engineer | Bethesda, MD | 🔒 | Oct 07 |
 | **NVIDIA** | Software Engineer – New College Grad 2025 - Big Data | Santa Clara, CA | 🔒 | Oct 07 |
@@ -202,7 +202,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Codazen** | Full-Stack Engineer Summer 2025 New Grad | Salt Lake City, UT | 🔒 | Oct 01 |
 | **Accenture Federal Services** | Junior Software Developer | Huntsville, AL | 🔒 | Oct 01 |
 | **Booz Allen** | Software Developer - Junior | McLean, VA | 🔒 | Sep 30 |
-| **AQR Capital Management** | Junior Software Engineer-Quantitative Research | Greenwich, CT | 🔒 | Sep 30 |
+| **[AQR Capital Management](https://simplify.jobs/c/AQR-Capital-Management)** | Junior Software Engineer-Quantitative Research | Greenwich, CT | <a href="https://careers.aqr.com/jobs?gh_jid=6283929&gh_jid=6283929&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fadb6bc7-4525-468a-8ab9-57c9ef9edda6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 30 |
 | **Snap Inc.** | Software Engineer – New Grad Engineer - Full Stack | Seattle, WA | 🔒 | Sep 26 |
 | **Chime** | Software Engineer – New Grad - Pay Anyone | SF | 🔒 | Sep 26 |
 | **Sumo Logic** | Software Engineer I - Mle | Remote in USA | 🔒 | Sep 26 |
@@ -231,7 +231,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **NVIDIA** | Optical Mixed Signal Design Software Engineer – New College Grad 2024 | Santa Clara, CA | 🔒 | Sep 20 |
 | **Splunk** | Software Engineer – Early Career - Boulder - CO or Raleigh - NC - Jan 2025 or sooner start date ONLY | Raleigh, NC</br>Boulder, CO | 🔒 | Sep 20 |
 | **ELEVI Associates** | Entry Level Software Engineer | Annapolis Junction, MD | 🔒 | Sep 20 |
-| **[DV Trading](https://simplify.jobs/c/DV-Trading)** | Junior Quantitative Developer | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/dvtrading/jobs/4475499005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9f73ebc2-717c-47ee-a630-ed3ff5aade38?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 20 |
+| **DV Trading** | Junior Quantitative Developer | Toronto, ON, Canada | 🔒 | Sep 20 |
 | **Nutanix** | Early Career / Software Engineer 2 - Cdp | San Jose, CA | 🔒 | Sep 18 |
 | **Duolingo** | Data Scientist I – New Graduate | Pittsburgh, PA | 🔒 | Sep 18 |
 | **Duolingo** | Data Scientist I – New Graduate | NYC | 🔒 | Sep 18 |
