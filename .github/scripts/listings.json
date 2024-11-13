@@ -22094,5 +22094,21 @@
         "company_url": "https://simplify.jobs/c/Conde-Nast",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Here",
+        "id": "10449f01-18db-4de8-b8a4-83b50c012562",
+        "title": "Junior Full Stack Engineer",
+        "active": true,
+        "date_updated": 1731460568,
+        "date_posted": 1731460568,
+        "url": "https://boards.greenhouse.io/hereio/jobs/6392785",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Here-io",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
