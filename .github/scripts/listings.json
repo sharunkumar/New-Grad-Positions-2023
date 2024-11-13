@@ -16651,7 +16651,7 @@
         "company_name": "Valkyrie Trading",
         "id": "70e4d8e9-e161-4ec1-b005-7d639916db29",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1724888352,
         "date_posted": 1724888352,
         "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply",
@@ -19401,7 +19401,7 @@
         "company_name": "SingleStore",
         "id": "573cd0e4-9d92-4879-badd-b57ad4e7796b",
         "title": "Software Engineer \u2013 University Graduate - Database Engine",
-        "active": true,
+        "active": false,
         "date_updated": 1726873933,
         "date_posted": 1726873933,
         "url": "https://boards.greenhouse.io/singlestore/jobs/6237482",
@@ -20322,7 +20322,7 @@
         "company_name": "Redhorse",
         "id": "9dfcf51a-363b-4539-a6a2-8742858bf03f",
         "title": "Junior Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1728156652,
         "date_posted": 1728156652,
         "url": "https://jobs.lever.co/redhorsecorp/c5dcf08a-943b-432f-8dfe-4d441710b077/apply",
@@ -21699,7 +21699,7 @@
         "company_name": "Splunk",
         "id": "168029f3-ff01-4bfd-9494-8fa4a691cc87",
         "title": "C++ Software Engineer \u2013 Early Career - January 2025 or sooner start date",
-        "active": true,
+        "active": false,
         "date_updated": 1731011650,
         "date_posted": 1731011650,
         "url": "https://jobs.jobvite.com/splunk-careers/job/oajOufwv?nl=1&nl=1&fr=false",
@@ -21796,7 +21796,7 @@
         "company_name": "USAA",
         "id": "5301c6c9-7403-47f5-b3ee-0e1410fd0a1c",
         "title": "Software Engineer - Early Careers",
-        "active": true,
+        "active": false,
         "date_updated": 1731341908,
         "date_posted": 1731341908,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Early-Careers_R0105106",
@@ -21845,7 +21845,7 @@
         "company_name": "Two Six Technologies",
         "id": "149fc16c-5727-488d-947e-dbb7a85279ce",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1730330064,
         "date_posted": 1730330064,
         "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5345676004",
@@ -21861,7 +21861,7 @@
         "company_name": "Eventbrite",
         "id": "171e3014-8976-43c3-b72a-d818194f595d",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1731416574,
         "date_posted": 1731416574,
         "url": "https://job-boards.greenhouse.io/eventbriteinc/jobs/4559246007",
@@ -21877,7 +21877,7 @@
         "company_name": "Old Mission",
         "id": "0ab7d034-8dac-4a92-9068-dcee20feda06",
         "title": "Junior Quantitative Trader - Asian Market Hours",
-        "active": true,
+        "active": false,
         "date_updated": 1719517351,
         "date_posted": 1719517351,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=4454224003",
@@ -21909,7 +21909,7 @@
         "company_name": "Northrop Grumman",
         "id": "5393350d-4646-4e9f-9bf8-8918fedfa7a1",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1729899984,
         "date_posted": 1729899984,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Junior-Software-Engineer_R10168660",
@@ -21925,7 +21925,7 @@
         "company_name": "ICF",
         "id": "3e989f85-b639-46a1-a06f-5f9a1c07cbdb",
         "title": "Junior Full Stack Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1731432961,
         "date_posted": 1731432961,
         "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Junior-Full-Stack-Developer_R2404393",
@@ -21979,6 +21979,135 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wave Mobile",
+        "id": "74bf82da-a6e5-4de5-b67e-28546949a217",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1731435363,
+        "date_posted": 1731435363,
+        "url": "https://www.wave.com/en/careers/job/5372350004?gh_jid=5372350004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/4c26f17d-45a1-476f-8df4-5d08cd6e3e33",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Electric Mind",
+        "id": "77cc1fe0-d2b4-4e0b-b646-51ef60dff6b7",
+        "title": "Junior Software Developer - Full Stack",
+        "active": true,
+        "date_updated": 1730258398,
+        "date_posted": 1730258398,
+        "url": "https://jobs.lever.co/intelliware/759b57c3-a5c3-4698-af78-66b3591bb936/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/51123b55-9be2-4c4f-a980-2c22c96aa4bf",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "c8fbc7fc-6896-4d04-a934-108f3822fbe2",
+        "title": "Software Engineer 1",
+        "active": false,
+        "date_updated": 1731445250,
+        "date_posted": 1731445250,
+        "url": "https://jobs.lever.co/wyetechllc/abedcbd8-2d7d-46a2-9d31-fdb4f14ba954/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fieldwire",
+        "id": "db42b550-e426-4eea-a7f3-e292a7e8673a",
+        "title": "Junior Android Engineer",
+        "active": true,
+        "date_updated": 1730257563,
+        "date_posted": 1730257563,
+        "url": "https://www.fieldwire.com/job/7680254002?gh_jid=7680254002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/02aeb92e-5fbf-4181-a45d-054399d1b7dc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "03faab2d-8a13-4d41-a3b3-b450d496dabb",
+        "title": "Software Engineer - Early Careers",
+        "active": true,
+        "date_updated": 1731450669,
+        "date_posted": 1731450669,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Early-Careers_R0105166",
+        "locations": [
+            "Plano, TX",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Harmonia",
+        "id": "246a20f9-02fe-4af7-bc79-587d5fd22ade",
+        "title": "Junior Full Stack Developer",
+        "active": true,
+        "date_updated": 1731435036,
+        "date_posted": 1731435036,
+        "url": "https://www.harmonia.com/job-application/?gh_jid=6260710003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ba0c3269-d801-4a03-822e-801359d1ec6b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Conde Nast",
+        "id": "65734fda-2139-4fc5-87dd-36e4a592dc9b",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1731456791,
+        "date_posted": 1731456791,
+        "url": "https://condenast.wd5.myworkdayjobs.com/en-US/CondeCareers/job/1-World-Trade-Center-New-York-NY/Data-Engineer-I_R-17924-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Conde-Nast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Here",
+        "id": "10449f01-18db-4de8-b8a4-83b50c012562",
+        "title": "Junior Full Stack Engineer",
+        "active": true,
+        "date_updated": 1731460568,
+        "date_posted": 1731460568,
+        "url": "https://boards.greenhouse.io/hereio/jobs/6392785",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Here-io",
         "is_visible": true,
         "sponsorship": "Other"
     }
