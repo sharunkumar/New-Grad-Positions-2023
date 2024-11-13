@@ -21987,7 +21987,7 @@
         "company_name": "Wave Mobile",
         "id": "74bf82da-a6e5-4de5-b67e-28546949a217",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1731435363,
         "date_posted": 1731435363,
         "url": "https://www.wave.com/en/careers/job/5372350004?gh_jid=5372350004",
@@ -22188,6 +22188,22 @@
             "Broomfield, CO"
         ],
         "company_url": "https://simplify.jobs/c/7c59eec1-bec1-4ecd-a87c-11886be75a7a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medline",
+        "id": "dd80e13c-355d-4ee0-b19d-4071294ad264",
+        "title": "Junior Full Stack Developer",
+        "active": true,
+        "date_updated": 1731522958,
+        "date_posted": 1731522958,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Junior-Full-Stack-Developer_R2408408",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
         "is_visible": true,
         "sponsorship": "Other"
     }
