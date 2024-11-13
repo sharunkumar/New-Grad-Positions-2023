@@ -186,7 +186,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Geico** | Engineer I - Software Engineer | Bethesda, MD | 🔒 | Oct 07 |
 | **NVIDIA** | Software Engineer – New College Grad 2025 - Big Data | Santa Clara, CA | 🔒 | Oct 07 |
 | **Qualtrics** | Software Engineer I - Statwing Products | Seattle, WA | 🔒 | Oct 07 |
-| **Redhorse** | Junior Data Scientist | Arlington, VA | 🔒 | Oct 05 |
+| **[Redhorse](https://simplify.jobs/c/Redhorse)** | Junior Data Scientist | Arlington, VA | <a href="https://jobs.lever.co/redhorsecorp/c5dcf08a-943b-432f-8dfe-4d441710b077/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9dfcf51a-363b-4539-a6a2-8742858bf03f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 05 |
 | **Anduril** | Software Engineer – New Grad - Platform | Boston, MA</br>Seattle, WA | 🔒 | Oct 04 |
 | **Anduril** | Software Engineer – New Grad - Platform | Seattle, WA | 🔒 | Oct 04 |
 | **[Cerebras](https://simplify.jobs/c/Cerebras-Systems)** | Distributed Software Engineer – New Grad | Sunnyvale, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=6233230003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9c842cd2-23b7-49c6-a623-59a7e308948f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 04 |
