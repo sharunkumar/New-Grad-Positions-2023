@@ -21555,7 +21555,7 @@
         "company_name": "Mastercard",
         "id": "43d1dcd8-9ece-42b1-86d9-c21ebedbdf68",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1730909760,
         "date_posted": 1730909760,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-229672",
@@ -22140,6 +22140,22 @@
             "West Redlands, Redlands, CA"
         ],
         "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spotify",
+        "id": "ee0d6acc-f28a-46e6-9ab6-38599a621881",
+        "title": "Backend Engineer I - Markets & Subscriptions",
+        "active": true,
+        "date_updated": 1731520456,
+        "date_posted": 1731520456,
+        "url": "https://jobs.lever.co/spotify/0bd547ed-2e4f-48fd-b16e-b2c8b7b0f897/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
         "is_visible": true,
         "sponsorship": "Other"
     }
