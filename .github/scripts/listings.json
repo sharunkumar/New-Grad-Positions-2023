@@ -16619,7 +16619,7 @@
         "company_name": "Accenture Federal Services",
         "id": "97765bb2-ef29-41a0-b992-dc8cc6d12998",
         "title": "Software Engineer 0",
-        "active": false,
+        "active": true,
         "date_updated": 1724951224,
         "date_posted": 1724951224,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4398316006",
@@ -21829,7 +21829,7 @@
         "company_name": "Dev Technology Group",
         "id": "3049464d-b65b-427f-88d8-a7cf13f406ad",
         "title": "Junior Full Stack React/Node.js Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1728415743,
         "date_posted": 1728415743,
         "url": "https://job-boards.greenhouse.io/devtechnology/jobs/7615403002",
@@ -22156,6 +22156,22 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "ff684b7b-1952-45be-993e-ceb28532e082",
+        "title": "Data Scientist - Junior",
+        "active": true,
+        "date_updated": 1731521522,
+        "date_posted": 1731521522,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist--Junior_R0209718",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
         "is_visible": true,
         "sponsorship": "Other"
     }
