@@ -22078,5 +22078,21 @@
         "company_url": "https://simplify.jobs/c/ba0c3269-d801-4a03-822e-801359d1ec6b",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Conde Nast",
+        "id": "65734fda-2139-4fc5-87dd-36e4a592dc9b",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1731456791,
+        "date_posted": 1731456791,
+        "url": "https://condenast.wd5.myworkdayjobs.com/en-US/CondeCareers/job/1-World-Trade-Center-New-York-NY/Data-Engineer-I_R-17924-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Conde-Nast",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
