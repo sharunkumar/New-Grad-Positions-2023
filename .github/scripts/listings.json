@@ -22206,5 +22206,55 @@
         "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Icon",
+        "id": "c4aec780-61d3-46a3-a8db-211c9eced1f4",
+        "title": "Founding Engineer - Product",
+        "active": true,
+        "date_updated": 1731528115,
+        "date_posted": 1731497178,
+        "url": "https://jobs.ashbyhq.com/icon/8de569c7-814f-4ffe-9c21-a92d7b806be2/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Icon-Me",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Icon",
+        "id": "5733231a-1b18-400e-bcb8-12726e7daeeb",
+        "title": "Founding Research Engineer - Generative video/audio models",
+        "active": true,
+        "date_updated": 1731528224,
+        "date_posted": 1731497178,
+        "url": "https://jobs.ashbyhq.com/icon/8b5647c5-cd74-49d0-9198-731704d96e3f/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Icon-Me",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "460b47ac-8f79-464f-8315-5253343de304",
+        "title": "Research Engineer \u2013 New College Grad 2025 - Architecture",
+        "active": true,
+        "date_updated": 1730319258,
+        "date_posted": 1730319258,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-MA-Westford/Research-Engineer--Architecture---New-College-Grad-2025_JR1989127",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Westford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
