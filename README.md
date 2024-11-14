@@ -324,7 +324,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Qualtrics** | Software Development Engineer I - Internal Development Team | Provo, UT | 🔒 | Aug 30 |
 | **Wyetech LLC** | Software Engineer 1/Jr. Java Developer | Odenton, MD | 🔒 | Aug 30 |
 | **[Scale AI](https://simplify.jobs/c/Scale-AI)** | Software Engineer – New Grad | SF | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4463083005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/dd45647d-ea56-420f-8e20-72c1cf00d29c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 29 |
-| **Accenture Federal Services** | Software Engineer 0 | Annapolis Junction, MD | 🔒 | Aug 29 |
+| **[Accenture Federal Services](https://simplify.jobs/c/AccentureFederalServices)** | Software Engineer 0 | Annapolis Junction, MD | <a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4398316006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/97765bb2-ef29-41a0-b992-dc8cc6d12998?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 29 |
 | **esri** | Python Devops Engineer I - Arcgis Enterprise | West Redlands, Redlands, CA | 🔒 | Aug 29 |
 | **Valkyrie Trading** | Junior Software Engineer | Chicago, IL | 🔒 | Aug 28 |
 | **Capital One** | Associate – New Grad - Software Engineer - OR049152 | Toronto, ON, Canada | 🔒 | Aug 28 |
