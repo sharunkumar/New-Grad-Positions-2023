@@ -77,7 +77,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Coalition](https://simplify.jobs/c/Coalition)** | Data Engineer I | Remote in USA | <a href="https://careers.coalitioninc.com/job-posting/?gh_jid=4494330005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d612de15-3f08-4a18-a775-6ed244c4e51d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 12 |
 | **[Coalition](https://simplify.jobs/c/Coalition)** | Data Engineer I | Remote in Canada | <a href="https://careers.coalitioninc.com/job-posting/?gh_jid=4494718005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7e6d0171-0c5f-4c6e-90a1-51a6a22f2477?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 12 |
 | **Harmonia** | Junior Full Stack Developer | Remote in USA | 🔒 | Nov 12 |
-| **[Aurora Innovation](https://simplify.jobs/c/Aurora-Innovation)** | Software Engineer I |  | <a href="https://aurora.tech/jobs/7718367002?gh_jid=7718367002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5467f1e7-b4bd-4ee5-accc-6e63ec1d38cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 12 |
+| **Aurora Innovation** | Software Engineer I |  | 🔒 | Nov 12 |
 | **ICF** | Junior Full Stack Developer | Remote in USA | 🔒 | Nov 12 |
 | **Eventbrite** | Software Engineer I | Remote in USA | 🔒 | Nov 12 |
 | **Zynga** | Software Engineer 1 - Full Stack | Remote in USA | 🔒 | Nov 12 |
@@ -233,13 +233,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Bloomberg** | Software Engineer (New Grad) | New York, NY | <a href="https://bloomberg.avature.net/careers/JobDetail/2025-Software-Engineer-New-York/6961?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **Rocket Software** | Software Engineer I | Remote in UK | 🔒 | Sep 23 |
 | **Duolingo** | Software Engineer – New Graduate | Pittsburgh, PA | 🔒 | Sep 23 |
-| **[SingleStore](https://simplify.jobs/c/SingleStore)** | Software Engineer – University Graduate - Managed Service | Seattle, WA</br>SF</br>Raleigh, NC | <a href="https://boards.greenhouse.io/singlestore/jobs/6237446?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fa2a973c-8235-41f5-a834-149693170158?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 20 |
+| **SingleStore** | Software Engineer – University Graduate - Managed Service | Seattle, WA</br>SF</br>Raleigh, NC | 🔒 | Sep 20 |
 | **SingleStore** | Software Engineer – University Graduate - Database Engine | Seattle, WA</br>SF</br>Raleigh, NC | 🔒 | Sep 20 |
 | **Magical** | New Grad Front End/Fullstack Engineer - Remote - North America | United States | 🔒 | Sep 20 |
 | **NVIDIA** | Optical Mixed Signal Design Software Engineer – New College Grad 2024 | Santa Clara, CA | 🔒 | Sep 20 |
 | **Splunk** | Software Engineer – Early Career - Boulder - CO or Raleigh - NC - Jan 2025 or sooner start date ONLY | Raleigh, NC</br>Boulder, CO | 🔒 | Sep 20 |
 | **ELEVI Associates** | Entry Level Software Engineer | Annapolis Junction, MD | 🔒 | Sep 20 |
-| **DV Trading** | Junior Quantitative Developer | Toronto, ON, Canada | 🔒 | Sep 20 |
+| **[DV Trading](https://simplify.jobs/c/DV-Trading)** | Junior Quantitative Developer | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/dvtrading/jobs/4475499005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9f73ebc2-717c-47ee-a630-ed3ff5aade38?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 20 |
 | **Nutanix** | Early Career / Software Engineer 2 - Cdp | San Jose, CA | 🔒 | Sep 18 |
 | **Duolingo** | Data Scientist I – New Graduate | Pittsburgh, PA | 🔒 | Sep 18 |
 | **Duolingo** | Data Scientist I – New Graduate | NYC | 🔒 | Sep 18 |
