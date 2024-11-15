@@ -22272,5 +22272,21 @@
         "company_url": "https://simplify.jobs/c/31a20e45-1f09-426e-86f5-5a28acb6e5a4",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jamf",
+        "id": "5a90ef3f-bc6d-4cd1-bb7f-c99fa4a0506a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1731698895,
+        "date_posted": 1731698895,
+        "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5379030004&gh_jid=5379030004",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Jamf",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
