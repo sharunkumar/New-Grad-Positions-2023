@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Jamf](https://simplify.jobs/c/Jamf)** | Software Engineer I | United States | <a href="https://www.jamf.com/about/careers/jobs/?gh_jid=5379030004&gh_jid=5379030004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5a90ef3f-bc6d-4cd1-bb7f-c99fa4a0506a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 15 |
 | **Medline** | Junior Full Stack Developer | Northbrook, IL | 🔒 | Nov 13 |
 | **Sierra Space** | Software Engineer I | Broomfield, CO | 🔒 | Nov 13 |
 | **[Booz Allen](https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079)** | Data Scientist - Junior | San Diego, CA | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist--Junior_R0209718?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ff684b7b-1952-45be-993e-ceb28532e082?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 13 |
