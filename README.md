@@ -166,7 +166,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Splunk** | Fedramp Software Engineer – Early Career - Boulder - CO - Jan 2025 Start - US Citizens ONLY | Boulder, CO | 🔒 | Oct 17 |
 | **Adobe** | 2025 University Graduate - Software Engineer | San Jose, CA | 🔒 | Oct 17 |
 | **Signify Health** | Data Software Engineer I | Remote in USA | 🔒 | Oct 17 |
-| **[Applied Materials](https://simplify.jobs/c/Applied-Materials)** | 2025 University Graduate - Software Engineer - Bachelor's Degree | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer---Bachelor-s-Degree_R2418574?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fd136ac0-9fbf-4e3b-ba65-203141cc270b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 17 |
+| **Applied Materials** | 2025 University Graduate - Software Engineer - Bachelor's Degree | Santa Clara, CA | 🔒 | Oct 17 |
 | **ManTech** | Junior Software Engineer | Chantilly, VA | 🔒 | Oct 16 |
 | **[WeRide](https://simplify.jobs/c/WeRide)** | New Grads 2025 - Software Engineer - Computer Vision/Deep Learning | San Jose, CA | <a href="https://jobs.lever.co/weride/871b07f9-b4e4-4a4e-a5ec-d6adf794fc5a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/89936ca8-3004-4613-9cbc-677a399096c9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 16 |
 | **Adobe** | 2025 University Graduate - Software Development Engineer | Seattle, WA</br>San Jose, CA | 🔒 | Oct 16 |
