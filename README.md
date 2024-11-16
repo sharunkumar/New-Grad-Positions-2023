@@ -399,7 +399,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Navan** | University Graduate - Software Engineer - Back-End | Palo Alto, CA | 🔒 | Jul 26 |
 | **Jerry** | New Graduate Software Engineer - Palo Alto | Palo Alto, CA | 🔒 | Jul 26 |
 | **Jerry** | Software Engineer I - Toronto | Toronto, ON, Canada | 🔒 | Jul 26 |
-| **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad | Denver, CO | <a href="https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7e134007-3fa8-4732-84ca-e7119c8f4116?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 25 |
+| **Palantir** | Software Engineer – New Grad | Denver, CO | 🔒 | Jul 25 |
 | **Modular** | Junior AI Graph Compiler Engineer | Remote in USA</br>Mountain View, CA</br>Remote in Canada | 🔒 | Jul 24 |
 | **Axle Health** | Software Engineer (New Grad) | Los Angeles, CA | <a href="https://www.ycombinator.com/companies/axle-health/jobs/ommmQqU-software-engineer-new-grad?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | **Robinhood Careers** | Software Developer | Toronto, ON, Canada | 🔒 | Jul 17 |
