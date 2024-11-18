@@ -66,7 +66,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Visa](https://simplify.jobs/c/Visa)** | Software Engineer – New College Grad - 2025 | Austin, TX | <a href="https://jobs.smartrecruiters.com/Visa/744000026540225?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fb7a31ec-93ec-4edf-8417-0d2840e94210?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 15 |
 | **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Software Developer – Entry Level | Remote in UK | <a href="https://boards.greenhouse.io/embed/job_app?token=6272341003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/521fd544-fbe1-4d80-8042-9fda065e17cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 15 |
 | **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Mobile Developer – Entry Level | Remote in UK | <a href="https://boards.greenhouse.io/embed/job_app?token=6272333003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2f3cd986-6b95-422b-84c0-0082e3a025ea?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 15 |
-| **[Kobalt Music Group](https://simplify.jobs/c/Kobalt-Music-Group)** | Junior Software Engineer | London, UK | <a href="https://job-boards.greenhouse.io/kobaltmusicgroup/jobs/6397203?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a4f9eb90-3d70-4c4e-bb35-686c53bd089f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 15 |
+| **Kobalt Music Group** | Junior Software Engineer | London, UK | 🔒 | Nov 15 |
 | **Jamf** | Software Engineer I | United States | 🔒 | Nov 15 |
 | **Medline** | Junior Full Stack Developer | Northbrook, IL | 🔒 | Nov 13 |
 | **Sierra Space** | Software Engineer I | Broomfield, CO | 🔒 | Nov 13 |
@@ -162,7 +162,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Old Mission** | College Graduates - Full-Time - Junior Full-Stack Engineer - 2025 | Chicago, IL | 🔒 | Oct 21 |
 | **Samsara** | Software Engineer – New Grad - US | Remote in USA | 🔒 | Oct 21 |
 | **Samsara** | Software Engineer – New Grad - Canada | Remote in Canada | 🔒 | Oct 21 |
-| **[Grand Rounds](https://simplify.jobs/c/Grand-Rounds)** | Android Engineer – 2024 New Grad - Treat Team | Remote in USA | <a href="https://jobs.lever.co/includedhealth/9df413a7-c8e0-4649-9c47-59d8f686f750/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8afbaf77-738c-45c4-873c-7e48ad9e104b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 18 |
+| **Grand Rounds** | Android Engineer – 2024 New Grad - Treat Team | Remote in USA | 🔒 | Oct 18 |
 | **Splunk** | Fedramp Software Engineer – Early Career - Boulder - CO - Jan 2025 Start - US Citizens ONLY | Boulder, CO | 🔒 | Oct 17 |
 | **Adobe** | 2025 University Graduate - Software Engineer | San Jose, CA | 🔒 | Oct 17 |
 | **Signify Health** | Data Software Engineer I | Remote in USA | 🔒 | Oct 17 |
