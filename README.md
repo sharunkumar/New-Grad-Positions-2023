@@ -245,7 +245,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **NVIDIA** | Optical Mixed Signal Design Software Engineer – New College Grad 2024 | Santa Clara, CA | 🔒 | Sep 20 |
 | **Splunk** | Software Engineer – Early Career - Boulder - CO or Raleigh - NC - Jan 2025 or sooner start date ONLY | Raleigh, NC</br>Boulder, CO | 🔒 | Sep 20 |
 | **ELEVI Associates** | Entry Level Software Engineer | Annapolis Junction, MD | 🔒 | Sep 20 |
-| **[DV Trading](https://simplify.jobs/c/DV-Trading)** | Junior Quantitative Developer | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/dvtrading/jobs/4475499005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9f73ebc2-717c-47ee-a630-ed3ff5aade38?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 20 |
+| **DV Trading** | Junior Quantitative Developer | Toronto, ON, Canada | 🔒 | Sep 20 |
 | **Nutanix** | Early Career / Software Engineer 2 - Cdp | San Jose, CA | 🔒 | Sep 18 |
 | **Duolingo** | Data Scientist I – New Graduate | Pittsburgh, PA | 🔒 | Sep 18 |
 | **Duolingo** | Data Scientist I – New Graduate | NYC | 🔒 | Sep 18 |
