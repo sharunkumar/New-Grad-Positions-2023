@@ -1625,7 +1625,7 @@
         "company_name": "Ramp",
         "id": "ebe01b3a-3eff-478b-baa4-8981955031a1",
         "title": "New Grad 2024: Software Engineer - Backend",
-        "active": false,
+        "active": true,
         "date_updated": 1718681598,
         "date_posted": 1712474775,
         "url": "https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb/application",
@@ -21475,7 +21475,7 @@
         "company_name": "Parafin",
         "id": "973ae845-99f0-44b9-9f37-746f6410ee65",
         "title": "Software Engineer \u2013 New Grad - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1730841447,
         "date_posted": 1730841447,
         "url": "https://jobs.ashbyhq.com/parafin/a927f400-58be-416f-88c7-180c8e16a43e/application",
@@ -22366,6 +22366,38 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "2f9e0193-edca-470e-9ffd-604d0c4caf6b",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1731962281,
+        "date_posted": 1731962281,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-I_R0105337",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Geico",
+        "id": "ddd87b18-6643-4c33-b4f8-3a433cf59d41",
+        "title": "Software Engineer I - Remote}",
+        "active": true,
+        "date_updated": 1731962213,
+        "date_posted": 1731962213,
+        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Software-Engineer-I--REMOTE-_R0054749-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/b434eb6a-7cce-433f-b2a0-7accd4280dce",
         "is_visible": true,
         "sponsorship": "Other"
     }
