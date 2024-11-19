@@ -22466,5 +22466,21 @@
         "company_url": "https://simplify.jobs/c/Nike",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1732050750,
+        "url": "https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50",
+        "company_name": "Kikoff",
+        "title": "Software Engineer - Recent College Graduate",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ttonyxx",
+        "id": "bd8290d1-6563-4ba4-b80c-6c94a0e8455e",
+        "date_posted": 1732050750,
+        "company_url": "",
+        "is_visible": true
     }
 ]
