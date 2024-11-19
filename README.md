@@ -94,7 +94,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **USAA** | Software Engineer - Early Careers | Plano, TX</br>San Antonio, TX | 🔒 | Nov 11 |
 | **Twilio** | Software Engineer – New Graduate - Email Platform | Remote in USA | 🔒 | Nov 09 |
 | **NVIDIA** | AI Software Engineer – New College Grad 2024 - Copilots | Seattle, WA</br>Santa Clara, CA | 🔒 | Nov 09 |
-| **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Early in Career - Backend/Fullstack - January 2025 or sooner start date | California | <a href="https://jobs.jobvite.com/splunk-careers/job/oyKOufwk?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/033d109b-6d23-4b1b-b7e2-ab264ceb3987?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 08 |
+| **Splunk** | Software Engineer - Early in Career - Backend/Fullstack - January 2025 or sooner start date | California | 🔒 | Nov 08 |
 | **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | Nov 08 |
 | **Splunk** | C++ Software Engineer – Early Career - January 2025 or sooner start date | California | 🔒 | Nov 07 |
 | **Cambridge Mobile Telematics** | Software Engineer I - Cloud | Cambridge, MA | 🔒 | Nov 07 |
