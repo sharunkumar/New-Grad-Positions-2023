@@ -461,7 +461,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Vatic Investments** | Quantitative Researcher – 2025 Grads - Full Time | NYC | 🔒 | Jun 18 |
 | **Pulley** | Founding Engineer | SF | 🔒 | Jun 18 |
 | **Kalderos** | Software Engineer I | Remote in USA | 🔒 | Jun 13 |
-| **[Replo](https://simplify.jobs/c/Replo)** | Software Engineer – New Grad | SF | <a href="https://jobs.ashbyhq.com/replo/ec206174-ccc2-42fa-b295-8201421f21b0/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6b914596-3d09-4136-b34d-72d820620116?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 13 |
+| **Replo** | Software Engineer – New Grad | SF | 🔒 | Jun 13 |
 | **Arsiem Corporation** | Junior Software Engineer | Odenton, MD | 🔒 | Jun 12 |
 | **Search Discovery** | Data Engineer I | Cleveland, OH | 🔒 | Jun 12 |
 | **UiPath** | Software Engineer I | Bellevue, WA | 🔒 | Jun 12 |
