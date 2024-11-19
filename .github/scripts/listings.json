@@ -406,7 +406,7 @@
         "company_name": "Replo",
         "id": "6b914596-3d09-4136-b34d-72d820620116",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1718272246,
         "date_posted": 1718272246,
         "url": "https://jobs.ashbyhq.com/replo/ec206174-ccc2-42fa-b295-8201421f21b0/application",
@@ -22414,6 +22414,24 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Kikoff",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "03e7d420-c837-42b1-8982-eb0ba13e058d",
+        "title": "Associate Data Scientist \u2013 New Grad - Data & Analytics",
+        "active": true,
+        "date_updated": 1732047276,
+        "date_posted": 1732047276,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Texas---Dallas/Associate-Data-Scientist--Data---Analytics--New-Grad-_JR272427-1",
+        "locations": [
+            "Indianapolis, IN",
+            "Dallas, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
         "is_visible": true,
         "sponsorship": "Other"
     }
