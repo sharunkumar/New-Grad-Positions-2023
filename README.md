@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Salesforce](https://simplify.jobs/c/Salesforce)** | Associate Data Scientist – New Grad - Data & Analytics | Indianapolis, IN</br>Dallas, TX</br>Atlanta, GA | <a href="https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Texas---Dallas/Associate-Data-Scientist--Data---Analytics--New-Grad-_JR272427-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/03e7d420-c837-42b1-8982-eb0ba13e058d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 19 |
 | **[Kikoff](https://simplify.jobs/c/Kikoff)** | Software Engineer – Recent College Graduate | SF | <a href="https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/27cc8c3f-c592-4e44-a1dc-093891d04163?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 18 |
 | **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63)** | Data Engineer I | Remote in USA | <a href="https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-I_R0105337?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2f9e0193-edca-470e-9ffd-604d0c4caf6b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 18 |
 | **Geico** | Software Engineer I - Remote} | Remote in USA | 🔒 | Nov 18 |
@@ -461,7 +462,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Vatic Investments** | Quantitative Researcher – 2025 Grads - Full Time | NYC | 🔒 | Jun 18 |
 | **Pulley** | Founding Engineer | SF | 🔒 | Jun 18 |
 | **Kalderos** | Software Engineer I | Remote in USA | 🔒 | Jun 13 |
-| **Replo** | Software Engineer – New Grad | SF | 🔒 | Jun 13 |
+| **[Replo](https://simplify.jobs/c/Replo)** | Software Engineer – New Grad | SF | <a href="https://jobs.ashbyhq.com/replo/ec206174-ccc2-42fa-b295-8201421f21b0/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6b914596-3d09-4136-b34d-72d820620116?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 13 |
 | **Arsiem Corporation** | Junior Software Engineer | Odenton, MD | 🔒 | Jun 12 |
 | **Search Discovery** | Data Engineer I | Cleveland, OH | 🔒 | Jun 12 |
 | **UiPath** | Software Engineer I | Bellevue, WA | 🔒 | Jun 12 |
