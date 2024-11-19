@@ -16525,7 +16525,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "b586b669-0153-4e51-aa35-59a7bbbe9d44",
         "date_posted": 1724708566,
@@ -17409,7 +17409,7 @@
         "company_name": "Palantir",
         "id": "7b0e9437-e5f3-4413-98c1-7ea5c125a2af",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - UK Government",
-        "active": true,
+        "active": false,
         "date_updated": 1722526594,
         "date_posted": 1722526594,
         "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply",
@@ -22448,6 +22448,22 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/PVM,-Inc.",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nike",
+        "id": "0ce13a5a-83e5-47ed-9881-0c4aac584fa5",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1732049236,
+        "date_posted": 1732049236,
+        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I_R-41366",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Nike",
         "is_visible": true,
         "sponsorship": "Other"
     }
