@@ -22400,5 +22400,21 @@
         "company_url": "https://simplify.jobs/c/b434eb6a-7cce-433f-b2a0-7accd4280dce",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kikoff",
+        "id": "27cc8c3f-c592-4e44-a1dc-093891d04163",
+        "title": "Software Engineer \u2013 Recent College Graduate",
+        "active": true,
+        "date_updated": 1731974319,
+        "date_posted": 1731974319,
+        "url": "https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Kikoff",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
