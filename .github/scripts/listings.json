@@ -22528,5 +22528,21 @@
         "company_url": "https://simplify.jobs/c/Collaborative-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HashiCorp",
+        "id": "6f337bae-f589-4c0b-b54f-aa69d04a47e6",
+        "title": "Software Engineer I - Backend - HCP Terraform",
+        "active": true,
+        "date_updated": 1732135703,
+        "date_posted": 1732135703,
+        "url": "https://www.hashicorp.com/career/6388530?gh_jid=6388530",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/HashiCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
