@@ -106,7 +106,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Splunk** | C++ Software Engineer – Early Career - January 2025 or sooner start date | California | 🔒 | Nov 07 |
 | **Cambridge Mobile Telematics** | Software Engineer I - Cloud | Cambridge, MA | 🔒 | Nov 07 |
 | **Zynga** | Software Engineer 1 - Full Stack - Game of Thrones: Legends | Toronto, ON, Canada | 🔒 | Nov 07 |
-| **[Global Relay](https://simplify.jobs/c/Global-Relay)** | Junior Software Developer in Test | Kelowna, BC, Canada | <a href="https://www.globalrelay.com/careers/jobs/?gh_jid=5372217004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2e348cd7-db2e-456b-8095-c1d9c14f1d5b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 07 |
+| **Global Relay** | Junior Software Developer in Test | Kelowna, BC, Canada | 🔒 | Nov 07 |
 | **Blue Yonder** | Software Engineer I | Dallas, TX | 🔒 | Nov 06 |
 | **Medtronic** | Software Engineer I - Surgical Robotics | Boston, MA | 🔒 | Nov 06 |
 | **Medtronic** | Software Engineer I - Surgical Robotics | Boston, MA | 🔒 | Nov 06 |
