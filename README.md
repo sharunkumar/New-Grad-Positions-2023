@@ -314,7 +314,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[NewsBreak](https://simplify.jobs/c/NewsBreak)** | Software Engineer (Junior & New Grad) | Mountain View, CA | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4054592006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | **Wiley Edge** | Développeur génie logiciel / Junior Software Developer - Canada - Montreal | Montreal, QC, Canada | 🔒 | Sep 05 |
 | **Nutanix** | Early Career / Software Engineer 2 - Cdp | San Jose, CA | 🔒 | Sep 05 |
-| **[Pylon](https://simplify.jobs/c/Pylon)** | New grad – Software Engineer | SF | <a href="https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f2019b56-ba55-41fa-af52-f5aa7dad80a6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 05 |
+| **Pylon** | New grad – Software Engineer | SF | 🔒 | Sep 05 |
 | **ServiceNow** | Utg – New College Grad - Software Engineer | Santa Clara, CA | 🔒 | Sep 05 |
 | **Anyscale** | Software Engineer – New Grad 2025 | SF | 🔒 | Sep 05 |
 | **PolicyMe** | Junior Software Engineer - Remote | Remote in Canada | 🔒 | Sep 04 |
