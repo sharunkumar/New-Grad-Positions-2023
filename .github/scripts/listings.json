@@ -22482,5 +22482,21 @@
         "date_posted": 1732050750,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ConnectWise",
+        "id": "b8c29ee1-2064-4031-8ea7-a32ba8bca872",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1732061739,
+        "date_posted": 1732061739,
+        "url": "https://job-boards.greenhouse.io/connectwise/jobs/4484782005",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectWise",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
