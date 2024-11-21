@@ -117,7 +117,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Medtronic** | Software Engineer I - Surgical Robotics | Boston, MA | 🔒 | Nov 06 |
 | **Medtronic** | Software Engineer I - Surgical Robotics | Boston, MA | 🔒 | Nov 06 |
 | **The Walt Disney Company** | Software Engineer I | Burbank, CA | 🔒 | Nov 06 |
-| **[Mastercard](https://simplify.jobs/c/Mastercard)** | Software Engineer I | O'Fallon, MO | <a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-229672?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/43d1dcd8-9ece-42b1-86d9-c21ebedbdf68?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 06 |
+| **Mastercard** | Software Engineer I | O'Fallon, MO | 🔒 | Nov 06 |
 | **Sprout Social** | Associate Data Scientist 🛂 | Remote | <a href="https://job-boards.greenhouse.io/sproutsocialcollege/jobs/6230427?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Sprout Social** | Associate Software Engineer 🛂 | Remote | <a href="https://job-boards.greenhouse.io/sproutsocialcollege/jobs/6169382?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **ICF** | Associate Software Engineer – December 2024 Grad - Remote | Remote in USA | 🔒 | Nov 06 |
