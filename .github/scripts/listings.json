@@ -22544,5 +22544,37 @@
         "company_url": "https://simplify.jobs/c/HashiCorp",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "de0bee09-621a-40c1-ad9f-442db0e88103",
+        "title": "Software Engineer \u2013 New College Grad 2025 - Virtualization",
+        "active": true,
+        "date_updated": 1732148445,
+        "date_posted": 1732148445,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Virtualization---New-College-Grad-2025_JR1991793-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HashiCorp",
+        "id": "ea2ed181-5861-4ce9-9c88-6be63fe79948",
+        "title": "Software Engineer I - Backend - HCP Terraform",
+        "active": true,
+        "date_updated": 1732148113,
+        "date_posted": 1732148113,
+        "url": "https://www.hashicorp.com/career/6388536?gh_jid=6388536",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/HashiCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
