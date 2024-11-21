@@ -22625,5 +22625,21 @@
         "company_url": "https://simplify.jobs/c/fd59cf21-122f-48d2-8ab5-400590b899b5",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "59996fdb-727e-4224-a149-788c774ab3f3",
+        "title": "2025 University Graduate-Software Engineer",
+        "active": true,
+        "date_updated": 1732221301,
+        "date_posted": 1732221301,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2025-University-Graduate--Software-Engineer_R151401",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
