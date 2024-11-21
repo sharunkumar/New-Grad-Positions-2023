@@ -22576,5 +22576,54 @@
         "company_url": "https://simplify.jobs/c/HashiCorp",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Baxter International",
+        "id": "3e11c186-c303-4e0a-879d-7bb4ef598bf4",
+        "title": "Software Engineer I - Hybrid",
+        "active": true,
+        "date_updated": 1732177618,
+        "date_posted": 1732177618,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Round-Lake-Illinois/Software-Engineer-I---Hybrid_JR-152572-1",
+        "locations": [
+            "Johnsburg, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/af6f7b75-7e33-4769-92e6-1ef754e155cd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perseus Group",
+        "id": "3bc586c5-34d8-4589-9c21-499f6f694e57",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1732177485,
+        "date_posted": 1732177485,
+        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Remote---USA/Software-Engineer-I_R41493",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/86425b9a-a364-4749-8067-5d119318dae7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parsons",
+        "id": "8b449478-034d-4b6c-8678-c0aa27fa8a9c",
+        "title": "Junior Software Developer - Hybrid",
+        "active": true,
+        "date_updated": 1732176905,
+        "date_posted": 1732176905,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IL-Scott-AFB/Junior-Software-Developer--Hybrid-_R160763",
+        "locations": [
+            "Scott AFB, IL",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/fd59cf21-122f-48d2-8ab5-400590b899b5",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
