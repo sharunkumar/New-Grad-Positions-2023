@@ -337,8 +337,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Replicant** | Software Engineer I - Machine Learning | Remote in Canada | 🔒 | Aug 31 |
 | **Watershed** | Software engineer – New grad | SF | 🔒 | Aug 31 |
 | **Zip** | Software Engineer – New Grad - 2025 Start | SF | 🔒 | Aug 30 |
-| **[Wiley Edge](https://simplify.jobs/c/WileyEdge)** | Junior Software Engineer | Remote in USA | <a href="https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374540006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4e2587db-6361-4149-9d21-78c486d240f2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
-| **[Wiley Edge](https://simplify.jobs/c/WileyEdge)** | Junior Software Engineer | Remote in USA | <a href="https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4383912006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9de17cca-57cb-4ea4-b73b-f9b65eafa5c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **Wiley Edge** | Junior Software Engineer | Remote in USA | 🔒 | Aug 30 |
+| **Wiley Edge** | Junior Software Engineer | Remote in USA | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | NYC | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Data Scientist | Canada | 🔒 | Aug 30 |
 | **Wiley Edge** | C++ Junior Software Engineer - London Heathrow - UK | Feltham, UK | 🔒 | Aug 30 |
@@ -462,7 +462,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Old Mission** | Junior Quantitative Trader - Asian Market Hours | Chicago, IL | 🔒 | Jun 27 |
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1730183/Software-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | **DriveWealth** | Software Development Engineer 1 | NYC | 🔒 | Jun 26 |
-| **[Aquatic Capital Management](https://simplify.jobs/c/Aquatic-Capital-Management)** | Quantitative Researcher – Early Career - 2025 | Chicago, IL</br>NYC | <a href="https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7468705002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9489bce0-5fcd-45d3-8146-b479668b7153?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 25 |
+| **Aquatic Capital Management** | Quantitative Researcher – Early Career - 2025 | Chicago, IL</br>NYC | 🔒 | Jun 25 |
 | **Forward** | Software Engineer – Entry Level - Full Stack | SF | 🔒 | Jun 24 |
 | **[Amazon](https://simplify.jobs/c/Amazon)** | Software Development Enginner - New Grad (2024) | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/2644301/software-development-engineer-2024-us?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | **Advanced Technology Services (ATS)** | Software Engineer I | Peoria, IL | 🔒 | Jun 21 |
