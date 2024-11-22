@@ -22641,5 +22641,23 @@
         "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hootsuite",
+        "id": "01af73f1-ad92-413c-a45a-69183d1714ea",
+        "title": "Junior Software Developer - Devops",
+        "active": true,
+        "date_updated": 1732234409,
+        "date_posted": 1732234409,
+        "url": "https://careers.hootsuite.com/job/?gh_jid=6418417",
+        "locations": [
+            "Calgary, AB, Canada",
+            "Edmonton, AB, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/a8d5c1d3-09fb-4507-921e-c80da80d0843",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
