@@ -17003,7 +17003,7 @@
         "company_name": "Flashpoint",
         "id": "766d0bee-e451-4b4d-9ee9-53b175d32a4c",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1724441470,
         "date_posted": 1724369449,
         "url": "https://job-boards.greenhouse.io/flashpoint/jobs/7608499002?gh_jid=7608499002",
@@ -20418,7 +20418,7 @@
         "company_name": "Horace Mann",
         "id": "d0a3bf31-838e-4442-8a25-1472c6ee5117",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1728688427,
         "date_posted": 1728688427,
         "url": "https://boards.greenhouse.io/horacemannservicecorporation/jobs/5346297004",
@@ -20829,7 +20829,7 @@
         "company_name": "Pax8",
         "id": "a5889e90-c707-4b51-bad9-4c56922a7ed3",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1729886611,
         "date_posted": 1729886611,
         "url": "https://www.pax8.com/en-us/careers/job-openings?gh_jid=5360073004",
@@ -22550,7 +22550,7 @@
         "company_name": "NVIDIA",
         "id": "de0bee09-621a-40c1-ad9f-442db0e88103",
         "title": "Software Engineer \u2013 New College Grad 2025 - Virtualization",
-        "active": true,
+        "active": false,
         "date_updated": 1732148445,
         "date_posted": 1732148445,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Virtualization---New-College-Grad-2025_JR1991793-1",
@@ -22623,6 +22623,40 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/fd59cf21-122f-48d2-8ab5-400590b899b5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "59996fdb-727e-4224-a149-788c774ab3f3",
+        "title": "2025 University Graduate-Software Engineer",
+        "active": true,
+        "date_updated": 1732221301,
+        "date_posted": 1732221301,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2025-University-Graduate--Software-Engineer_R151401",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hootsuite",
+        "id": "01af73f1-ad92-413c-a45a-69183d1714ea",
+        "title": "Junior Software Developer - Devops",
+        "active": true,
+        "date_updated": 1732234409,
+        "date_posted": 1732234409,
+        "url": "https://careers.hootsuite.com/job/?gh_jid=6418417",
+        "locations": [
+            "Calgary, AB, Canada",
+            "Edmonton, AB, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/a8d5c1d3-09fb-4507-921e-c80da80d0843",
         "is_visible": true,
         "sponsorship": "Other"
     }
