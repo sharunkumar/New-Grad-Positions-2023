@@ -88,8 +88,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Geico** | Software Engineer I - Remote} | Remote in USA | 🔒 | Nov 18 |
 | **Meijer** | Entry Level Data Engineer 🛂 | Grand Rapids, MI | 🔒 | Nov 15 |
 | **[Visa](https://simplify.jobs/c/Visa)** | Software Engineer – New College Grad - 2025 | Austin, TX | <a href="https://jobs.smartrecruiters.com/Visa/744000026540225?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fb7a31ec-93ec-4edf-8417-0d2840e94210?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 15 |
-| **Konrad Group** | Software Developer – Entry Level | Remote in UK | 🔒 | Nov 15 |
-| **Konrad Group** | Mobile Developer – Entry Level | Remote in UK | 🔒 | Nov 15 |
+| **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Software Developer – Entry Level | Remote in UK | <a href="https://boards.greenhouse.io/embed/job_app?token=6272341003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/521fd544-fbe1-4d80-8042-9fda065e17cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 15 |
+| **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Mobile Developer – Entry Level | Remote in UK | <a href="https://boards.greenhouse.io/embed/job_app?token=6272333003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2f3cd986-6b95-422b-84c0-0082e3a025ea?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 15 |
 | **Kobalt Music Group** | Junior Software Engineer | London, UK | 🔒 | Nov 15 |
 | **Jamf** | Software Engineer I | United States | 🔒 | Nov 15 |
 | **Medline** | Junior Full Stack Developer | Northbrook, IL | 🔒 | Nov 13 |
