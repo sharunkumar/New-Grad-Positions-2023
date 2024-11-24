@@ -371,7 +371,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Pax8** | Data Engineer I | United States | 🔒 | Aug 23 |
 | **Applied Intuition** | Software Engineer – New Grad | Mountain View, CA | 🔒 | Aug 23 |
 | **[Stripe](https://simplify.jobs/c/Stripe)** | Software Engineer – New Grad | Seattle, WA</br>SF | <a href="https://stripe.com/jobs/search?gh_jid=6142741&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7b44c5dc-3450-441f-9363-94b671266966?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 23 |
-| **[Stripe](https://simplify.jobs/c/Stripe)** | Software Engineer – New Grad | Toronto, ON, Canada | <a href="https://stripe.com/jobs/search?gh_jid=6025906&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/aeb7718a-4a2d-4347-8c9b-4d206378b6f8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 23 |
+| **Stripe** | Software Engineer – New Grad | Toronto, ON, Canada | 🔒 | Aug 23 |
 | **Microsoft** | Software Engineer | Multiple Locations | 🔒 | Aug 23 |
 | **Flashpoint** | Data Engineer I | Remote in USA | 🔒 | Aug 22 |
 | **[Gecko Robotics](https://simplify.jobs/c/Gecko-Robotics)** | Forward Deployed Engineer - New Graduate | New York, NY | <a href="https://www.geckorobotics.com/careers?ashby_jid=37a18535-7fd9-4491-a8a0-d567adc30e03#open-positions&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
