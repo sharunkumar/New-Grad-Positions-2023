@@ -22755,5 +22755,21 @@
         "company_url": "https://simplify.jobs/c/Twitch",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Grand Rounds",
+        "id": "91976ae3-6223-44af-93ef-50ed5eac6d88",
+        "title": "Software Engineer \u2013 2025 New College Grad - Treat Team",
+        "active": true,
+        "date_updated": 1732551364,
+        "date_posted": 1732551364,
+        "url": "https://jobs.lever.co/includedhealth/ed005ef1-a7a1-44d1-be21-43ccb958fddb/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Grand-Rounds",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
