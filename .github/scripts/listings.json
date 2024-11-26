@@ -22787,5 +22787,37 @@
         "company_url": "https://simplify.jobs/c/Replit",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "5e9346e1-7500-47dd-8cab-b6668c65edb4",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1732637358,
+        "date_posted": 1732637358,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000028629131",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "13d785e2-51bd-46eb-b3fe-603a79309a64",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1732637333,
+        "date_posted": 1732637333,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000028633316",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
