@@ -209,7 +209,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Visa** | Software Engineer – New College Grad - 2025 🛂 | Austin, TX | 🔒 | Oct 11 |
 | **Nuro** | Software Engineer – New Grad - Autonomy | Mountain View, CA | 🔒 | Oct 10 |
 | **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | Oct 10 |
-| **Affirm** | Software Engineer I | Remote in Canada | 🔒 | Oct 09 |
+| **[Affirm](https://simplify.jobs/c/Affirm)** | Software Engineer I | Remote in Canada | <a href="https://job-boards.greenhouse.io/affirm/jobs/6228679003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/580a1818-6b2f-4cf5-bf55-a67a759f382d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 09 |
 | **Universal Music Group** | Junior Software Developer | NYC | 🔒 | Oct 09 |
 | **[Codazen](https://simplify.jobs/c/Codazen)** | Full-Stack Engineer Summer 2025 New Grad | Irvine, CA | <a href="https://boards.greenhouse.io/codazen/jobs/5338060004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0866b4e3-6588-48bf-827f-7badd404a86d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 08 |
 | **Spotify** | Junior Backend Engineer - Content Catalog | London, UK | 🔒 | Oct 08 |
@@ -339,7 +339,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Wyetech LLC** | Software Engineer 1 | Odenton, MD | 🔒 | Sep 04 |
 | **Signify Health** | Data Engineer I | Dallas, TX | 🔒 | Sep 04 |
 | **OKX ** | Software Engineer – New Grad | Remote in USA | 🔒 | Sep 03 |
-| **[RVO Health](https://simplify.jobs/c/RVO-Health)** | 2025 Early Career Program: Software Engineering Intern | Charlotte, NC | <a href="https://job-boards.greenhouse.io/rvohealth/jobs/4468377005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ff117a92-97e8-4c34-9bcb-202940bb2a6c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 03 |
+| **RVO Health** | 2025 Early Career Program: Software Engineering Intern | Charlotte, NC | 🔒 | Sep 03 |
 | **ZipRecruiter** | Software Engineer – New Grad | Santa Monica, CA | 🔒 | Sep 03 |
 | **[Datadog](https://simplify.jobs/c/Datadog)** | Software Engineer – Early Career | Boston, MA</br>NYC | <a href="https://careers.datadoghq.com/detail/6182685/?gh_jid=6182685&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9a6f5b77-ab04-40be-9380-b9b8b7fa7b18?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 03 |
 | **Datadog** | Data Scientist – Early Career | NYC | 🔒 | Sep 03 |
