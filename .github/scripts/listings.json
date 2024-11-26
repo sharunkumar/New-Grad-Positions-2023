@@ -16477,7 +16477,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "b1e713f6-649e-4469-a8ba-9c8c2fcb2452",
         "date_posted": 1724644343,
@@ -16509,7 +16509,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "b1c78599-162c-4ee7-ac8e-246b2ebba793",
         "date_posted": 1724708535,
@@ -18883,7 +18883,7 @@
         "company_name": "Verkada",
         "id": "7505f584-d1ff-4447-872b-bcfa742bf044",
         "title": "Embedded Software Engineer \u2013 University Graduate 2025",
-        "active": true,
+        "active": false,
         "date_updated": 1724102452,
         "date_posted": 1724102452,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4471668007",
