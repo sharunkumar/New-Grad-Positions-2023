@@ -22614,7 +22614,7 @@
         "company_name": "Parsons",
         "id": "8b449478-034d-4b6c-8678-c0aa27fa8a9c",
         "title": "Junior Software Developer - Hybrid",
-        "active": true,
+        "active": false,
         "date_updated": 1732176905,
         "date_posted": 1732176905,
         "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IL-Scott-AFB/Junior-Software-Developer--Hybrid-_R160763",
@@ -22833,6 +22833,22 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "ace6e374-a5ec-4727-9bd1-c2bc4b3e370d",
+        "title": "Software Engineer \u2013 New Graduate - Android - Okta Personal",
+        "active": true,
+        "date_updated": 1732666423,
+        "date_posted": 1732666423,
+        "url": "https://www.okta.com/company/careers/opportunity/6414255?gh_jid=6414255",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
         "is_visible": true,
         "sponsorship": "Other"
     }
