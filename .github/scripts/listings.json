@@ -22883,5 +22883,21 @@
         "company_url": "https://simplify.jobs/c/c202599e-d952-4aab-a921-e4ecf64a1dea",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spotify",
+        "id": "4a2225a9-2f7a-4b96-8844-4e8847292ffc",
+        "title": "Data Engineer I - Licensing",
+        "active": true,
+        "date_updated": 1733171449,
+        "date_posted": 1733171449,
+        "url": "https://jobs.lever.co/spotify/51782633-a977-4831-a4d6-bda3b5c156d0/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
