@@ -19012,7 +19012,7 @@
         "company_name": "Navan",
         "id": "12d74d59-f8fb-4f04-a478-e3dd867f6e9d",
         "title": "University Graduate - Software Engineer - Back-End",
-        "active": false,
+        "active": true,
         "date_updated": 1722036576,
         "date_posted": 1722036576,
         "url": "https://tripactions.com/job-openings?gh_jid=5382869",
@@ -20793,7 +20793,7 @@
         "company_name": "DoorDash",
         "id": "5edec334-b85d-4c7f-98ed-2b4a890c45cc",
         "title": "Software Engineer I \u2013 Entry Level - Fall 2024-Summer 2025 - Toronto",
-        "active": true,
+        "active": false,
         "date_updated": 1729811488,
         "date_posted": 1729811488,
         "url": "https://boards.greenhouse.io/doordashcanada/jobs/6346397",
@@ -21555,7 +21555,7 @@
         "company_name": "Mastercard",
         "id": "43d1dcd8-9ece-42b1-86d9-c21ebedbdf68",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1730909760,
         "date_posted": 1730909760,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-229672",
@@ -22881,6 +22881,38 @@
             "Maidenhead, UK"
         ],
         "company_url": "https://simplify.jobs/c/c202599e-d952-4aab-a921-e4ecf64a1dea",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spotify",
+        "id": "4a2225a9-2f7a-4b96-8844-4e8847292ffc",
+        "title": "Data Engineer I - Licensing",
+        "active": true,
+        "date_updated": 1733171449,
+        "date_posted": 1733171449,
+        "url": "https://jobs.lever.co/spotify/51782633-a977-4831-a4d6-bda3b5c156d0/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parsons",
+        "id": "bcde1499-dd1b-4fe6-b3f1-ccabebb12774",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1733184797,
+        "date_posted": 1733184797,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Fort-George-G-Meade/Software-Engineer-1_R161564",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
         "is_visible": true,
         "sponsorship": "Other"
     }
