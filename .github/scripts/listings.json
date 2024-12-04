@@ -22932,5 +22932,21 @@
         "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Whoop",
+        "id": "092287a4-c147-4bfb-8fd9-f2e1239788be",
+        "title": "Software Engineer I - Web - Growth",
+        "active": true,
+        "date_updated": 1733279354,
+        "date_posted": 1729868686,
+        "url": "https://jobs.lever.co/whoop/75128842-8e4a-4281-931a-e385e6a830ee/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
