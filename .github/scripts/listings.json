@@ -22948,5 +22948,21 @@
         "company_url": "https://simplify.jobs/c/Whoop",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Whoop",
+        "id": "6c17489c-8160-4596-9920-425d791bb02d",
+        "title": "Software Engineer I - Backend - Business Systems",
+        "active": true,
+        "date_updated": 1733279114,
+        "date_posted": 1729625590,
+        "url": "https://jobs.lever.co/whoop/28400f2f-6097-4e64-8226-b3d40820effa/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
