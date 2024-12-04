@@ -352,7 +352,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **OKX ** | Software Engineer – New Grad | Remote in USA | 🔒 | Sep 03 |
 | **RVO Health** | 2025 Early Career Program: Software Engineering Intern | Charlotte, NC | 🔒 | Sep 03 |
 | **ZipRecruiter** | Software Engineer – New Grad | Santa Monica, CA | 🔒 | Sep 03 |
-| **[Datadog](https://simplify.jobs/c/Datadog)** | Software Engineer – Early Career | Boston, MA</br>NYC | <a href="https://careers.datadoghq.com/detail/6182685/?gh_jid=6182685&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9a6f5b77-ab04-40be-9380-b9b8b7fa7b18?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 03 |
+| **Datadog** | Software Engineer – Early Career | Boston, MA</br>NYC | 🔒 | Sep 03 |
 | **Datadog** | Data Scientist – Early Career | NYC | 🔒 | Sep 03 |
 | **WhatNot** | Software Engineer – 2025 New Grad | SF</br>LA</br>NYC | 🔒 | Sep 02 |
 | **Replicant** | Software Engineer I - Machine Learning | Remote in Canada | 🔒 | Aug 31 |
