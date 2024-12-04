@@ -18389,7 +18389,7 @@
         "company_name": "Salesforce",
         "id": "47e3621f-6df0-4275-9601-99435d3759f6",
         "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1725581502,
         "date_posted": 1725581502,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--New-Grad-_JR264567-1",
@@ -22930,6 +22930,38 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Whoop",
+        "id": "092287a4-c147-4bfb-8fd9-f2e1239788be",
+        "title": "Software Engineer I - Web - Growth",
+        "active": true,
+        "date_updated": 1733279354,
+        "date_posted": 1729868686,
+        "url": "https://jobs.lever.co/whoop/75128842-8e4a-4281-931a-e385e6a830ee/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Whoop",
+        "id": "6c17489c-8160-4596-9920-425d791bb02d",
+        "title": "Software Engineer I - Backend - Business Systems",
+        "active": true,
+        "date_updated": 1733279114,
+        "date_posted": 1729625590,
+        "url": "https://jobs.lever.co/whoop/28400f2f-6097-4e64-8226-b3d40820effa/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
         "is_visible": true,
         "sponsorship": "Other"
     }
