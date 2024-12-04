@@ -17489,7 +17489,7 @@
         "company_name": "Codeium",
         "id": "43aa261d-b768-4fcf-9369-c8cc2e542ce1",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1723160750,
         "date_posted": 1723160750,
         "url": "https://jobs.ashbyhq.com/codeium/cb10c443-7e5b-44ac-8b21-0edd60b22095/application",
@@ -22566,7 +22566,7 @@
         "company_name": "HashiCorp",
         "id": "ea2ed181-5861-4ce9-9c88-6be63fe79948",
         "title": "Software Engineer I - Backend - HCP Terraform",
-        "active": true,
+        "active": false,
         "date_updated": 1732148113,
         "date_posted": 1732148113,
         "url": "https://www.hashicorp.com/career/6388536?gh_jid=6388536",
@@ -22905,7 +22905,7 @@
         "company_name": "Parsons",
         "id": "bcde1499-dd1b-4fe6-b3f1-ccabebb12774",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1733184797,
         "date_posted": 1733184797,
         "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Fort-George-G-Meade/Software-Engineer-1_R161564",
@@ -22913,6 +22913,23 @@
             "Odenton, MD"
         ],
         "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "c31a7242-0fb4-4229-bd77-58677e700dac",
+        "title": "University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1733258214,
+        "date_posted": 1733258214,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-University-Graduate---Software-Engineer_R149689",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other"
     }
