@@ -16619,7 +16619,7 @@
         "company_name": "Accenture Federal Services",
         "id": "97765bb2-ef29-41a0-b992-dc8cc6d12998",
         "title": "Software Engineer 0",
-        "active": false,
+        "active": true,
         "date_updated": 1724951224,
         "date_posted": 1724951224,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4398316006",
@@ -17201,7 +17201,7 @@
         "company_name": "Pattern Data",
         "id": "34858b56-8a32-4f10-b5d5-e76e1fad2229",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1723662584,
         "date_posted": 1723592408,
         "url": "https://job-boards.greenhouse.io/patterndata/jobs/4478536007",
@@ -21413,7 +21413,7 @@
         "company_name": "Affirm",
         "id": "892a9a36-9a3d-4625-abf8-baeb8d97d85f",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1730502614,
         "date_posted": 1730502614,
         "url": "https://job-boards.greenhouse.io/affirm/jobs/6255596003",
@@ -21491,7 +21491,7 @@
         "company_name": "ELEVI Associates",
         "id": "9e8b1056-3718-4951-9d99-bf6393843788",
         "title": "Entry Level Front End Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1730851846,
         "date_posted": 1730851846,
         "url": "https://job-boards.greenhouse.io/eleviassociates/jobs/6264397003",
@@ -22978,6 +22978,22 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "3e620445-1750-43c1-8588-4db5db0e4089",
+        "title": "Software Engineer I - Contact Experience - Fullstack",
+        "active": true,
+        "date_updated": 1733362856,
+        "date_posted": 1733362856,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/6284221003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
         "is_visible": true,
         "sponsorship": "Other"
     }
