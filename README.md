@@ -69,7 +69,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Parsons** | Software Engineer 1 | Odenton, MD | 🔒 | Dec 03 |
 | **Spotify** | Data Engineer I - Licensing | Remote in USA | 🔒 | Dec 02 |
 | **PDI Technologies** | Software Engineer I | Maidenhead, UK | 🔒 | Nov 29 |
-| **[PDI Technologies](https://simplify.jobs/c/c202599e-d952-4aab-a921-e4ecf64a1dea)** | Software Engineer I | Maidenhead, UK | <a href="https://jobs.lever.co/pditechnologies/a5ad0d2d-d1d2-491e-a011-3ddaca65cb75/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d2b02f74-dd02-4228-8b8d-960a2b3c21cf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 29 |
+| **PDI Technologies** | Software Engineer I | Maidenhead, UK | 🔒 | Nov 29 |
 | **[Okta](https://simplify.jobs/c/Okta)** | Software Engineer – New Graduate - Android - Okta Personal | Toronto, ON, Canada | <a href="https://www.okta.com/company/careers/opportunity/6414255?gh_jid=6414255&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ace6e374-a5ec-4727-9bd1-c2bc4b3e370d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 27 |
 | **Capital One** | Associate – New Grad - Software Engineer | Toronto, ON, Canada | 🔒 | Nov 26 |
 | **[Visa](https://simplify.jobs/c/Visa)** | Software Engineer – New College Grad | Ashburn, VA | <a href="https://jobs.smartrecruiters.com/Visa/744000028629131?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5e9346e1-7500-47dd-8cab-b6668c65edb4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 26 |
@@ -227,7 +227,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Affirm** | Software Engineer I | Remote in Canada | 🔒 | Oct 09 |
 | **Universal Music Group** | Junior Software Developer | NYC | 🔒 | Oct 09 |
 | **Codazen** | Full-Stack Engineer Summer 2025 New Grad | Irvine, CA | 🔒 | Oct 08 |
-| **Spotify** | Junior Backend Engineer - Content Catalog | London, UK | 🔒 | Oct 08 |
+| **[Spotify](https://simplify.jobs/c/Spotify)** | Junior Backend Engineer - Content Catalog | London, UK | <a href="https://jobs.lever.co/spotify/934ede25-003a-4af6-84ee-a8dc5555f243/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/629cafe7-a191-416e-908a-fea248a8a65d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 08 |
 | **[Dev Technology Group](https://simplify.jobs/c/DevTechGrp)** | Junior Full Stack React/Node.js Developer | Remote in USA | <a href="https://job-boards.greenhouse.io/devtechnology/jobs/7615403002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3049464d-b65b-427f-88d8-a7cf13f406ad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 08 |
 | **Flexport** | Software Engineer I - Forwarding Applications | Bellevue, WA | 🔒 | Oct 07 |
 | **Geico** | Engineer I - Software Engineer | Bethesda, MD | 🔒 | Oct 07 |
@@ -471,7 +471,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Palantir** | Software Engineer – New Grad | Palo Alto, CA | 🔒 | Jul 01 |
 | **Palantir** | Software Engineer – New Grad - US Government | Washington, DC | 🔒 | Jul 01 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad | NYC | <a href="https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0a14e404-4828-4af4-bb63-2fb23a5a061f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 01 |
-| **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/395bbd57-d183-4045-a5a9-d66137760142?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 01 |
+| **Palantir** | Software Engineer – New Grad - US Government | NYC | 🔒 | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | Washington, DC | 🔒 | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | 🔒 | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad | NYC | 🔒 | Jul 01 |
