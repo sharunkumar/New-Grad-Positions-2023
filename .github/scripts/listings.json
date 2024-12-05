@@ -22598,7 +22598,7 @@
         "company_name": "Perseus Group",
         "id": "3bc586c5-34d8-4589-9c21-499f6f694e57",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1732177485,
         "date_posted": 1732177485,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Remote---USA/Software-Engineer-I_R41493",
@@ -23026,6 +23026,47 @@
             "Honolulu, HI"
         ],
         "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parsons",
+        "id": "f90c8b03-a275-4665-9e62-90f5fbdb6404",
+        "title": "Data Scientist Junior",
+        "active": true,
+        "date_updated": 1732177024,
+        "date_posted": 1732177024,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---FL-Destin/Data-Scientist-Junior_R159897",
+        "locations": [
+            "Salt Lake City, UT",
+            "Honolulu, HI",
+            "Tampa, FL",
+            "Colorado Springs, CO",
+            "Virginia Beach, VA",
+            "Destin, FL",
+            "Pensacola, FL",
+            "Fort Bragg, NC",
+            "Huntsville, AL",
+            "Lakewood, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Citigroup",
+        "id": "8e5434b8-dfe5-4af0-9b84-3abfe3a6bb04",
+        "title": "Junior Data Engineering Analyst",
+        "active": true,
+        "date_updated": 1732634469,
+        "date_posted": 1731548799,
+        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Junior-Data-Engineering-Analyst--C11---MISSISSAUGA---Hybrid_24807803",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/5fdb14b0-be2f-4141-8255-f61325f9e0c2",
         "is_visible": true,
         "sponsorship": "Other"
     }
