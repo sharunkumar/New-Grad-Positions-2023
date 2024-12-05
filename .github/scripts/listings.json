@@ -22212,7 +22212,7 @@
         "company_name": "Icon",
         "id": "c4aec780-61d3-46a3-a8db-211c9eced1f4",
         "title": "Founding Engineer - Product",
-        "active": false,
+        "active": true,
         "date_updated": 1731528115,
         "date_posted": 1731497178,
         "url": "https://jobs.ashbyhq.com/icon/8de569c7-814f-4ffe-9c21-a92d7b806be2/application",
@@ -23010,6 +23010,22 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parsons",
+        "id": "0513a035-8f80-488e-9f86-7e4347fb16cb",
+        "title": "Data Engineer - Junior - Ts/Sci Poly",
+        "active": true,
+        "date_updated": 1732176986,
+        "date_posted": 1732176986,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---HI-Fort-Shafter/Data-Engineer--Junior--TS-SCI-POLY_R160418-1",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
         "is_visible": true,
         "sponsorship": "Other"
     }
