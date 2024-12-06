@@ -148,7 +148,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Sprout Social** | Associate Data Scientist 🛂 | Remote | <a href="https://job-boards.greenhouse.io/sproutsocialcollege/jobs/6230427?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Sprout Social** | Associate Software Engineer 🛂 | Remote | <a href="https://job-boards.greenhouse.io/sproutsocialcollege/jobs/6169382?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **ICF** | Associate Software Engineer – December 2024 Grad - Remote | Remote in USA | 🔒 | Nov 06 |
-| **ELEVI Associates** | Entry Level Front End Developer | Annapolis Junction, MD | 🔒 | Nov 06 |
+| **[ELEVI Associates](https://simplify.jobs/c/ELEVI-Associates)** | Entry Level Front End Developer | Annapolis Junction, MD | <a href="https://job-boards.greenhouse.io/eleviassociates/jobs/6264397003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9e8b1056-3718-4951-9d99-bf6393843788?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 06 |
 | **PolicyMe** | Junior Software Engineer - Remote | Remote in Canada | 🔒 | Nov 05 |
 | **Parafin** | Software Engineer – New Grad - Backend | Remote in USA | 🔒 | Nov 05 |
 | **Spotify** | Backend Engineer I - Podcast |  | 🔒 | Nov 05 |
