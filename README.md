@@ -172,7 +172,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Two Six Technologies** | Junior Software Engineer | Cherry Hills Village, CO | 🔒 | Oct 30 |
 | **Two Six Technologies** | Junior Software Engineer | Reston, VA | 🔒 | Oct 30 |
 | **NVIDIA** | Research Engineer – New College Grad 2025 - Architecture | Austin, TX</br>Santa Clara, CA</br>Westford, MA | 🔒 | Oct 30 |
-| **[Cambridge Mobile Telematics](https://simplify.jobs/c/4deb12d2-2054-45da-b1c8-a49bc3f15c6a)** | Software Engineer I - Android SDK | Remote in USA | <a href="https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=5845723&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/49e870f6-eabc-4125-988c-da15e32fa82f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 30 |
+| **Cambridge Mobile Telematics** | Software Engineer I - Android SDK | Remote in USA | 🔒 | Oct 30 |
 | **Supernova Technology** | Junior Software Engineer | Chicago, IL | 🔒 | Oct 30 |
 | **Electric Mind** | Junior Software Developer - Full Stack | Toronto, ON, Canada | 🔒 | Oct 30 |
 | **[Strive Health](https://simplify.jobs/c/fb4bdaa0-c951-4127-9241-493a8a986078)** | Data Engineer I | Washington, DC | <a href="https://boards.greenhouse.io/strivehealth/jobs/4406927006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6e675a50-038c-4aa9-a5ef-fb1a5e1ee804?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 30 |
