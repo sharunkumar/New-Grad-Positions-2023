@@ -441,7 +441,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Ramp** | University Grad 2025: Software Engineer - Frontend | NYC | 🔒 | Jul 31 |
 | **Jackson** | Software Developer I | Lansing, MI | 🔒 | Jul 27 |
 | **WebFX** | Entry Level Software Engineer | Harrisburg, PA | 🔒 | Jul 27 |
-| **[Navan](https://simplify.jobs/c/Navan)** | University Graduate - Software Engineer - Back-End | Palo Alto, CA | <a href="https://tripactions.com/job-openings?gh_jid=5382869&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/12d74d59-f8fb-4f04-a478-e3dd867f6e9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 26 |
+| **Navan** | University Graduate - Software Engineer - Back-End | Palo Alto, CA | 🔒 | Jul 26 |
 | **Jerry** | New Graduate Software Engineer - Palo Alto | Palo Alto, CA | 🔒 | Jul 26 |
 | **Jerry** | Software Engineer I - Toronto | Toronto, ON, Canada | 🔒 | Jul 26 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad | Denver, CO | <a href="https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7e134007-3fa8-4732-84ca-e7119c8f4116?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 25 |
