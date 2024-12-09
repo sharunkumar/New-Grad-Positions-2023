@@ -110,7 +110,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Konrad Group** | Mobile Developer – Entry Level | Remote in UK | 🔒 | Nov 15 |
 | **Kobalt Music Group** | Junior Software Engineer | London, UK | 🔒 | Nov 15 |
 | **Jamf** | Software Engineer I | United States | 🔒 | Nov 15 |
-| **[Citigroup](https://simplify.jobs/c/5fdb14b0-be2f-4141-8255-f61325f9e0c2)** | Junior Data Engineering Analyst | Mississauga, ON, Canada | <a href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Junior-Data-Engineering-Analyst--C11---MISSISSAUGA---Hybrid_24807803?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8e5434b8-dfe5-4af0-9b84-3abfe3a6bb04?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 14 |
+| **Citigroup** | Junior Data Engineering Analyst | Mississauga, ON, Canada | 🔒 | Nov 14 |
 | **Medline** | Junior Full Stack Developer | Northbrook, IL | 🔒 | Nov 13 |
 | **Sierra Space** | Software Engineer I | Broomfield, CO | 🔒 | Nov 13 |
 | **Booz Allen** | Data Scientist - Junior | San Diego, CA | 🔒 | Nov 13 |
