@@ -23102,5 +23102,60 @@
         "company_url": "https://simplify.jobs/c/Applied-Intuition",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "7961dc3f-b148-4956-982b-e1178c95f014",
+        "title": "Software Development Engineer I - Dynamodb",
+        "active": true,
+        "date_updated": 1733862166,
+        "date_posted": 1733862166,
+        "url": "https://amazon.jobs/en/jobs/2849979/software-development-engineer-i-2025-dynamodb",
+        "locations": [
+            "Seattle, WA",
+            "Redmond, WA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "02f1296a-454a-4dfe-b72f-743ad3d7d5e9",
+        "title": "Software Development Engineer I - Redshift",
+        "active": true,
+        "date_updated": 1733862163,
+        "date_posted": 1733862163,
+        "url": "https://amazon.jobs/en/jobs/2850010/software-development-engineer-i-2025-redshift",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "c86c9add-6977-442d-8e79-cb62705f1231",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1733862163,
+        "date_posted": 1733862163,
+        "url": "https://amazon.jobs/en/jobs/2850044/software-development-engineer-i-2025",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "Austin, TX",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
