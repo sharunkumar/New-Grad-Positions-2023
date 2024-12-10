@@ -201,7 +201,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **NVIDIA** | System Software Engineer – New College Grad 2024 - CUDA Driver | Santa Clara, CA | 🔒 | Oct 23 |
 | **[HeyGen](https://simplify.jobs/c/HeyGen)** | Software Engineer – University Graduate | <details><summary>**4 locations**</summary>Palo Alto, CA</br>Toronto, ON, Canada</br>SF</br>LA</details> | <a href="https://job-boards.greenhouse.io/heygen/jobs/4546885007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d77772a3-fe1a-4758-be2e-00c66afa4864?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 22 |
 | **[Whoop](https://simplify.jobs/c/Whoop)** | Software Engineer I - Backend - Business Systems | Boston, MA | <a href="https://jobs.lever.co/whoop/28400f2f-6097-4e64-8226-b3d40820effa/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6c17489c-8160-4596-9920-425d791bb02d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 22 |
-| **[Hallow](https://simplify.jobs/c/Hallow)** | Junior Backend Developer | Chicago, IL | <a href="https://jobs.lever.co/hallow/e14361be-5685-48a9-a537-b44a80f10829/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4bf1f59b-a19e-4586-8296-1e8a3d578dda?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 22 |
+| **Hallow** | Junior Backend Developer | Chicago, IL | 🔒 | Oct 22 |
 | **Recast** | Junior Customer Data Scientist | Remote in USA | 🔒 | Oct 21 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | Palo Alto, CA | 🔒 | Oct 21 |
 | **Old Mission** | College Graduates - Full-Time - Junior Full-Stack Engineer - 2025 | Chicago, IL | 🔒 | Oct 21 |
@@ -213,7 +213,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Signify Health** | Data Software Engineer I | Remote in USA | 🔒 | Oct 17 |
 | **Applied Materials** | 2025 University Graduate - Software Engineer - Bachelor's Degree | Santa Clara, CA | 🔒 | Oct 17 |
 | **ManTech** | Junior Software Engineer | Chantilly, VA | 🔒 | Oct 16 |
-| **WeRide** | New Grads 2025 - Software Engineer - Computer Vision/Deep Learning | San Jose, CA | 🔒 | Oct 16 |
+| **[WeRide](https://simplify.jobs/c/WeRide)** | New Grads 2025 - Software Engineer - Computer Vision/Deep Learning | San Jose, CA | <a href="https://jobs.lever.co/weride/871b07f9-b4e4-4a4e-a5ec-d6adf794fc5a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/89936ca8-3004-4613-9cbc-677a399096c9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 16 |
 | **Adobe** | 2025 University Graduate - Software Development Engineer | Seattle, WA</br>San Jose, CA | 🔒 | Oct 16 |
 | **Adobe** | 2025 University Graduate - Software Development Engineer | San Jose, CA | 🔒 | Oct 16 |
 | **Splunk** | C++ Software Engineer – Early Career - Boulder - CO - January 2025 or sooner start date | Boulder, CO | 🔒 | Oct 15 |
