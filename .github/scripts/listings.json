@@ -23174,5 +23174,37 @@
         "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apple",
+        "id": "c900b0a6-0a0f-4418-9fb9-58aedbcaed9c",
+        "title": "Software Development Engineer in Test \u2013 Early Career - Swift - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1733888408,
+        "date_posted": 1733888408,
+        "url": "https://jobs.apple.com/en-us/details/200572390",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apple",
+        "id": "c40600fe-3204-4ef3-a6f8-313c10e01067",
+        "title": "Early Careers System Software Engineer",
+        "active": true,
+        "date_updated": 1733888252,
+        "date_posted": 1733888252,
+        "url": "https://jobs.apple.com/en-us/details/200575008",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
