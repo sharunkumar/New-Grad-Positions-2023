@@ -105,7 +105,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **ConnectWise** | Software Engineer I | Florida | 🔒 | Nov 20 |
 | **[Kikoff](https://simplify.jobs/c/Kikoff)** | Software Engineer - Recent College Graduate | San Francisco, CA | <a href="https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Nike** | Software Engineer I | Beaverton, OR | 🔒 | Nov 19 |
-| **[PVM](https://simplify.jobs/c/PVM,-Inc.)** | Junior Full Stack Developer | Remote in USA | <a href="https://job-boards.greenhouse.io/pvminc/jobs/4586078007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/eaaa11d3-0b7a-4dfd-94dd-4563ac725209?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 19 |
+| **PVM** | Junior Full Stack Developer | Remote in USA | 🔒 | Nov 19 |
 | **Salesforce** | Associate Data Scientist – New Grad - Data & Analytics | Indianapolis, IN</br>Dallas, TX</br>Atlanta, GA | 🔒 | Nov 19 |
 | **[Kikoff](https://simplify.jobs/c/Kikoff)** | Software Engineer – Recent College Graduate | SF | <a href="https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/27cc8c3f-c592-4e44-a1dc-093891d04163?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 18 |
 | **USAA** | Data Engineer I | Remote in USA | 🔒 | Nov 18 |
@@ -237,7 +237,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Affirm** | Software Engineer I | Remote in Canada | 🔒 | Oct 09 |
 | **Universal Music Group** | Junior Software Developer | NYC | 🔒 | Oct 09 |
 | **Codazen** | Full-Stack Engineer Summer 2025 New Grad | Irvine, CA | 🔒 | Oct 08 |
-| **[Spotify](https://simplify.jobs/c/Spotify)** | Junior Backend Engineer - Content Catalog | London, UK | <a href="https://jobs.lever.co/spotify/934ede25-003a-4af6-84ee-a8dc5555f243/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/629cafe7-a191-416e-908a-fea248a8a65d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 08 |
+| **Spotify** | Junior Backend Engineer - Content Catalog | London, UK | 🔒 | Oct 08 |
 | **[Dev Technology Group](https://simplify.jobs/c/DevTechGrp)** | Junior Full Stack React/Node.js Developer | Remote in USA | <a href="https://job-boards.greenhouse.io/devtechnology/jobs/7615403002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3049464d-b65b-427f-88d8-a7cf13f406ad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 08 |
 | **Flexport** | Software Engineer I - Forwarding Applications | Bellevue, WA | 🔒 | Oct 07 |
 | **Geico** | Engineer I - Software Engineer | Bethesda, MD | 🔒 | Oct 07 |
