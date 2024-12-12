@@ -406,7 +406,7 @@
         "company_name": "Replo",
         "id": "6b914596-3d09-4136-b34d-72d820620116",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1718272246,
         "date_posted": 1718272246,
         "url": "https://jobs.ashbyhq.com/replo/ec206174-ccc2-42fa-b295-8201421f21b0/application",
@@ -17297,7 +17297,7 @@
         "company_name": "Palantir",
         "id": "791ef167-9292-42dd-9cf5-714780fb6097",
         "title": "Forward Deployed Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1722526595,
         "date_posted": 1722526595,
         "url": "https://jobs.lever.co/palantir/73f6f11a-8165-4009-8dba-cc78ab9ca990/apply",
@@ -22534,7 +22534,7 @@
         "company_name": "HashiCorp",
         "id": "6f337bae-f589-4c0b-b54f-aa69d04a47e6",
         "title": "Software Engineer I - Backend - HCP Terraform",
-        "active": true,
+        "active": false,
         "date_updated": 1732135703,
         "date_posted": 1732135703,
         "url": "https://www.hashicorp.com/career/6388530?gh_jid=6388530",
@@ -22857,7 +22857,7 @@
         "company_name": "PDI Technologies",
         "id": "4278df4c-5b91-4c71-9c62-af9d7ab092af",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1732896607,
         "date_posted": 1732896607,
         "url": "https://jobs.lever.co/pditechnologies/10399232-feaf-46f7-af77-154c9ac6b046/apply",
@@ -23204,6 +23204,22 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "f5241cea-0fc8-479a-b94e-b9b2515f6c27",
+        "title": "Cloud Software Engineer 1",
+        "active": true,
+        "date_updated": 1734036978,
+        "date_posted": 1733444014,
+        "url": "https://jobs.lever.co/wyetechllc/7c89133b-b6c8-48be-92e8-15e01cccdd9c/apply",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other"
     }
