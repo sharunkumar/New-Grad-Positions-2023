@@ -410,7 +410,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Gecko Robotics](https://simplify.jobs/c/Gecko-Robotics)** | Embedded Software Engineer - New Graduate | Pittsburgh, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=c161948f-001d-45e4-a340-776cfccc1ff2#open-positions&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | **[Gecko Robotics](https://simplify.jobs/c/Gecko-Robotics)** | Software Engineer - New Graduate | Boston, MA | <a href="https://www.geckorobotics.com/careers?ashby_jid=34464bf6-1c55-4aed-8d08-ac43c7c965d1#open-positions&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | **Verkada** | Security Software Engineer – Early Career | San Mateo, CA | 🔒 | Aug 21 |
-| **[Vectra](https://simplify.jobs/c/Vectra)** | Software Engineer – New College Graduate | Austin, TX</br>Remote in USA | <a href="https://boards.greenhouse.io/vectranetworks/jobs/6142089?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9a63bd39-e642-47f1-b2af-0665cb194cac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 21 |
+| **Vectra** | Software Engineer – New College Graduate | Austin, TX</br>Remote in USA | 🔒 | Aug 21 |
 | **Qloo** | Junior Data Engineer | NYC | 🔒 | Aug 21 |
 | **Hudson River Trading** | Software Engineer – 2025 Grads - C++ | NYC | 🔒 | Aug 19 |
 | **Figma** | Software Engineer – Early Career - 2025 | SF</br>NYC | 🔒 | Aug 19 |
