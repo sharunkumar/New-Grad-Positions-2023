@@ -4239,7 +4239,7 @@
         "company_name": "Palantir",
         "id": "ebf96118-757e-4330-8907-6871eeb1650f",
         "title": "Software Engineer \u2013 New Grad - US Government",
-        "active": false,
+        "active": true,
         "date_updated": 1719847228,
         "date_posted": 1719847228,
         "url": "https://jobs.lever.co/palantir/a771a3d8-a99f-4df1-b250-a9a30c6dd070/apply",
@@ -18637,7 +18637,7 @@
         "company_name": "TSC",
         "id": "d06cb150-5167-4f61-8872-fbc267181d23",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1725925764,
         "date_posted": 1725925764,
         "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR1709",
@@ -20485,7 +20485,7 @@
         "company_name": "Splunk",
         "id": "f2367b5a-f837-4457-b707-c2e1d40c31c0",
         "title": "C++ Software Engineer \u2013 Early Career - Boulder - CO - January 2025 or sooner start date",
-        "active": false,
+        "active": true,
         "date_updated": 1729005628,
         "date_posted": 1729005628,
         "url": "https://jobs.jobvite.com/splunk-careers/job/oFXGufww?nl=1&nl=1&fr=false",
@@ -22938,7 +22938,7 @@
         "company_name": "Whoop",
         "id": "092287a4-c147-4bfb-8fd9-f2e1239788be",
         "title": "Software Engineer I - Web - Growth",
-        "active": true,
+        "active": false,
         "date_updated": 1733279354,
         "date_posted": 1729868686,
         "url": "https://jobs.lever.co/whoop/75128842-8e4a-4281-931a-e385e6a830ee/apply",
@@ -23252,6 +23252,38 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Ethena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "32575ea6-17ad-440c-905f-8f54fdb21883",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1734039036,
+        "date_posted": 1733847885,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I_R13089-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "esri",
+        "id": "e39d70fb-63a6-4417-bfc1-0ffd9d8a0fd3",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1734039803,
+        "date_posted": 1733501694,
+        "url": "https://www.esri.com/careers/4598042007?gh_jid=4598042007",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
         "is_visible": true,
         "sponsorship": "Other"
     }
