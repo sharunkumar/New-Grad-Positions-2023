@@ -77,12 +77,12 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Parsons** | Software Engineer 1 | Odenton, MD | 🔒 | Dec 03 |
 | **Spotify** | Data Engineer I - Licensing | Remote in USA | 🔒 | Dec 02 |
 | **PDI Technologies** | Software Engineer I | Maidenhead, UK | 🔒 | Nov 29 |
-| **PDI Technologies** | Software Engineer I | Maidenhead, UK | 🔒 | Nov 29 |
+| **[PDI Technologies](https://simplify.jobs/c/c202599e-d952-4aab-a921-e4ecf64a1dea)** | Software Engineer I | Maidenhead, UK | <a href="https://jobs.lever.co/pditechnologies/a5ad0d2d-d1d2-491e-a011-3ddaca65cb75/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d2b02f74-dd02-4228-8b8d-960a2b3c21cf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 29 |
 | **[Okta](https://simplify.jobs/c/Okta)** | Software Engineer – New Graduate - Android - Okta Personal | Toronto, ON, Canada | <a href="https://www.okta.com/company/careers/opportunity/6414255?gh_jid=6414255&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ace6e374-a5ec-4727-9bd1-c2bc4b3e370d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 27 |
 | **Capital One** | Associate – New Grad - Software Engineer | Toronto, ON, Canada | 🔒 | Nov 26 |
 | **Visa** | Software Engineer – New College Grad | Ashburn, VA | 🔒 | Nov 26 |
 | **Visa** | Software Engineer – New College Grad | San Mateo, CA | 🔒 | Nov 26 |
-| **[Replit](https://simplify.jobs/c/Replit)** | Software Engineer – New Grad 2025 | San Mateo, CA | <a href="https://jobs.ashbyhq.com/replit/65e019be-7536-45a9-9413-78b203af6565/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/92fd72fe-815f-4b3c-a8b0-0769e141c2e3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 26 |
+| **Replit** | Software Engineer – New Grad 2025 | San Mateo, CA | 🔒 | Nov 26 |
 | **Grand Rounds** | Software Engineer – 2025 New College Grad - Treat Team | Remote in USA | 🔒 | Nov 25 |
 | **Twitch** | Software Engineer I - IOS | SF | 🔒 | Nov 23 |
 | **Twitch** | Software Engineer I - IOS | Seattle, WA | 🔒 | Nov 23 |
@@ -484,7 +484,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | 🔒 | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | Washington, DC | 🔒 | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | 🔒 | Jul 01 |
-| **Palantir** | Forward Deployed Software Engineer – New Grad | NYC | 🔒 | Jul 01 |
+| **[Palantir](https://simplify.jobs/c/Palantir)** | Forward Deployed Software Engineer – New Grad | NYC | <a href="https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/629d4b11-0984-442c-b615-51b48771615b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 01 |
 | **Nium** | Backend Engineer - Sde I | SF | 🔒 | Jun 28 |
 | **Jerry** | Software Engineer I - Toronto | Toronto, ON, Canada | 🔒 | Jun 28 |
 | **Openmesh Networks** | Junior Machine Learning Engineer - ML Applications in Web3 | Remote in USA</br>NYC | 🔒 | Jun 27 |
