@@ -1240,7 +1240,7 @@
         "company_name": "Arsiem Corporation",
         "id": "5765157d-e801-40cb-884d-02c9e9a0b24d",
         "title": "Software Engineer 0",
-        "active": true,
+        "active": false,
         "date_updated": 1716253815,
         "date_posted": 1691046794,
         "url": "https://jobs.lever.co/arsiem/784ffcee-4c39-4d4d-858f-5c5b2b9812f3/apply",
@@ -4303,7 +4303,7 @@
         "company_name": "Palantir",
         "id": "395bbd57-d183-4045-a5a9-d66137760142",
         "title": "Software Engineer \u2013 New Grad - US Government",
-        "active": false,
+        "active": true,
         "date_updated": 1719847226,
         "date_posted": 1719847226,
         "url": "https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply",
@@ -18589,7 +18589,7 @@
         "company_name": "TSC",
         "id": "b6199ede-2821-4844-8cc0-85107b4525ba",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1725925847,
         "date_posted": 1725925847,
         "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Bloomington-IN/Software-Engineer-I_JR1283",
@@ -22003,7 +22003,7 @@
         "company_name": "Electric Mind",
         "id": "77cc1fe0-d2b4-4e0b-b646-51ef60dff6b7",
         "title": "Junior Software Developer - Full Stack",
-        "active": false,
+        "active": true,
         "date_updated": 1730258398,
         "date_posted": 1730258398,
         "url": "https://jobs.lever.co/intelliware/759b57c3-a5c3-4698-af78-66b3591bb936/apply",
@@ -22598,7 +22598,7 @@
         "company_name": "Perseus Group",
         "id": "3bc586c5-34d8-4589-9c21-499f6f694e57",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1732177485,
         "date_posted": 1732177485,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Remote---USA/Software-Engineer-I_R41493",
@@ -23220,6 +23220,22 @@
             "Laurel, MD"
         ],
         "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "esri",
+        "id": "65528c19-d32e-41a1-a096-33eef2aa5939",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1734037277,
+        "date_posted": 1733501693,
+        "url": "https://www.esri.com/careers/4598044007?gh_jid=4598044007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
         "is_visible": true,
         "sponsorship": "Other"
     }
