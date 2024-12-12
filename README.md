@@ -98,7 +98,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Parsons** | Data Engineer - Junior - Ts/Sci Poly | Honolulu, HI | 🔒 | Nov 21 |
 | **Parsons** | Junior Software Developer - Hybrid | Scott AFB, IL</br>United States | 🔒 | Nov 21 |
 | **NVIDIA** | Software Engineer – New College Grad 2025 - Virtualization | Santa Clara, CA | 🔒 | Nov 21 |
-| **HashiCorp** | Software Engineer I - Backend - HCP Terraform | Remote in USA | 🔒 | Nov 21 |
+| **[HashiCorp](https://simplify.jobs/c/HashiCorp)** | Software Engineer I - Backend - HCP Terraform | Remote in USA | <a href="https://www.hashicorp.com/career/6388536?gh_jid=6388536&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ea2ed181-5861-4ce9-9c88-6be63fe79948?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 21 |
 | **[HashiCorp](https://simplify.jobs/c/HashiCorp)** | Software Engineer I - Backend - HCP Terraform | Remote in USA | <a href="https://www.hashicorp.com/career/6388530?gh_jid=6388530&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6f337bae-f589-4c0b-b54f-aa69d04a47e6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 20 |
 | **Collaborative Robotics** | Software Engineer – University Grad - Robotics |  | 🔒 | Nov 20 |
 | **Collaborative Robotics** | Software Engineer – University Grad - Test | Santa Clara, CA | 🔒 | Nov 20 |
