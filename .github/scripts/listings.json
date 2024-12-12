@@ -23286,5 +23286,22 @@
         "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vertex",
+        "id": "556f6c8c-5bcf-4f92-8f77-def8cc29432f",
+        "title": "Software Developer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1734043329,
+        "date_posted": 1734043329,
+        "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/Software-Developer--New-Grad--Summer-2025-Start-_JR101601-2",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/00f3d97e-1dbe-4838-ab8c-b851f2ed22b9",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
