@@ -23319,5 +23319,21 @@
         "company_url": "https://simplify.jobs/c/Cape",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Twitch",
+        "id": "1198ad12-aa89-4c98-a540-1c061c867d9b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1734048968,
+        "date_posted": 1734048968,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/7766033002",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
