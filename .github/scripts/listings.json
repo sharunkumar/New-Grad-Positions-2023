@@ -23303,5 +23303,21 @@
         "company_url": "https://simplify.jobs/c/00f3d97e-1dbe-4838-ab8c-b851f2ed22b9",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cape",
+        "id": "c7b67a0d-b856-4a1a-bb89-267aa0fad336",
+        "title": "New College Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1734048595,
+        "date_posted": 1734048595,
+        "url": "https://jobs.ashbyhq.com/cape/bd280ded-4298-47de-a186-1aebd1bd94b8/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cape",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
