@@ -23335,5 +23335,22 @@
         "company_url": "https://simplify.jobs/c/Twitch",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parsons",
+        "id": "99de0caa-f47b-4557-90e2-a67292ba6436",
+        "title": "Junior Software Developer - Java/C#",
+        "active": true,
+        "date_updated": 1734122665,
+        "date_posted": 1734122665,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IL-Scott-AFB/Junior-Software-Developer---Java-C---Hybrid-_R162017",
+        "locations": [
+            "Scott AFB, IL",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
