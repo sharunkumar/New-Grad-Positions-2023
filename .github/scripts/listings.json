@@ -23352,5 +23352,21 @@
         "company_url": "https://simplify.jobs/c/Parsons",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "7c6df3df-50fe-42ed-a60e-06d258c0227f",
+        "title": "2025 Graduate Software Engineer I",
+        "active": true,
+        "date_updated": 1734135155,
+        "date_posted": 1734135155,
+        "url": "https://university-uber.icims.com/jobs/138477/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
