@@ -4319,7 +4319,7 @@
         "company_name": "Palantir",
         "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": false,
+        "active": true,
         "date_updated": 1719861792,
         "date_posted": 1719847211,
         "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
@@ -4335,7 +4335,7 @@
         "company_name": "Palantir",
         "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": false,
+        "active": true,
         "date_updated": 1719847210,
         "date_posted": 1719847210,
         "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
@@ -16651,7 +16651,7 @@
         "company_name": "Valkyrie Trading",
         "id": "70e4d8e9-e161-4ec1-b005-7d639916db29",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1724888352,
         "date_posted": 1724888352,
         "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply",
@@ -22003,7 +22003,7 @@
         "company_name": "Electric Mind",
         "id": "77cc1fe0-d2b4-4e0b-b646-51ef60dff6b7",
         "title": "Junior Software Developer - Full Stack",
-        "active": false,
+        "active": true,
         "date_updated": 1730258398,
         "date_posted": 1730258398,
         "url": "https://jobs.lever.co/intelliware/759b57c3-a5c3-4698-af78-66b3591bb936/apply",
@@ -23380,6 +23380,22 @@
         "url": "https://www.uber.com/global/en/careers/list/138477/",
         "locations": [],
         "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Meta",
+        "id": "e0631fe8-09cf-4c09-8af9-01e0cfc6acab",
+        "title": "Software Engineer \u2013 University Grad",
+        "active": true,
+        "date_updated": 1734042617,
+        "date_posted": 1734042617,
+        "url": "https://www.metacareers.com/jobs/1053055982811649",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
         "is_visible": true,
         "sponsorship": "Other"
     }
