@@ -23382,5 +23382,21 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Meta",
+        "id": "e0631fe8-09cf-4c09-8af9-01e0cfc6acab",
+        "title": "Software Engineer \u2013 University Grad",
+        "active": true,
+        "date_updated": 1734042617,
+        "date_posted": 1734042617,
+        "url": "https://www.metacareers.com/jobs/1053055982811649",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
