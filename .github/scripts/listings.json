@@ -17682,7 +17682,7 @@
         "company_name": "Verkada",
         "id": "fc6f06da-06c1-42c1-a421-a038eb9081fe",
         "title": "Security Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1724440781,
         "date_posted": 1724284038,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4488331007",
@@ -23430,6 +23430,22 @@
             "Provo, UT"
         ],
         "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenGov",
+        "id": "88697728-7ff5-418e-bb65-c3a1471f0ff8",
+        "title": "Software Engineer I - Rev",
+        "active": true,
+        "date_updated": 1734641266,
+        "date_posted": 1734641266,
+        "url": "https://jobs.lever.co/opengov/7229d314-75b6-4dde-bf6f-78d9627cf5b2/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenGov",
         "is_visible": true,
         "sponsorship": "Other"
     }
