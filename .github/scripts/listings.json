@@ -23496,5 +23496,21 @@
         "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigiCert",
+        "id": "01401556-fa73-468b-a865-86581c5d7f2c",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1734727193,
+        "date_posted": 1734727193,
+        "url": "https://www.digicert.com/careers/?gh_jid=7780735002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigiCert",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
