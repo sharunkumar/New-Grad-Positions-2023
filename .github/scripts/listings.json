@@ -23448,5 +23448,21 @@
         "company_url": "https://simplify.jobs/c/OpenGov",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia Group",
+        "id": "6b7ea88e-ec3f-4ee6-b174-ca450671fc35",
+        "title": "Software Development Engineer I - Marketplace Technology",
+        "active": true,
+        "date_updated": 1734668392,
+        "date_posted": 1734668392,
+        "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-I---Marketplace-Technology_R-93087-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3e019fc3-52c2-459d-b7e9-b5acd6029da0",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
