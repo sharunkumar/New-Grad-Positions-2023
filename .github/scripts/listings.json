@@ -23480,5 +23480,21 @@
         "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Manulife",
+        "id": "015d2655-249b-44e4-ace0-befdd7183f8e",
+        "title": "Software Engineering New Graduate Program 2025",
+        "active": true,
+        "date_updated": 1734726122,
+        "date_posted": 1734726122,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Boston-Massachusetts/Software-Engineering-New-Graduate-Program-2025_JR24061536",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
