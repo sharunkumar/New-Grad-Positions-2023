@@ -23464,5 +23464,21 @@
         "company_url": "https://simplify.jobs/c/3e019fc3-52c2-459d-b7e9-b5acd6029da0",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "State Street",
+        "id": "554475c6-8756-4779-92c9-1b1141a543a8",
+        "title": "Software Engineer I \u2013 Senior Associate",
+        "active": true,
+        "date_updated": 1734711324,
+        "date_posted": 1734711324,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I---Senior-Associate---Charles-River-Development-6_R-756578",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
