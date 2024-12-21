@@ -23512,5 +23512,21 @@
         "company_url": "https://simplify.jobs/c/DigiCert",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nike",
+        "id": "0822ed58-c826-45f2-8710-9c2a0ab5d511",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1734739935,
+        "date_posted": 1734739935,
+        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Machine-Learning-Engineer-I_R-45600",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Nike",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
