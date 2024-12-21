@@ -323,7 +323,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Duolingo** | Data Scientist I – New Graduate | NYC | 🔒 | Sep 18 |
 | **Medtronic** | Software Engineer I - Mobile Apps - California | LA</br>Northridge, LA</br>San Diego, CA | 🔒 | Sep 18 |
 | **Pinterest** | University Grad Software Engineer - USA | Remote in USA | 🔒 | Sep 17 |
-| **Genesis Therapeutics** | Software Engineer – New Grad | Burlingame, CA | 🔒 | Sep 17 |
+| **[Genesis Therapeutics](https://simplify.jobs/c/Genesis-Thera)** | Software Engineer – New Grad | Burlingame, CA | <a href="https://jobs.lever.co/genesistherapeutics/528d24ad-745a-4eed-a883-c0fbba5aa624/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/decb3730-fd92-400a-a430-d51f92632fcf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 17 |
 | **GitHub** | Software Engineer I - Copilot | Remote in USA | 🔒 | Sep 17 |
 | **Applied Intuition** | Embedded Software Engineer – New Grad | Mountain View, CA | 🔒 | Sep 16 |
 | **Visa** | Software Engineer – New College Grad - 2025 🛂 | San Mateo, CA | 🔒 | Sep 16 |
@@ -415,7 +415,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Verkada** | Security Software Engineer - University Graduate 2025 | San Mateo, CA | 🔒 | Aug 26 |
 | **Verkada** | Backend Software Engineer - University Graduate 2025 | San Mateo, CA | 🔒 | Aug 26 |
 | **Verkada** | Android Software Engineer - University Graduate 2025 | San Mateo, CA | 🔒 | Aug 26 |
-| **Palantir** | Software Engineer – New Grad | Seattle, WA | 🔒 | Aug 23 |
+| **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad | Seattle, WA | <a href="https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f0bfc241-81bc-4e41-9302-f5eca6339fdf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 23 |
 | **Pax8** | Data Engineer I | United States | 🔒 | Aug 23 |
 | **Applied Intuition** | Software Engineer – New Grad | Mountain View, CA | 🔒 | Aug 23 |
 | **Stripe** | Software Engineer – New Grad | Seattle, WA</br>SF | 🔒 | Aug 23 |
