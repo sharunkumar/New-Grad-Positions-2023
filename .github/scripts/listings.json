@@ -17538,7 +17538,7 @@
         "company_name": "TransMarket Group",
         "id": "f3b0c582-740f-4e42-8501-158b3c020fcb",
         "title": "Junior Quantitative Trader",
-        "active": false,
+        "active": true,
         "date_updated": 1718752993,
         "date_posted": 1717197026,
         "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4389335007?gh_jid=4389335007",
@@ -21071,7 +21071,7 @@
         "company_name": "Splunk",
         "id": "0cbafbb6-2529-4080-8b8a-79b6ce3dcead",
         "title": "Software Engineer - Backend/Fullstack - Early in Career - Vancouver - Bc - Jan 2025 or sooner start date",
-        "active": false,
+        "active": true,
         "date_updated": 1730330325,
         "date_posted": 1730330325,
         "url": "https://jobs.jobvite.com/splunk-careers/job/oxpLufwV?nl=1&nl=1&fr=false",
@@ -22518,7 +22518,7 @@
         "company_name": "Collaborative Robotics",
         "id": "3ebd406d-f301-4f9e-ba78-0b08cdd6ad54",
         "title": "Software Engineer \u2013 University Grad - Test",
-        "active": false,
+        "active": true,
         "date_updated": 1732075995,
         "date_posted": 1732075995,
         "url": "https://boards.greenhouse.io/collaborativerobotics/jobs/4585344007",
@@ -23526,6 +23526,22 @@
             "Beaverton, OR"
         ],
         "company_url": "https://simplify.jobs/c/Nike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "c81786b0-5740-4652-a330-81d410d9fd0f",
+        "title": "University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1734754122,
+        "date_posted": 1734754122,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2025-University-Graduate---Software-Engineer_R148175",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other"
     }
