@@ -23544,5 +23544,21 @@
         "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sierra Space",
+        "id": "cd206ff9-ec4e-459f-b243-478124c8d160",
+        "title": "Flight Software Engineer I",
+        "active": true,
+        "date_updated": 1734985286,
+        "date_posted": 1734985286,
+        "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Flight-Software-Engineer-I_R24489-1",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/7c59eec1-bec1-4ecd-a87c-11886be75a7a",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
