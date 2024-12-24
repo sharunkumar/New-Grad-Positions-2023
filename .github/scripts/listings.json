@@ -23560,5 +23560,21 @@
         "company_url": "https://simplify.jobs/c/7c59eec1-bec1-4ecd-a87c-11886be75a7a",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TLNT & Spin",
+        "id": "aadfd443-02b9-4295-b1c1-f2afa40bc5db",
+        "title": "Founding Engineer",
+        "active": true,
+        "date_updated": 1734999682,
+        "date_posted": 1734999682,
+        "url": "https://jobs.lever.co/tlnt/93780719-ca06-4d43-888a-e6b5d5a55cd4/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/b762fbbd-f864-4440-9dc6-53c92632ce9e",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
