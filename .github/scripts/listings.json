@@ -19499,7 +19499,7 @@
         "company_name": "Subsplash",
         "id": "edad236e-3134-4c79-b028-4f358e263660",
         "title": "Software Development Engineer I - Back-end",
-        "active": true,
+        "active": false,
         "date_updated": 1728076924,
         "date_posted": 1727133027,
         "url": "https://boards.greenhouse.io/subsplash/jobs/7653784002",
@@ -23438,7 +23438,7 @@
         "company_name": "OpenGov",
         "id": "88697728-7ff5-418e-bb65-c3a1471f0ff8",
         "title": "Software Engineer I - Rev",
-        "active": false,
+        "active": true,
         "date_updated": 1734641266,
         "date_posted": 1734641266,
         "url": "https://jobs.lever.co/opengov/7229d314-75b6-4dde-bf6f-78d9627cf5b2/apply",
@@ -23470,7 +23470,7 @@
         "company_name": "State Street",
         "id": "554475c6-8756-4779-92c9-1b1141a543a8",
         "title": "Software Engineer I \u2013 Senior Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1734711324,
         "date_posted": 1734711324,
         "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I---Senior-Associate---Charles-River-Development-6_R-756578",
@@ -23542,6 +23542,38 @@
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sierra Space",
+        "id": "cd206ff9-ec4e-459f-b243-478124c8d160",
+        "title": "Flight Software Engineer I",
+        "active": true,
+        "date_updated": 1734985286,
+        "date_posted": 1734985286,
+        "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Flight-Software-Engineer-I_R24489-1",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/7c59eec1-bec1-4ecd-a87c-11886be75a7a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TLNT & Spin",
+        "id": "aadfd443-02b9-4295-b1c1-f2afa40bc5db",
+        "title": "Founding Engineer",
+        "active": true,
+        "date_updated": 1734999682,
+        "date_posted": 1734999682,
+        "url": "https://jobs.lever.co/tlnt/93780719-ca06-4d43-888a-e6b5d5a55cd4/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/b762fbbd-f864-4440-9dc6-53c92632ce9e",
         "is_visible": true,
         "sponsorship": "Other"
     }
