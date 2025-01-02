@@ -234,8 +234,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Recast** | Junior Customer Data Scientist | Remote in USA | 🔒 | Oct 21 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | Palo Alto, CA | 🔒 | Oct 21 |
 | **Old Mission** | College Graduates - Full-Time - Junior Full-Stack Engineer - 2025 | Chicago, IL | 🔒 | Oct 21 |
-| **Samsara** | Software Engineer – New Grad - US | Remote in USA | 🔒 | Oct 21 |
-| **Samsara** | Software Engineer – New Grad - Canada | Remote in Canada | 🔒 | Oct 21 |
+| **[Samsara](https://simplify.jobs/c/Samsara)** | Software Engineer – New Grad - US | Remote in USA | <a href="https://www.samsara.com/company/careers/roles/6294998?gh_jid=6294998&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f095768b-40f5-45a6-bc3b-dc38eea33fbf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 21 |
+| **[Samsara](https://simplify.jobs/c/Samsara)** | Software Engineer – New Grad - Canada | Remote in Canada | <a href="https://www.samsara.com/company/careers/roles/6340273?gh_jid=6340273&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/87cd4482-91d7-4f32-819b-f5e8bd26472b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 21 |
 | **Grand Rounds** | Android Engineer – 2024 New Grad - Treat Team | Remote in USA | 🔒 | Oct 18 |
 | **Splunk** | Fedramp Software Engineer – Early Career - Boulder - CO - Jan 2025 Start - US Citizens ONLY | Boulder, CO | 🔒 | Oct 17 |
 | **Adobe** | 2025 University Graduate - Software Engineer | San Jose, CA | 🔒 | Oct 17 |
