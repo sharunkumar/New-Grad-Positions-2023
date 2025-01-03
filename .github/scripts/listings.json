@@ -23576,5 +23576,21 @@
         "company_url": "https://simplify.jobs/c/b762fbbd-f864-4440-9dc6-53c92632ce9e",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia Group",
+        "id": "bf72c6ee-f17d-4d45-959d-cb2a94f6ba55",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1735892202,
+        "date_posted": 1735892202,
+        "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Data-Engineer-I_R-92957",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/3e019fc3-52c2-459d-b7e9-b5acd6029da0",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
