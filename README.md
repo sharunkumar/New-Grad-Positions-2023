@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital)** | Software Engineer I | Charleston, SC | <a href="https://www.tower-research.com/open-positions/?gh_jid=6509245&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2a69b4fb-f406-4078-947a-519ea6b00f8c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 06 |
 | **Expedia Group** | Data Engineer I | Seattle, WA | 🔒 | Jan 03 |
 | **[TLNT & Spin](https://simplify.jobs/c/b762fbbd-f864-4440-9dc6-53c92632ce9e)** | Founding Engineer | SF | <a href="https://jobs.lever.co/tlnt/93780719-ca06-4d43-888a-e6b5d5a55cd4/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/aadfd443-02b9-4295-b1c1-f2afa40bc5db?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 24 |
 | **Sierra Space** | Flight Software Engineer I | Centennial, CO | 🔒 | Dec 23 |
