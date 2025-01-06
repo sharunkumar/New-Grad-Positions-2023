@@ -64,7 +64,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | --- | --- | --- | :---: | :---: |
 | **Expedia Group** | Data Engineer I | Seattle, WA | 🔒 | Jan 03 |
 | **[TLNT & Spin](https://simplify.jobs/c/b762fbbd-f864-4440-9dc6-53c92632ce9e)** | Founding Engineer | SF | <a href="https://jobs.lever.co/tlnt/93780719-ca06-4d43-888a-e6b5d5a55cd4/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/aadfd443-02b9-4295-b1c1-f2afa40bc5db?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 24 |
-| **[Sierra Space](https://simplify.jobs/c/7c59eec1-bec1-4ecd-a87c-11886be75a7a)** | Flight Software Engineer I | Centennial, CO | <a href="https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Flight-Software-Engineer-I_R24489-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/cd206ff9-ec4e-459f-b243-478124c8d160?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 23 |
+| **Sierra Space** | Flight Software Engineer I | Centennial, CO | 🔒 | Dec 23 |
 | **Adobe** | University Graduate - Software Engineer | Lehi, UT | 🔒 | Dec 21 |
 | **Nike** | Machine Learning Engineer I | Beaverton, OR | 🔒 | Dec 21 |
 | **DigiCert** | Junior Software Engineer | Remote in USA | 🔒 | Dec 20 |
