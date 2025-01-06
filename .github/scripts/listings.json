@@ -20793,7 +20793,7 @@
         "company_name": "DoorDash",
         "id": "5edec334-b85d-4c7f-98ed-2b4a890c45cc",
         "title": "Software Engineer I \u2013 Entry Level - Fall 2024-Summer 2025 - Toronto",
-        "active": true,
+        "active": false,
         "date_updated": 1729811488,
         "date_posted": 1729811488,
         "url": "https://boards.greenhouse.io/doordashcanada/jobs/6346397",
@@ -23550,7 +23550,7 @@
         "company_name": "Sierra Space",
         "id": "cd206ff9-ec4e-459f-b243-478124c8d160",
         "title": "Flight Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1734985286,
         "date_posted": 1734985286,
         "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Flight-Software-Engineer-I_R24489-1",
@@ -23590,6 +23590,22 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/3e019fc3-52c2-459d-b7e9-b5acd6029da0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tower Research Capital",
+        "id": "2a69b4fb-f406-4078-947a-519ea6b00f8c",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1736179857,
+        "date_posted": 1736179857,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=6509245",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
         "is_visible": true,
         "sponsorship": "Other"
     }
