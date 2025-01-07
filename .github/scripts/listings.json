@@ -23688,5 +23688,21 @@
         "company_url": "https://simplify.jobs/c/Snorkel-AI",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wiley Edge",
+        "id": "c51779ec-2912-4316-98f8-75c20a338b27",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1736282613,
+        "date_posted": 1736282613,
+        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4406180006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/WileyEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
