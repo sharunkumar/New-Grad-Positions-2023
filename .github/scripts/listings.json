@@ -16859,7 +16859,7 @@
         "company_name": "IXL Learning",
         "id": "35cdb21e-9750-4e56-a9bf-25484eb799fd",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1721056746,
         "date_posted": 1721056746,
         "url": "https://www.ixl.com/company/jobs?gh_jid=7535059002",
@@ -17217,7 +17217,7 @@
         "company_name": "IXL Learning",
         "id": "ee7c46a9-d26c-47fa-b4f4-9ae10f5935d2",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1721056749,
         "date_posted": 1721056749,
         "url": "https://www.ixl.com/company/jobs?gh_jid=7535470002",
@@ -22504,7 +22504,7 @@
         "company_name": "Collaborative Robotics",
         "id": "17e5ea12-1a3a-407e-afe3-2431eedc6f20",
         "title": "Software Engineer \u2013 University Grad - Robotics",
-        "active": true,
+        "active": false,
         "date_updated": 1732076011,
         "date_posted": 1732076011,
         "url": "https://boards.greenhouse.io/collaborativerobotics/jobs/4585557007",
@@ -22518,7 +22518,7 @@
         "company_name": "Collaborative Robotics",
         "id": "3ebd406d-f301-4f9e-ba78-0b08cdd6ad54",
         "title": "Software Engineer \u2013 University Grad - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1732075995,
         "date_posted": 1732075995,
         "url": "https://boards.greenhouse.io/collaborativerobotics/jobs/4585344007",
@@ -23606,6 +23606,70 @@
             "Charleston, SC"
         ],
         "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "693e2ffc-b4e3-4317-bd5c-3a76ce4d9e2a",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1736195086,
+        "date_posted": 1736195086,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000035003601",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "f93549eb-5ee4-48da-ae9a-f24e4344de0b",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1736195086,
+        "date_posted": 1736195086,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000035000408",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GitHub",
+        "id": "5fe02ed4-a77a-4cda-88be-c1eb853e0bcf",
+        "title": "Software Engineer I - Copilot Agent Services",
+        "active": true,
+        "date_updated": 1736196001,
+        "date_posted": 1736196001,
+        "url": "https://githubinc.jibeapply.com/jobs/3904?lang=en-us&icims=1",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GitHub",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wiley Edge",
+        "id": "7f47765d-3004-4e36-b4a3-9dcc38e3adee",
+        "title": "Mthree \u2013 Junior Software Developer",
+        "active": true,
+        "date_updated": 1736196373,
+        "date_posted": 1736196373,
+        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4431281006",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/WileyEdge",
         "is_visible": true,
         "sponsorship": "Other"
     }
