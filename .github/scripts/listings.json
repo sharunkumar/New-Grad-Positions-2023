@@ -23470,7 +23470,7 @@
         "company_name": "State Street",
         "id": "554475c6-8756-4779-92c9-1b1141a543a8",
         "title": "Software Engineer I \u2013 Senior Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1734711324,
         "date_posted": 1734711324,
         "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I---Senior-Associate---Charles-River-Development-6_R-756578",
@@ -23734,6 +23734,54 @@
             "Birmingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/c0d581f7-6346-4205-96a6-0fb804352421",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "4ddfb593-3472-4ff7-8377-58b1eac4ca2b",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1736382092,
+        "date_posted": 1736382092,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7803940002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "9f31a2a9-393e-4279-bd17-2cc854ede402",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1736382083,
+        "date_posted": 1736382083,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7803897002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nominal",
+        "id": "7e3b60a6-f135-4385-9e58-2168e89cdf29",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1736381706,
+        "date_posted": 1736381706,
+        "url": "https://jobs.lever.co/nominal/3a4d77de-ec7e-44c7-ae86-2f5a6f0dccf0/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nominal",
         "is_visible": true,
         "sponsorship": "Other"
     }
