@@ -23800,5 +23800,21 @@
         "company_url": "https://simplify.jobs/c/Samsara",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsara",
+        "id": "f2ef53e6-04c7-4d4b-b781-65b7099782de",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1736468556,
+        "date_posted": 1736468556,
+        "url": "https://www.samsara.com/company/careers/roles/6527192?gh_jid=6527192",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsara",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
