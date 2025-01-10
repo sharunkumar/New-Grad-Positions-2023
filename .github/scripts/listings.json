@@ -23832,5 +23832,37 @@
         "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roblox",
+        "id": "12af84df-23ad-4016-a6ff-e16368c531b2",
+        "title": "Software Engineer \u2013 New Grad - Frontend",
+        "active": true,
+        "date_updated": 1736491967,
+        "date_posted": 1736491967,
+        "url": "https://careers.roblox.com/jobs/6302370?gh_jid=6302370",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roblox",
+        "id": "299e003c-b697-4ce2-be93-9864cb28742c",
+        "title": "Software Engineer \u2013 New Grad - Security",
+        "active": true,
+        "date_updated": 1736491922,
+        "date_posted": 1736491922,
+        "url": "https://careers.roblox.com/jobs/6302313?gh_jid=6302313",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
