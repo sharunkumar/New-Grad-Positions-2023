@@ -125,8 +125,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Visa** | Software Engineer – New College Grad | San Mateo, CA | 🔒 | Nov 26 |
 | **Replit** | Software Engineer – New Grad 2025 | San Mateo, CA | 🔒 | Nov 26 |
 | **Grand Rounds** | Software Engineer – 2025 New College Grad - Treat Team | Remote in USA | 🔒 | Nov 25 |
-| **Twitch** | Software Engineer I - IOS | SF | 🔒 | Nov 23 |
-| **Twitch** | Software Engineer I - IOS | Seattle, WA | 🔒 | Nov 23 |
+| **[Twitch](https://simplify.jobs/c/Twitch)** | Software Engineer I - IOS | SF | <a href="https://job-boards.greenhouse.io/twitch/jobs/7742635002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ee7e8ba7-6ca0-4110-863b-c908acf0512f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 23 |
+| **[Twitch](https://simplify.jobs/c/Twitch)** | Software Engineer I - IOS | Seattle, WA | <a href="https://job-boards.greenhouse.io/twitch/jobs/7735059002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1172d19a-8d02-4b7d-b308-aab9ea5f17d7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 23 |
 | **Twitch** | Software Engineer I - IOS | NYC | 🔒 | Nov 23 |
 | **Horace Mann** | Software Engineer I | Springfield, IL | 🔒 | Nov 22 |
 | **PlayStation Global** | Junior Server Software Engineer | London, UK | 🔒 | Nov 22 |
@@ -145,7 +145,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Collaborative Robotics](https://simplify.jobs/c/Collaborative-Robotics)** | Software Engineer – University Grad - Test | Santa Clara, CA | <a href="https://boards.greenhouse.io/collaborativerobotics/jobs/4585344007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3ebd406d-f301-4f9e-ba78-0b08cdd6ad54?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 20 |
 | **ConnectWise** | Software Engineer I | Florida | 🔒 | Nov 20 |
 | **[Kikoff](https://simplify.jobs/c/Kikoff)** | Software Engineer - Recent College Graduate | San Francisco, CA | <a href="https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
-| **[Nike](https://simplify.jobs/c/Nike)** | Software Engineer I | Beaverton, OR | <a href="https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I_R-41366?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0ce13a5a-83e5-47ed-9881-0c4aac584fa5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 19 |
+| **Nike** | Software Engineer I | Beaverton, OR | 🔒 | Nov 19 |
 | **PVM** | Junior Full Stack Developer | Remote in USA | 🔒 | Nov 19 |
 | **Salesforce** | Associate Data Scientist – New Grad - Data & Analytics | Indianapolis, IN</br>Dallas, TX</br>Atlanta, GA | 🔒 | Nov 19 |
 | **[Kikoff](https://simplify.jobs/c/Kikoff)** | Software Engineer – Recent College Graduate | SF | <a href="https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/27cc8c3f-c592-4e44-a1dc-093891d04163?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 18 |
