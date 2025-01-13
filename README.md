@@ -268,7 +268,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[WeRide](https://simplify.jobs/c/WeRide)** | New Grads 2025 - Software Engineer - Computer Vision/Deep Learning | San Jose, CA | <a href="https://jobs.lever.co/weride/871b07f9-b4e4-4a4e-a5ec-d6adf794fc5a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/89936ca8-3004-4613-9cbc-677a399096c9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 16 |
 | **Adobe** | 2025 University Graduate - Software Development Engineer | Seattle, WA</br>San Jose, CA | 🔒 | Oct 16 |
 | **Adobe** | 2025 University Graduate - Software Development Engineer | San Jose, CA | 🔒 | Oct 16 |
-| **[Splunk](https://simplify.jobs/c/Splunk)** | C++ Software Engineer – Early Career - Boulder - CO - January 2025 or sooner start date | Boulder, CO | <a href="https://jobs.jobvite.com/splunk-careers/job/oFXGufww?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f2367b5a-f837-4457-b707-c2e1d40c31c0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 15 |
+| **Splunk** | C++ Software Engineer – Early Career - Boulder - CO - January 2025 or sooner start date | Boulder, CO | 🔒 | Oct 15 |
 | **Koddi** | Junior Software Engineer Cohort | Fort Worth, TX | 🔒 | Oct 15 |
 | **Floqast** | Software Engineer I | Remote in USA | 🔒 | Oct 14 |
 | **Amazon** | Software Dev Engineer I - Redshift | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | Oct 14 |
