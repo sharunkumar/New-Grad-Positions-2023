@@ -23880,5 +23880,23 @@
         "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lennar Corporation",
+        "id": "c563478a-4d41-4cff-a2a9-974161fa40d5",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1736800204,
+        "date_posted": 1736800204,
+        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Machine-Learning-Engineer-I_R24_0000002870",
+        "locations": [
+            "Bentonville, AR",
+            "Miami, FL",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
