@@ -20485,7 +20485,7 @@
         "company_name": "Splunk",
         "id": "f2367b5a-f837-4457-b707-c2e1d40c31c0",
         "title": "C++ Software Engineer \u2013 Early Career - Boulder - CO - January 2025 or sooner start date",
-        "active": true,
+        "active": false,
         "date_updated": 1729005628,
         "date_posted": 1729005628,
         "url": "https://jobs.jobvite.com/splunk-careers/job/oFXGufww?nl=1&nl=1&fr=false",
@@ -23862,6 +23862,104 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "eca188d0-cb91-4444-ae59-e42e87e1120b",
+        "title": "Associate \u2013 New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1736801242,
+        "date_posted": 1736801242,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R205487",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lennar Corporation",
+        "id": "c563478a-4d41-4cff-a2a9-974161fa40d5",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1736800204,
+        "date_posted": 1736800204,
+        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Machine-Learning-Engineer-I_R24_0000002870",
+        "locations": [
+            "Bentonville, AR",
+            "Miami, FL",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "b3736a23-6196-4654-b5f0-c91644ec1efa",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1736800898,
+        "date_posted": 1736800898,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Oklahoma-City-OK/Software-Engineer-I_R89009",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Whoop",
+        "id": "e6cd877f-8c12-4b1d-81d0-55b0dcab11b4",
+        "title": "Android Engineer I - Member Experience",
+        "active": true,
+        "date_updated": 1736801095,
+        "date_posted": 1736801095,
+        "url": "https://jobs.lever.co/whoop/4b7dd77d-571c-492e-bc7c-2388d8479d1b/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genuine Parts Company",
+        "id": "f56c3d19-8e1b-4d0e-91e7-0406f74ea710",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1736802530,
+        "date_posted": 1736802530,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-I_R24_0000031833",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "56a526fa-75c9-493d-af2e-1fa5600c4308",
+        "title": "University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1736813495,
+        "date_posted": 1736813495,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2025-University-Graduate---Software-Engineer_R150092",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other"
     }
