@@ -23946,5 +23946,21 @@
         "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "56a526fa-75c9-493d-af2e-1fa5600c4308",
+        "title": "University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1736813495,
+        "date_posted": 1736813495,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2025-University-Graduate---Software-Engineer_R150092",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
