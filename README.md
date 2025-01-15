@@ -126,7 +126,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Nuro** | Software Engineer – New Grad - AI Platform | Mountain View, CA | 🔒 | Dec 05 |
 | **Adobe** | University Graduate - Software Engineer | SF</br>San Jose, CA | 🔒 | Dec 03 |
 | **Parsons** | Software Engineer 1 | Odenton, MD | 🔒 | Dec 03 |
-| **[Spotify](https://simplify.jobs/c/Spotify)** | Data Engineer I - Licensing | Remote in USA | <a href="https://jobs.lever.co/spotify/51782633-a977-4831-a4d6-bda3b5c156d0/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4a2225a9-2f7a-4b96-8844-4e8847292ffc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 02 |
+| **Spotify** | Data Engineer I - Licensing | Remote in USA | 🔒 | Dec 02 |
 | **PDI Technologies** | Software Engineer I | Maidenhead, UK | 🔒 | Nov 29 |
 | **PDI Technologies** | Software Engineer I | Maidenhead, UK | 🔒 | Nov 29 |
 | **Okta** | Software Engineer – New Graduate - Android - Okta Personal | Toronto, ON, Canada | 🔒 | Nov 27 |
