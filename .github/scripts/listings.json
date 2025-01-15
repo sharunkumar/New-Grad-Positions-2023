@@ -23994,5 +23994,39 @@
         "company_url": "https://simplify.jobs/c/Floqast",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "f1138aa2-833a-42e0-b5d3-6fb0ac863414",
+        "title": "Software Engineer - Frontend - Early in Career",
+        "active": true,
+        "date_updated": 1736900379,
+        "date_posted": 1736900379,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oXFfvfw6?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "637ee7c0-fbcb-4ea9-91c0-1727a53ee094",
+        "title": "C++ Software Engineer - Early in Career",
+        "active": true,
+        "date_updated": 1736900328,
+        "date_posted": 1736900328,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oMEfvfwU?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
