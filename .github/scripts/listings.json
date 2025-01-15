@@ -24028,5 +24028,37 @@
         "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "d5e1ae33-2945-420a-94e0-10239d92b3e6",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1736958385,
+        "date_posted": 1736958385,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Junior-Data-Scientist_R-00151334",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Payments",
+        "id": "cf070fda-bf08-43e5-9935-9702f41f798e",
+        "title": "Mainframe Software Engineer I",
+        "active": true,
+        "date_updated": 1736958015,
+        "date_posted": 1736958015,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I_R0057996",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
