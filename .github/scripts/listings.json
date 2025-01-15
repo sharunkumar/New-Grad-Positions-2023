@@ -4319,7 +4319,7 @@
         "company_name": "Palantir",
         "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": true,
+        "active": false,
         "date_updated": 1719861792,
         "date_posted": 1719847211,
         "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
@@ -4335,7 +4335,7 @@
         "company_name": "Palantir",
         "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": true,
+        "active": false,
         "date_updated": 1719847210,
         "date_posted": 1719847210,
         "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
@@ -22889,7 +22889,7 @@
         "company_name": "Spotify",
         "id": "4a2225a9-2f7a-4b96-8844-4e8847292ffc",
         "title": "Data Engineer I - Licensing",
-        "active": true,
+        "active": false,
         "date_updated": 1733171449,
         "date_posted": 1733171449,
         "url": "https://jobs.lever.co/spotify/51782633-a977-4831-a4d6-bda3b5c156d0/apply",
@@ -23566,7 +23566,7 @@
         "company_name": "TLNT & Spin",
         "id": "aadfd443-02b9-4295-b1c1-f2afa40bc5db",
         "title": "Founding Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1734999682,
         "date_posted": 1734999682,
         "url": "https://jobs.lever.co/tlnt/93780719-ca06-4d43-888a-e6b5d5a55cd4/apply",
@@ -24026,6 +24026,38 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "d5e1ae33-2945-420a-94e0-10239d92b3e6",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1736958385,
+        "date_posted": 1736958385,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Junior-Data-Scientist_R-00151334",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Payments",
+        "id": "cf070fda-bf08-43e5-9935-9702f41f798e",
+        "title": "Mainframe Software Engineer I",
+        "active": true,
+        "date_updated": 1736958015,
+        "date_posted": 1736958015,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I_R0057996",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
         "is_visible": true,
         "sponsorship": "Other"
     }
