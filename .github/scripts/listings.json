@@ -23978,5 +23978,55 @@
         "company_url": "https://simplify.jobs/c/Fox",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Floqast",
+        "id": "8ed6a7cd-0ec7-4e21-9a1d-b62aaf72d352",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1736899741,
+        "date_posted": 1736899741,
+        "url": "https://jobs.lever.co/floqast/feadc20d-3127-488c-8108-e9c658bb2f21/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Floqast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "f1138aa2-833a-42e0-b5d3-6fb0ac863414",
+        "title": "Software Engineer - Frontend - Early in Career",
+        "active": true,
+        "date_updated": 1736900379,
+        "date_posted": 1736900379,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oXFfvfw6?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "637ee7c0-fbcb-4ea9-91c0-1727a53ee094",
+        "title": "C++ Software Engineer - Early in Career",
+        "active": true,
+        "date_updated": 1736900328,
+        "date_posted": 1736900328,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oMEfvfwU?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
