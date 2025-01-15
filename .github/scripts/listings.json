@@ -23978,5 +23978,21 @@
         "company_url": "https://simplify.jobs/c/Fox",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Floqast",
+        "id": "8ed6a7cd-0ec7-4e21-9a1d-b62aaf72d352",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1736899741,
+        "date_posted": 1736899741,
+        "url": "https://jobs.lever.co/floqast/feadc20d-3127-488c-8108-e9c658bb2f21/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Floqast",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
