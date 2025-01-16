@@ -24076,5 +24076,21 @@
         "company_url": "https://simplify.jobs/c/Broadcom-Limited",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GitHub",
+        "id": "92b92362-b7e4-4282-a3ae-eb7616da101e",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1737059656,
+        "date_posted": 1737059656,
+        "url": "https://githubinc.jibeapply.com/jobs/3933?lang=en-us&icims=1",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GitHub",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
