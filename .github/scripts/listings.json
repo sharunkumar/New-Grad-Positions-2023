@@ -22697,7 +22697,7 @@
         "company_name": "Horace Mann",
         "id": "6f7a550e-0a5c-4b80-9544-e4564a913655",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1732307313,
         "date_posted": 1732307313,
         "url": "https://boards.greenhouse.io/horacemannservicecorporation/jobs/5366274004",
@@ -24138,6 +24138,22 @@
             "Burlington, VT"
         ],
         "company_url": "https://simplify.jobs/c/Vermont-Information-Processing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia Group",
+        "id": "d57ae861-251c-4145-80c4-ad6886a52c9c",
+        "title": "Mobile Engineer I - Android",
+        "active": true,
+        "date_updated": 1737146924,
+        "date_posted": 1737146924,
+        "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Mobile-Engineer-I---Android_R-92695-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
         "is_visible": true,
         "sponsorship": "Other"
     }
