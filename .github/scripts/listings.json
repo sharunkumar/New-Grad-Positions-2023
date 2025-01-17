@@ -24124,5 +24124,21 @@
         "company_url": "https://simplify.jobs/c/Becton-Dickinson",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vermont Information Processing",
+        "id": "7cbd5f81-73f0-41d0-8edb-93ead6477b93",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1737145904,
+        "date_posted": 1737145904,
+        "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing/jobs/4627310007",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Vermont-Information-Processing",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
