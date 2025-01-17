@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Expedia Group](https://simplify.jobs/c/Expedia-Group)** | Mobile Engineer I - Android | Seattle, WA | <a href="https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Mobile-Engineer-I---Android_R-92695-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d57ae861-251c-4145-80c4-ad6886a52c9c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 17 |
 | **[Vermont Information Processing](https://simplify.jobs/c/Vermont-Information-Processing)** | Software Engineer 1 | Burlington, VT | <a href="https://job-boards.greenhouse.io/vipvermontinformationprocessing/jobs/4627310007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7cbd5f81-73f0-41d0-8edb-93ead6477b93?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 17 |
 | **[Becton Dickinson](https://simplify.jobs/c/Becton-Dickinson)** | Software Engineer I | Sparks, MD | <a href="https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I----Hybrid-_R-507466-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3866720d-61e6-4cb2-a420-424bfc4cd0d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 17 |
 | **Wiley Edge** | Développeur génie logiciel / Junior Software Developer | Montreal, QC, Canada | 🔒 | Jan 17 |
@@ -145,7 +146,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Twitch** | Software Engineer I - IOS | SF | 🔒 | Nov 23 |
 | **Twitch** | Software Engineer I - IOS | Seattle, WA | 🔒 | Nov 23 |
 | **Twitch** | Software Engineer I - IOS | NYC | 🔒 | Nov 23 |
-| **Horace Mann** | Software Engineer I | Springfield, IL | 🔒 | Nov 22 |
+| **[Horace Mann](https://simplify.jobs/c/727e9c32-2e2f-4325-819c-ef2ee50dffdb)** | Software Engineer I | Springfield, IL | <a href="https://boards.greenhouse.io/horacemannservicecorporation/jobs/5366274004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6f7a550e-0a5c-4b80-9544-e4564a913655?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 22 |
 | **PlayStation Global** | Junior Server Software Engineer | London, UK | 🔒 | Nov 22 |
 | **PlayStation Global** | Junior Server Software Engineer | London, UK | 🔒 | Nov 22 |
 | **Hootsuite** | Junior Software Developer - Devops | Calgary, AB, Canada</br>Edmonton, AB, Canada</br>Vancouver, BC, Canada | 🔒 | Nov 22 |
