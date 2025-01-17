@@ -22921,7 +22921,7 @@
         "company_name": "Adobe",
         "id": "c31a7242-0fb4-4229-bd77-58677e700dac",
         "title": "University Graduate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1733258214,
         "date_posted": 1733258214,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-University-Graduate---Software-Engineer_R149689",
@@ -24106,6 +24106,22 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/WileyEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Becton Dickinson",
+        "id": "3866720d-61e6-4cb2-a420-424bfc4cd0d3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1737101854,
+        "date_posted": 1737101854,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I----Hybrid-_R-507466-1",
+        "locations": [
+            "Sparks, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
         "is_visible": true,
         "sponsorship": "Other"
     }
