@@ -4788,7 +4788,7 @@
             "Chicago, IL, USA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "source": "Simplify",
         "id": "1b0eb1c1-2d61-4e8a-bef5-58ad7e362554",
         "date_posted": 1720558816,
@@ -24050,7 +24050,7 @@
         "company_name": "Global Payments",
         "id": "cf070fda-bf08-43e5-9935-9702f41f798e",
         "title": "Mainframe Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1736958015,
         "date_posted": 1736958015,
         "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I_R0057996",
